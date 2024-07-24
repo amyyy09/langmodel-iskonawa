@@ -4,11 +4,17 @@ import pandas as pd
 from langdetect import detect
 
 def procesarOracion(bloque):
+    """
+        Function created by Harvy Martínez (@xnehil)
+    """
     #Quitar espacios en blanco
     bloque = bloque.strip()
     return bloque
 
 def leerTxt(ruta="../textos", data={}):
+    """
+        Function created by Harvy Martínez (@xnehil)
+    """
     primera = True
     id = locutor = transcripcion =  palabras = traduccionLibre = traduccionPalabra = morfologia = pos =""
 
@@ -20,7 +26,7 @@ def leerTxt(ruta="../textos", data={}):
             #Saltar el archivo 'textos/DICCIONARIOISKONAWA7.txt' porque no es un archivo de texto
             if filename == 'DICCIONARIOISKONAWA7.txt':
                 continue
-            with open('../textos/'+filename, encoding='utf-8') as file:
+            with open(ruta+'/'+filename, encoding='utf-8') as file:
                 #Se lee el archivo
                 transcripcion = file.read()
                 #Por cada linea en el archivo
@@ -88,17 +94,20 @@ def leerTxt(ruta="../textos", data={}):
         }
 
 def leerEaf(ruta="../textos", data={}):
+    """
+        Function created by Harvy Martínez (@xnehil)
+    """
     #Solo se leen los archivos que no han sido procesados como .txt
     archivos = []
     for filename in os.listdir(ruta):
         if filename.endswith('.eaf'):
-            if not os.path.exists('../textos/'+filename[:-4]+'.txt'):
+            if not os.path.exists(ruta+'/'+filename[:-4]+'.txt'):
                 archivos.append(filename)
 
     for filename in archivos:
         locutor = texto = palabras = traduccionLibre= traduccionPalabra = morfologia = pos = id = None
         dentro_tier = False
-        with open('../textos/'+filename, encoding='utf-8') as file:
+        with open(ruta+'/'+filename, encoding='utf-8') as file:
             texto = file.read()
             annotation_id = None
             #Cada archivo eaf es un xml. Nos interesa el valor de los atributos 'ANNOTATION_VALUE' de los elementos 'TIER' que tengan el atributo 'TIER_ID' igual a 'trsx@algo'
@@ -181,10 +190,15 @@ def leerEaf(ruta="../textos", data={}):
                         dentro_tier = True
 
 def clean_text(text):
+    """
+        Function created by Amy Trujillo (@amyyy09)
+    """
     return re.sub(r'\(\d\)', '', text).strip()
 
 def parse_txt(file):
-    #Función de Amy Trujillo para leer el diccionario
+    """
+        Function created by Amy Trujillo (@amyyy09)
+    """
     data = []
     with open(file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -244,21 +258,26 @@ def parse_txt(file):
 
 
 def is_spanish(text):
+    """
+        Function created by Harvy Martínez (@xnehil)
+    """
     try:
         return detect(text) == 'es'
     except:
         return False
     
-def leerCorpus(limpiar=True):
+def leerCorpus(ruta="../textos", limpiar=True):
+    """
+        Function created by Harvy Martínez (@xnehil)
+    """
     data = {}
-    leerTxt(data=data)
-    leerEaf(data=data)
+    leerTxt(ruta=ruta, data=data)
+    leerEaf(ruta=ruta, data=data)
     df = pd.DataFrame(data).transpose().reset_index(drop=True)
-    df_diccionario = parse_txt('../textos/DICCIONARIOISKONAWA7.txt')
     #Limpiar 
     if limpiar:
         print(f"Antes de limpiar: {df.shape}")
-        df = df[~df['texto'].apply(is_spanish)]
+        df = df[~df['transcription'].apply(is_spanish)]
         print(f"Después de limpiar: {df.shape}")
     return df
 

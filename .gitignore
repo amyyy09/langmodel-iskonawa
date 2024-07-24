@@ -1,6 +1,10 @@
+# Ignore source files
 *.txt
 *.xlsx
 *.eaf
 *.csv
 *.docx
 *.pfsx
+
+# Ignore __pycache__ directory
+__pycache__/
