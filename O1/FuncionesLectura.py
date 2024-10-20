@@ -118,13 +118,19 @@ def leerEaf(ruta="../textos", data={}):
                     continue
                 #Buscar fin de tier
                 end_tier_match = re.search(r'</TIER>', line)
-                if end_tier_match:
-                    # print('End tier')
+                # Search for the self-closing tier pattern
+                self_closing_tier_match = re.search(r'<TIER\s+.*?/>', line)
+
+                # Check if either pattern is found
+                if end_tier_match or self_closing_tier_match:
                     dentro_tier = False
+                    # If it's a self-closing tier, ignore the line
+                    if self_closing_tier_match:
+                        continue
 
                 if dentro_tier:
                     if tier_id.startswith('trs@'):
-                        #Cosa de transcripción original
+                        #Transcripción original
                         alignable_annotation_match = re.search(r'<ALIGNABLE_ANNOTATION[^>]*ANNOTATION_ID="([^"]+)"', line)
                         if alignable_annotation_match:
                                 annotation_id = alignable_annotation_match.group(1)
@@ -160,10 +166,12 @@ def leerEaf(ruta="../textos", data={}):
                         if annotation_id is not None:
                             annotation_value_match = re.search(r'<ANNOTATION_VALUE>([^<]+)</ANNOTATION_VALUE>', line)
                             if annotation_value_match:
+                                annotation_id = None
                                 palabras = annotation_value_match.group(1)
                                 data[key]['text'] = palabras
                                 # print(key)
                                 annotation_id = None
+                                
                     elif tier_id.startswith('ft@'):
                         #Cosa de traducción
                         ref_annotation_match = re.search(r'<REF_ANNOTATION[^>]*ANNOTATION_ID="([^"]+)" ANNOTATION_REF="([^"]+)"', line)
@@ -179,7 +187,7 @@ def leerEaf(ruta="../textos", data={}):
                                 traduccion = annotation_value_match.group(1)
                                 # print(key)
                                 data[key]['free_translation'] = traduccion
-                                annotation_id = None
+                                
                 else:
                     #Buscamos primero un elemento 'TIER' que tenga el atributo 'TIER_ID' igual a 'trs@algo'
                     tier_match = re.search(r'<TIER[^>]*PARTICIPANT="([^"]+)"[^>]*TIER_ID="([^"]+)"', line)
@@ -188,6 +196,7 @@ def leerEaf(ruta="../textos", data={}):
                         tier_id = tier_match.group(2)
                         # print("Entrando en tier {} con locutor {} en archivo {}".format(tier_id, locutor, filename))
                         dentro_tier = True
+
 
 def clean_text(text):
     """
@@ -224,7 +233,7 @@ def parse_txt(file):
         elif line.startswith('\\ps'):
             current_entry['pos'] = line.strip('\\ps').strip()
             current_tag = None
-        elif line.startswith('\\gn'):
+        elif line.startswith('\\gn') and 'gloss_es' not in current_entry:
             if current_tag:
                 current_entry[current_tag] = ' '.join(current_value).strip()
             current_tag = 'gloss_es'
@@ -234,7 +243,7 @@ def parse_txt(file):
                 current_entry[current_tag] = ' '.join(current_value).strip()
             current_tag = 'gloss_es'
             current_value = [line.strip('\\rn').strip()]
-        elif line.startswith('\\dn'):
+        elif line.startswith('\\dn') and 'def_es' not in current_entry:
             if current_tag:
                 current_entry[current_tag] = ' '.join(current_value).strip()
             current_tag = 'def_es'
@@ -279,6 +288,84 @@ def leerCorpus(ruta="../textos", limpiar=True):
         print(f"Antes de limpiar: {df.shape}")
         df = df[~df['transcription'].apply(is_spanish)]
         print(f"Después de limpiar: {df.shape}")
+        df = df[df['transcription'].str.strip() != '']
+        
+    #Cualquier campo vacío o cadena vacía debe ser null
+    df = df.replace('', None)
+    df = df.replace('\\mb', None)
+    #Eliminar filas con None en id, speaker, transcription, free_translation, file
+    df = df.dropna(subset=['id', 'speaker', 'transcription', 'free_translation', 'file'])
+    print(f"Después de limpiar: {df.shape}")
+    #Id debe ser file sin la extensión seguido de un guión y el id
+    df['id'] = df['file'].str.replace('.txt' or '.eaf', '', regex=False) + '_' + df['id'].astype(str)
+
+    df = df[['id', 'speaker', 'transcription', 'text', 'morpheme_break', 'pos', 'gloss_es', 'free_translation', 'file']]
+
+    # Estándarizar las etiquetas POS
+    df = standardize_pos_tag(df)
+
+    df_monolingual = df[['id', 'speaker', 'transcription', 'morpheme_break', 'pos', 'file']]
+
+    df_bilingual = get_bilingual(df)
+
+    return df_monolingual, df_bilingual
+
+def get_bilingual(df):
+    """
+        Function created by amy Trujillo (@amyyy09)
+    """
+    
+    # Eliminar duplicados de transcription y gloss_es
+    df = df.drop_duplicates(subset=['transcription', 'gloss_es'])
+
+    # Eliminar columna speaker
+    df = df.drop(columns=['speaker', 'text'])
+
     return df
 
+def standardize_pos_tag(df):
+    """
+        Function created by Amy Trujillo (@amyyy09)
+    """
+    # Drop rows that have 'ps' in the pos column
+    df = df[~df['pos'].str.contains(r'\bps\b', na=False)]
 
+    # Define replacements
+    replacements = {
+        'sufv.intr': 'suf. v.intr',
+        'advv.intr': 'adv. v.intr',
+        'advv': 'adv. v',
+        'demadv': 'dem. adv',
+        'conec': 'conect',
+        'ide': 'ideo',
+        'int.v.tran': 'intj. v.tran',
+        'ono': 'onom',
+        'pre': 'prep',
+        'v.amb': 'v.ambi',
+        'v.int': 'v.intr',
+        'v.tran': 'v.tr',
+        'clitn': 'clit n',
+        'clitdem': 'clit dem',
+        'clitpart': 'clit part',
+        'clitv': 'clit v',
+        'int': 'intj',
+        'interj': 'intj',
+        'inter': 'intj',
+        'prom': 'pal.int',
+        'pal.intj': 'pal.int'
+    }
+
+    # Replace patterns in the pos column with exact word boundaries
+    for old, new in replacements.items():
+        df.loc[:, 'pos'] = df['pos'].str.replace(re.escape(old) + r'\b', new, regex=True)
+
+    # Remove semicolons
+    df.loc[:, 'pos'] = df['pos'].str.replace(';', '', regex=False)
+
+    # Replace any comma with a period
+    df.loc[:, 'pos'] = df['pos'].str.replace(',', '.', regex=False)
+
+    # Add a period after a letter that is followed by a space or the end of the line
+    df.loc[:, 'pos'] = df['pos'].str.replace(r'(?<=[a-zA-Z])(?=\s|$)', '.', regex=True)
+
+    return df
