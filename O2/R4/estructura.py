@@ -101,6 +101,9 @@ class WordEntry:
         # If mb or pos is a list, return word tokens with mb and pos still empty
         if isinstance(self.mb, list) or isinstance(self.pos, list):
             for token in word_tokens:
+                # if token includes "ininteligible", ignore it
+                if "ininteligible" in token:
+                    continue
                 new_word_entries.append(WordEntry(word=token, mb=None, pos=None))
             return new_word_entries
 
@@ -257,11 +260,20 @@ class Corpus:
         for entry in self.entries[:]:
             entry.text = entry.text.lower()
 
+            # remove "ininteligible" from the text
+            entry.text = re.sub(r'\bininteligible\b', '', entry.text)
+
             # Split the text into words and check if the entry should be removed based on word length
             words = entry.text.split()
             if len(words) < min_length:
                 self.entries.remove(entry)
                 continue
+
+            # drop punctuation
+            entry.text = re.sub(r'[^\w\s]', '', entry.text)
+
+            # drop ( ) and [ ] and { }
+            entry.text = re.sub(r'[\(\)\[\]\{\}]', '', entry.text)
 
             # Add unique entries to the list
             if remove_duplicates and entry.text not in unique_texts:
