@@ -210,6 +210,20 @@ class Corpus:
         entries_str = "\n".join([str(entry) for entry in self.entries])
         return f"{entries_str}"
 
+    def get_words(self, unique=False):
+        """
+        Returns a list of all words in the corpus.
+
+        Args:
+            unique (bool, optional): Whether to return only unique words. Defaults to False.
+
+        Returns:
+            list: A list of all words in the corpus.
+        """
+
+        words = [word_entry.word for entry in self.entries for word_entry in entry.words]
+        return list(set(words)) if unique else words
+        
     def add_entry(self, entry):
         """
         Adds an entry to the corpus.
