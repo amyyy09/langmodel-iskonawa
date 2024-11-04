@@ -1,488 +1,11 @@
-# Output from Morfessor Baseline 2.0.6, 2024-10-29 16:43:29
+# Output from Morfessor Baseline 2.0.6, 2024-11-03 20:39:25
 1 ;
-1 A
-1 Ah
-1 A + ha
-1 A + hon
-1 A + ho + ra
-1 A + ho + ya
-1 A + há
-1 Ah + í
-1 Ah + ón
-1 Ain
-1 Ain + ka
-1 Ain + ka + ma
-1 Ain + o + a
-1 Ain + oah
-1 A + ja
-1 Ajá
-1 A + ka + n
-1 Akasa + bira
-1 A + ki
-1 A + ki + kena
-1 A + kin
-1 A + kin + kena + no + hon + ki
-1 A + kin + ra
-1 A + kon + bires
-1 A + kopi
-1 Andrea
-1 A + ni
-1 A + ni + rokoki
-1 A + non
-1 Antonio
-1 Antonio + betan
-1 A + po + yan + ti
-1 A + ra
-1 A + res
-1 A + res + kai
-1 A + res + riki + ma
-1 A + ribi
-1 A + riki
-1 Aristides
-1 Arnal + do
-1 Arístides
-1 Aska
-1 Aska + hon
-1 Aska + ra
-1 Aska + ti
-1 A + sí
-1 Atal + aya
-1 A + tian
-1 A + ti + bi
-1 A + ti + ribi
-1 A + ti + ribi + ra
-1 A + to
-1 A + ton
-1 A + tsa
-1 A + tsa + ka
-1 A + tsa + ribi
-1 A + wa
-1 A + wa + ti
-1 Awe
-1 Awe + i + ki
-1 Awe + n
-1 Awe + rano
-1 Awe + ra + to + ki + ki
-1 Awe + ti
-1 Awin + ya + ma + kin
-1 Awá
-1 Aya
-1 Aya + baini
-1 Aya + hon
-1 Aya + i
-1 Aya + ki
-1 Aya + kin
-1 Aya + ti
-1 B + a + ki + sh
-1 B + ana
-1 B + ana + hon
-1 Barbaran
-1 B + a + ta
-1 Be + be + ri
-1 Be + ha
-1 Be + ho + hoko
-1 Bene
-1 Bene + ficio
-1 Bene + ka
-1 Bene + ti
-1 Be + ro + sh
-1 Be + sh + ta + ta + ma
-1 Be + tsi
-1 Be + tsy
-1 B + i + ai
-1 B + i + kasi
-1 Bob + ahon
-1 B + o + kon
-1 Calleria
-1 Calleria + n
-1 Calleria + nko
-1 Calleria + ri
-1 Campos
-1 C + hain
-1 Champe + hon
-1 C + hi + chó
-1 Chihoi
-1 Chihoi + n
-1 Chikish + ai
-1 Chikish + ma
-1 Chitoma
-1 Chitoma + ha
-1 C + ho + pa
-1 Choran
-1 Choran + ka
-1 Cinco
-1 Colonia
-1 C + o + me
-1 Comunican + ti
-1 Comunidad
-1 Dooh
-1 Dos
-1 Dulce
-1 Ea
-1 Eah
-1 Eah + bi + ribi
-1 Eah + ra
-1 Ea + ra
-1 Ea + ribi
-1 Edelv + ina
-1 Eh
-1 Eh + e
-1 Eh + pi + ti
-1 En
-1 En + a
-1 En + bi + ka
-1 En + e
-1 En + imai
-1 En + ton + c + es
-1 E + pa
-1 Ewah
-1 Ewah + on
-1 Ewe
-1 Ewe + hon
-1 Ewe + n
-1 Ewe + ri
-1 Falso
-1 Ha
-1 Ha + a
-1 Ha + bi
-1 Ha + bira
-1 Ha + bira + pari + ka
-1 Ha + bo
-1 Ha + ha + ha + ha + i
-1 Ha + i
-1 Ha + i + n
-1 Hainoa
-1 Hainoa + h
-1 Hainoa + n
-1 Hainoa + ribi
-1 Ha + i + res
-1 Ha + ki
-1 Ha + ko + i
-1 Ha + kon
-1 Ha + kopi
-1 Ha + kopi + ri
-1 Hanebo
-1 Hanebo + nin
-1 Hanebo + ra
-1 Hanebo + ton + ki
-1 Ha + no + bo + ton + ki
-1 Ha + n + shin
-1 Ha + ra
-1 Ha + ri
-1 Ha + ri + ka
-1 Ha + riki
-1 Ha + ronki
-1 Ha + shin
-1 Haska
-1 Haska + i
-1 Haska + ra
-1 Haska + ra + bo
-1 Haska + ra + riki
-1 Haska + ti
-1 Ha + tian
-1 Ha + ton
-1 Ha + ton + tan + i
-1 Hawe
-1 Hawe + a + tiki
-1 Hawe + ba + chi
-1 Hawe + ki
-1 Hawe + n
-1 Hawe + rano
-1 Hawe + tiki
-1 Hawe + tsi + ki
-1 Ha + wi
-1 Hehe
-1 Hehe + n
-1 Heki
-1 Heki + wisha + ke
-1 H + e + ta
-1 H + hm
-1 H + ina + ro
-1 Hirir + ma + n
-1 Hmh
-1 Ho
-1 Ho + ai
-1 Ho + bo
-1 Ho + ho
-1 Ho + i + hon
-1 Ho + ko + hoko
-1 Ho + sho
-1 H + é + cho + ma
-1 I
-1 I + bo + ma
-1 I + cha
-1 I + cha + riki
-1 I + chá
-1 I + ka
-1 I + ke + r + ani + ka
-1 I + ki
-1 I + na
-1 I + na + n
-1 I + no
-1 I + res + a + ma + ka
-1 I + ro
-1 I + sht + on
-1 I + s + ka
-1 Isko
-1 Isko + bakebo
-1 Isko + bakebo + ri
-1 Isko + bo
-1 Isko + n
-1 Isko + nawa
-1 Isko + nawa + bira
-1 Isko + nawa + bires
-1 Isko + n + ka
-1 I + ti + ha + ke
-1 I + w + ahako
-1 Jack
-1 J + ain
-1 Jeberson
-1 Jefa
-1 Jo + na + s
-1 Jo + s + é
-1 Kahe
-1 Kahe + ah
-1 Kahe + oma
-1 Kahe + ti
-1 Kahe + ti + ah
-1 K + ahon
-1 K + a + ke
-1 K + a + kin
-1 Kamo
-1 Kamo + te
-1 Kanas + ta
-1 K + a + ri
-1 K + awa + hon
-1 K + aya
-1 Ke + há
-1 Ke + na
-1 Ke + na + ti
-1 Ke + ná + ki
-1 Ke + pan
-1 Kioa
-1 Kirinko
-1 Kirinko + n
-1 Kishii + hon
-1 K + iwa
-1 K + o + bi + ahon
-1 K + o + han
-1 Kohren
-1 Koronian
-1 Lima
-1 Lima + n
-1 Ma
-1 Ma + h + ka
-1 Ma + hko
-1 Ma + hkái
-1 Ma + ko + ra + n + ti
-1 Ma + ltra + ta + mi + en + to
-1 Ma + na
-1 Ma + na + n
-1 Ma + pa + ki
-1 Ma + pó
-1 Ma + ri + a
-1 Ma + st + oma
-1 Ma + to
-1 Mats + o + a
-1 Mats + oai
-1 Mats + ohon + ki
-1 Mats + o + i
-1 Mats + o + ki + ka + n
-1 Mats + o + kin
-1 Mats + o + ribi + ai
-1 Me
-1 Mhm
-1 Mi
-1 Mi + a
-1 Mi + a + ra
-1 Mi + a + ribi
-1 Mi + cha
-1 Mi + cha + pakeheko
-1 Mi + guel
-1 Mi + hi + ra
-1 Mi + ki + ri + ka
-1 Mi + n
-1 Mi + n + ahon
-1 Mi + n + a + kin
-1 Mi + n + ka
-1 Mi + ra + ka + meh + ekoa
-1 Mi + ra + n
-1 Mi + si + onero + nin
-1 Mo + a
-1 Mo + a + ra
-1 Mo + a + tian
-1 Mo + ha + ka
-1 Mo + ri
-1 Mo + toro
-1 Nativa
-1 Nato
-1 Nato + ki
-1 Nato + ra
-1 Nato + ti
-1 Nato + ti + o
-1 N + awa
-1 N + awa + n
-1 N + aya
-1 Neke
-1 Neke + hon
-1 Neke + ribi
-1 Neli + ta
-1 N + e + no
-1 Neska
-1 Neska + ra + ribi
-1 Neska + shama + ribi
-1 N + i
-1 Nin + ka + we
-1 Nin + ka + yamai
-1 No
-1 No + a
-1 No + a + bires
-1 No + ah
-1 No + a + ka
-1 No + a + ra
-1 No + e
-1 No + e + li
-1 N + oin + mera
-1 No + i + ta + pai
-1 No + kon
-1 No + n
-1 No + n + kai + bo
-1 No + wa
-1 O + a
-1 O + chi
-1 O + cho + cha
-1 O + e
-1 O + ha + no
-1 O + ha + non
-1 O + ina
-1 O + i + ni
-1 O + i + non
-1 O + i + n + ya + ma + bo + bi
-1 O + ke
-1 O + s + ain
-1 O + s + ani
-1 O + to + ke + nia
-1 Pa
-1 Pa + e + ki
-1 Pa + ha
-1 Pa + ni
-1 Pa + n + pi + hiko
-1 Pa + n + shin
-1 Pa + o
-1 Pa + pi + ki
-1 Pa + ra + n + ti
-1 P + en
-1 Pepé
-1 P + e + sh + tin + hon
-1 P + ewe
-1 P + ewe + hon
-1 Pi + a
-1 Pi + a + bi + a
-1 Pi + ai
-1 Pi + bi
-1 Pi + ti
-1 Pi + we
-1 Pi + ya + i
-1 Po + a
-1 Po + ta + baini + hon
-1 Po + to + shama
-1 Po + tó
-1 Po + yan
-1 Proyec + to
-1 Pucall + pa
-1 P + u + ro
-1 Quiere
-1 Qué
-1 Ra + be
-1 Ra + b + é
-1 Ra + ke + tima
-1 Ra + ma
-1 Ra + ma + bi + ma
-1 Ra + mábimá
-1 Ra + oh
-1 Roberto
-1 Roberto + ka
-1 Rodríguez
-1 Rome
-1 Rome + bi + ki + ki
-1 Rowa
-1 Rowa + shinan + kin
-1 S + an
-1 S + ena + n
-1 Senen
-1 S + he + ati
-1 Shinan + beno + tai
-1 Shinan + hon
-1 Shipi
-1 Shipi + bo
-1 Shipi + bo + betan
-1 Shipi + bo + n
-1 S + i
-1 Soria
-1 S + ón + ta + ro
-1 Tae
-1 Tama
-1 Tama + ka + n
-1 Tama + kesa
-1 Tama + ki
-1 Tama + ro + ro + ki
-1 T + an + ka + n
-1 T + a + shi
-1 T + awa
-1 Te + n + ton
-1 Te + pa + chi + we
-1 Tingo
-1 T + o + a
-1 T + oke + pari
-1 T + oma
-1 Toris + to + bo
-1 Tsimo
-1 Tsomo
-1 W + a + cho
-1 W + ai
-1 W + awa + ti
-1 W + ene
-1 Wetsa
-1 Wetsa + bo
-1 Wetsa + ka
-1 Wetsa + ka + n
-1 Wetsa + ki
-1 Wetsa + nko
-1 Wetsa + oni + hhikio
-1 Wetsá
-1 Wetsá + bo
-1 W + i + tsa + ka
-1 Xeai
-1 Xobo
-1 Xobo + rewan
-1 Y
-1 Ya
-1 Ya + e
-1 Ya + e + ki
-1 Ya + m + é
-1 Ya + n + tan + kaini
-1 Ya + ri + na
-1 Yo
-1 Yo + a
-1 Yo + a + bo
-1 Yo + be + yama
-1 Yo + be + ya + ton
-1 Yo + i + mis + ke
-1 Yo + i + non
-1 Yo + i + ribi
-1 Yo + i + we
-1 Yo + n + ahon
-1 Yo + ra
-1 Yo + sh + an + hako
-1 Yo + shi + a
-1 Yo + wa + shi + ma
-1 Yo + we + ya + ton
-1 a
+2 a
 1 aaa
 1 aaa + ah + hhh
 1 aaa + hhh
 1 a + ba
-1 a + ba + i
+1 a + bai
 1 a + bain
 1 a + ba + ni
 1 a + banon
@@ -509,10 +32,10 @@
 1 adornos
 1 a + eh
 1 afaninga
-1 agente
+1 agen + te
 1 agua
-1 ah
-1 a + ha
+2 ah
+2 a + ha
 1 ahako
 1 ahako + ti + riki
 1 a + he + a
@@ -520,7 +43,7 @@
 1 ah + hhh
 1 ah + i
 1 ah + i + noa
-1 ahon
+2 ahon
 1 ahon + bi
 1 ahon + i
 1 ahon + ka
@@ -530,23 +53,24 @@
 1 ahon + ra
 1 ahon + we
 1 ah + o + pai + ka
-1 ahoya
+1 ah + o + ra
+2 ahoya
 1 ahoya + i
-1 ah + u + ma + ba
-1 ah + u + ma + do
-1 a + há
-1 ah + í
-1 ah + ón
+1 ahu + ma + ba
+1 ahu + ma + do
+2 a + há
+2 ahí
+2 ahón
 1 ai
 1 ai + a
-1 ai + a + n + akesa
+1 ai + a + na + kesa
 1 ai + ba
 1 ai + bake
 1 ai + bo + ma
 1 ai + ka + ribi
 1 ai + ki
 1 ai + ma + ti + ri
-1 ain
+2 ain
 1 ain + bi
 1 ain + bira
 1 ainbo
@@ -561,20 +85,20 @@
 1 ain + hon + bi
 1 ain + hon + ka
 1 ain + hon + ki
-1 ain + ka
-1 ain + ka + ma
+2 ain + ka
+2 ain + ka + ma
 1 ain + ki
 1 ain + ma
 1 ain + ma + hako
-1 ain + ma + na + ma
-1 ainoa
-1 ai + noah
-1 ai + noah + ka
+1 ainmanama
+2 ainoa
+2 ainoa + h
+1 ainoa + h + ka
 1 ainoa + ra
 1 ainoa + ribi
 1 ainoa + ronki
 1 ainoa + x
-1 ai + nohon
+1 ain + ohon
 1 ain + ra
 1 ain + res
 1 ain + res + kai
@@ -585,8 +109,8 @@
 1 ai + tian
 1 ai + ya + i
 1 ai + yo + ki
-1 a + ja
-1 ajá
+2 aja
+2 ajá
 1 a + ka
 1 a + ka + betin
 1 a + ka + bi
@@ -600,7 +124,7 @@
 1 a + ka + ki
 1 a + ka + ma + i
 1 a + ka + ma + ka
-1 akan
+2 akan
 1 akan + a
 1 a + kanai
 1 akan + i
@@ -611,63 +135,67 @@
 1 a + ka + ra
 1 a + ka + ri
 1 a + ka + ribi
+1 akas + a + bira
 1 a + kasai
 1 akashamai
 1 a + kasi
 1 a + kasi + ri
-1 a + ka + s + ka + ki
-1 a + ka + s + kin
+1 akas + ka + ki
+1 akas + kin
 1 a + kati
 1 akatiai
 1 a + ka + ton
 1 a + ke
 1 a + ke + ni
-1 akesa
-1 akesa + bo
-1 akesa + hon + ka
-1 akesa + timari
-1 aketani
+1 a + kesa
+1 a + kesa + bo
+1 a + ke + s + ahon + ka
+1 a + kesa + ti + mari
+1 a + ke + tani
 1 a + ketian
 1 a + ke + wai + ki
-1 a + ki
+2 a + ki
 1 a + ki + a
 1 a + ki + betin
 1 a + ki + ka
-1 a + ki + kena
+2 a + ki + kena
 1 a + ki + ki
 1 a + ki + kin
-1 a + kin
-1 a + kin + ka
-1 a + kin + kin
-1 a + kin + ra
-1 a + kin + we
-1 a + kin + yama
+2 akin
+1 akin + ka
+1 akin + kena + n + ohon + ki
+1 akin + kin
+2 akin + ra
+1 akin + we
+1 akin + yama
 1 a + ki + ribi
 1 a + ko
 1 a + ko + ki
-1 a + kon
-1 a + kon + ki
-1 a + kon + ribi
-1 a + kopi
+1 akon
+1 akon + bires
+1 akon + ki
+1 akon + ribi
+2 a + kopi
 1 a + kopi + ka
 1 a + kopí + kai
 1 a + kopí + ki
 1 a + ku + pi
 1 a + ku + pi + ra
 1 a + ká
-1 al
-1 al + go
+1 a + l
+1 algo
 1 a + ma
 1 a + ma + r + ra + do
 1 a + me + n
 1 a + mi
 1 a + mis
-1 an
+1 a + n
 1 ana
 1 anai
 1 ana + kin
-1 ana + n
+1 anan
 1 a + nato
+1 andrea
 1 ane
 1 aneber + anai
 1 ane + hon + pake
@@ -676,7 +204,7 @@
 1 ane + ki
 1 ane + riki
 1 a + neska
-1 ani
+2 ani
 1 ani + a
 1 ani + a + riki
 1 ani + bira
@@ -687,34 +215,36 @@
 1 ani + ke
 1 ani + ki
 1 ani + ma + le + s
-1 ani + ma + ri + bo
+1 ani + mari + bo
 1 ani + n
 1 ani + n + ewa
 1 ani + o + ma + bo
 1 ani + o + si
 1 ani + ribi
-1 ani + rokoki
-1 ani + ten + a + ma
-1 an + ka
-1 an + kati
-1 an + ka + ya
-1 an + no
+2 ani + rokoki
+1 ani + te + na + ma
+1 anka
+1 anka + ti
+1 anka + ya
+1 a + n + no
 1 a + no
-1 a + noa + bi
-1 a + nohon
+1 a + noabi
+1 anohon
 1 a + noi
 1 a + noi + ra
-1 a + non
-1 an + pok + ohon
-1 an + si
+2 a + non
+1 a + n + pokohon
+1 a + n + si
+1 antonio
+1 antonio + betan
 1 a + o
-1 aokame + a
-1 aokame + ta
+1 a + o + ka + me + a
+1 a + o + ka + me + ta
 1 aokeah
 1 aokeah + bira
 1 a + on
 1 apabano
-1 a + pa + hon
+1 ap + ahon
 1 a + pai
 1 apakea
 1 a + pake + ke
@@ -726,16 +256,16 @@
 1 a + paoti
 1 a + paoti + a
 1 a + pari
-1 a + pa + ti
+1 ap + ati
 1 a + pi + ai
-1 a + po + yan + kin
-1 a + po + yan + ti
+1 a + poyan + kin
+2 a + poyan + ti
 1 apoyar
 1 apoyar + me
 1 a + po + yo
 1 a + r
-1 a + ra
-1 arabas
+2 a + ra
+1 a + ra + ba + s
 1 a + ra + ka + n
 1 arana
 1 arana + bi
@@ -743,132 +273,144 @@
 1 arasi + bi
 1 arasi + res
 1 arasi + ta + bi
-1 a + res
+2 a + res
 1 a + res + ka
-1 a + res + kai
+2 a + res + kai
 1 a + res + ki + ra
 1 a + res + ra
+1 a + res + r + i + ki + ma
 1 a + ri
-1 a + ri + ba + hon
-1 aribai
-1 aribai + ka
+1 arib + ahon
+1 arib + ai
+1 arib + ai + ka
 1 a + ri + bake
-1 a + ri + ba + ra + i
-1 a + ribi
+1 arib + a + ra + i
+2 a + ribi
 1 a + ribi + ki
-1 a + riki
+2 a + riki
 1 a + ri + sh
+1 aristides
+1 arnal + do
 1 a + rokoki
 1 a + r + on + kai
 1 a + ronki
 1 a + ronki + a
-1 a + shi
+1 arístides
+1 a + sh + i
 1 a + shina
-1 a + shi + n + ka
+1 a + sh + i + n + ka
 1 a + sh + pa + ketere
-1 a + s + iente
+1 a + si + en + te
 1 a + si + n
 1 a + si + ro + ro
-1 aska
-1 aska + hon
+2 aska
+2 aska + hon
 1 aska + hon + ki
 1 aska + kati
-1 aska + kati + an
+1 aska + kati + a + n
 1 aska + ke
 1 aska + kin
-1 aska + ra
+2 aska + ra
 1 aska + ra + bo
 1 aska + ra + ribi + ki
 1 aska + ribi
 1 aska + ta
-1 aska + ti
+2 aska + ti
 1 aska + ti + ronki
 1 aska + we
 1 aska + yamai
 1 a + s + ki + kin
-1 a + sí
+2 así
+1 a + ta + l + aya
 1 a + tana
 1 a + tana + i
-1 a + tan + i
+1 a + tani
 1 atankanwe
 1 a + tan + sh + ina + hon
-1 a + t + a + pa
+1 a + ta + pa
 1 ati
-1 a + tian
+2 a + tian
 1 a + tian + ka
 1 a + tian + ki
-1 ati + bi
+2 ati + bi
 1 ati + bi + ki
 1 ati + biri
-1 a + tiki
-1 a + tima
-1 a + timari
-1 ati + pa + n + ka
-1 ati + pa + nke
-1 atipanyama
-1 atipanyama + i
-1 atipanyama + ke
+1 ati + ki
+1 ati + ma
+1 ati + mari
+1 atipan + ka
+1 atipan + ke
+1 atipan + yama
+1 atipan + yamai
+1 atipan + yama + ke
 1 ati + pa + yamai
 1 ati + ra
 1 ati + res
+1 ati + ribi
+1 ati + ribi + ra
 1 ati + ti + bi
 1 ati + yama
-1 a + to
+2 a + to
 1 a + to + ki
-1 a + ton
+2 a + ton
 1 a + ton + bi
-1 a + tsa
-1 a + tsa + bana + ke
-1 a + tsa + ka
-1 a + tsa + ka + n
+2 atsa
+1 atsa + bana + ke
+2 atsa + ka
+1 atsa + ka + n
 1 a + tsama + hon
-1 a + tsa + nke + ra
-1 a + tsa + riki
+1 atsa + n + ke + ra
+1 atsa + ribi
+1 atsa + riki
 1 a + u
 1 a + u + h
 1 aviso
-1 awa
-1 awa + hon
-1 awa + na
-1 awa + nke
-1 awa + ti
-1 awe
+2 a + wa
+1 a + wa + hon
+1 a + wan + a
+1 a + wa + n + ke
+2 a + wa + ti
+2 awe
 1 awe + a
 1 awe + ahon
+1 awe + i + ki
 1 awe + kesa
 1 awe + kesa + tiki
 1 awe + keska
 1 awe + ki
 1 awe + ki + ki
-1 awe + n
-1 awe + rano
-1 awe + rano + hon + ki
+2 awe + n
+2 awerano
+1 awerano + hon + ki
+1 awe + ra + to + ki + ki
 1 aweraton
 1 awe + ri
-1 awe + ti
+2 awe + ti
 1 a + wi
 1 awin
 1 awin + bi
 1 awin + i + n
 1 awin + ka
 1 awin + ki
+1 awin + yama + kin
 1 awin + ya + ton + ka
 1 a + witsa + hako + na + hain
-1 awá
+2 awá
 1 awín
 1 a + xe + bi + ribi
 1 a + xe + bo
 1 ay
-1 aya
+2 aya
 1 aya + a
+1 aya + baini
 1 aya + bain + ke
-1 aya + hon
-1 aya + i
+2 aya + hon
+2 aya + i
 1 aya + i + kati + ma + ki
 1 aya + i + ri
 1 aya + ke
-1 aya + ki
-1 aya + kin
+2 aya + ki
+2 aya + kin
 1 aya + kin + ka
 1 ayama
 1 ayama + hon + i
@@ -882,8 +424,8 @@
 1 aya + paoni
 1 aya + ri + bi + hon
 1 aya + ribi + ke
-1 aya + tanon
-1 aya + ti
+1 aya + ta + non
+2 aya + ti
 1 aya + we
 1 ay + ayoki
 1 ay + ayoki + ma
@@ -895,32 +437,32 @@
 1 a + yo + ma
 1 ayuda
 1 ayuda + n + ka + n + ti
-1 ayó
+1 ay + ó
 1 añosy + a + bira + ka
-1 ba + ba
-1 ba + ba + bo
-1 ba + ba + bo + n
-1 ba + ba + ka
-1 ba + ba + n
+1 baba
+1 baba + bo
+1 baba + bo + n
+1 baba + ka
+1 baba + n
 1 ba + chi
 1 ba + cho
 1 ba + cho + hoko
 1 ba + cho + n
 1 ba + chó
 1 ba + ho
-1 ba + i
+1 bai
 1 bake
 1 bake + a
 1 bake + ai
 1 bake + betan
 1 bakebo
-1 bakebo + an
+1 bakebo + a + n
 1 bakebo + betan + hon
 1 bakebo + n
 1 bakebo + n + ki
-1 bakeheko
-1 bakeheko + bi
-1 bakeheko + bo + n
+1 bake + heko
+1 bake + heko + bi
+1 bake + heko + bo + n
 1 bake + i + ba
 1 bake + ka
 1 bake + kesa
@@ -929,27 +471,27 @@
 1 bake + n
 1 bake + pa
 1 bake + ra
-1 bake + rano
-1 bake + rano + bo + ki
-1 bake + rano + ki
+1 bakerano
+1 bakerano + bo + ki
+1 bakerano + ki
 1 bake + riki
-1 bake + tima
-1 bake + tima + tian
+1 bake + ti + ma
+1 bake + ti + ma + tian
 1 bake + wai
-1 bakish
+2 bakish
 1 bakish + bi
 1 bakish + i
 1 bakish + pake + kaini
 1 ba + ko + ma
 1 ba + ko + ma + ra
-1 ba + kon
-1 ba + kon + ka
-1 ba + kon + res
-1 bana
+1 bakon
+1 bakon + ka
+1 bakon + res
+2 bana
 1 bana + bi
-1 bana + bi + ri + bí
+1 bana + biri + bí
 1 bana + hako
-1 bana + hon
+2 bana + hon
 1 bana + i
 1 bana + i + tian
 1 bana + kasi
@@ -958,40 +500,41 @@
 1 bana + kopi
 1 bana + ma + i
 1 bana + n
-1 bana + nohon
+1 bana + n + ohon
 1 bana + non
 1 bana + pae
 1 bana + pae + ki
-1 bana + tanon
+1 bana + ta + non
 1 bana + tanwe
 1 bana + tanwe + n
 1 bana + ti
 1 bana + ya
 1 bana + yamai
-1 ba + ne + a
-1 b + ane + i
-1 ba + ne + ka + nke
-1 ba + neke
-1 ba + neke + ra + nke
-1 ba + ne + ni
-1 baneta
-1 ba + ri
-1 ba + ri + an
-1 ba + ri + pake + i
-1 ba + ri + pa + ketian
-1 ba + ri + tian
+1 bane + a
+1 bane + i
+1 bane + ka + n + ke
+1 bane + ke
+1 bane + ke + ra + n + ke
+1 bane + ni
+1 bane + ta
+1 barbaran
+1 bari
+1 bari + a + n
+1 bari + pake + i
+1 bari + pa + ketian
+1 bari + tian
 1 ba + sh + pá
-1 ba + si
-1 ba + si + ka
-1 ba + si + ma + bi
-1 ba + si + res + i
-1 ba + stante
-1 ba + ta
-1 ba + ta + i + ro
-1 ba + ta + shama
+1 basi
+1 basi + ka
+1 basi + ma + bi
+1 basi + res + i
+1 ba + s + tan + te
+2 bata
+1 bata + i + ro
+1 bata + shama
 1 ba + wa
 1 ba + wi
-1 ba + ña + r
+1 bañar
 1 be
 1 be + a
 1 be + ai
@@ -999,17 +542,18 @@
 1 beba + bo
 1 beba + hon + ti
 1 beba + is + ma
-1 beba + nohon
+1 beb + anohon
 1 beba + ti + ka
-1 be + beh + ne
+1 beb + eh + ne
 1 be + be + kin
-1 be + be + re + rewan
-1 be + be + ri
-1 beh
-1 be + ha
-1 beh + ai
-1 beh + ná
-1 beh + oh
+1 beb + ere + rewan
+2 beberi
+1 be + h
+2 be + ha
+1 be + ha + i
+1 be + h + n + á
+1 behoh
+1 behoh + o + ko
 1 be + hon
 1 be + hon + ki
 1 be + hon + rokoki
@@ -1032,12 +576,12 @@
 1 bena + ke
 1 bena + kin
 1 bena + res
-1 bene
+2 bene
 1 bene + betan
 1 bene + bo
-1 bene + ficio
+2 beneficio
 1 bene + hoko + a
-1 bene + ka
+2 bene + ka
 1 bene + ma + ka + na
 1 bene + ma + ke
 1 bene + me
@@ -1047,17 +591,18 @@
 1 bene + pai + n
 1 bene + ra
 1 bene + ribi
+1 bene + ti
 1 bene + wan
 1 bene + ya
 1 bene + ya + hon
 1 be + ni
 1 beno
-1 be + noah
+1 beno + ah
 1 beno + kain + ai
 1 beno + m + akatiai
 1 be + n + san
-1 be + ná
-1 be + n + é + n + ka
+1 be + n + á
+1 be + nén + ka
 1 be + pon + hon
 1 be + ra
 1 beran
@@ -1065,31 +610,32 @@
 1 be + ro
 1 be + ro + bo + bi
 1 be + ro + ra
-1 be + ro + sh
+2 be + ro + sh
 1 be + san
-1 be + sh + ta + ta + ma
+2 beshtatama
 1 be + so
 1 betan
-1 be + ten
+1 be + te + n
 1 betin
 1 be + tsa
 1 be + tsa + hako
 1 be + tsa + uni + betan
+1 be + tsi
 1 be + tso + si
-1 be + tsy
+2 betsy
 1 be + wai
 1 b + ewe + i
 1 bewá
-1 bewá + hi + ma
+1 bewá + hima
 1 bewá + ma
 1 bewá + tiki
 1 be + xoan
 1 bi
 1 bi + a
-1 bi + ai
+2 bi + ai
 1 biankana
 1 biankana + ka
-1 bi + ba + tanon
+1 bi + bata + non
 1 bi + beran
 1 bi + beran + kin
 1 bi + bi + ti
@@ -1097,12 +643,12 @@
 1 bi + cho
 1 bi + hon
 1 bi + hon + ketian
-1 bi + hon + tan + kin
+1 bi + hon + tanki + n
 1 bi + hon + tanwe
 1 bi + hon + tanwe + n
-1 bi + ka + nke
+1 bi + ka + n + ke
 1 bi + ka + n + we
-1 bi + kasi
+2 bi + kasi
 1 bi + ke
 1 bi + ki
 1 bi + kin
@@ -1125,9 +671,9 @@
 1 biri + ri
 1 bi + sh + ko + a
 1 bi + tan
-1 bi + tan + ki
-1 bi + tan + kin
-1 bi + tanon
+1 bi + tanki
+1 bi + tanki + n
+1 bi + ta + non
 1 bi + tanwe
 1 bi + ti + yama
 1 bi + tsa
@@ -1140,15 +686,15 @@
 1 bo + a + bi + ki
 1 bo + ai
 1 bo + a + ka
-1 bo + ba
-1 bo + ba + hon
-1 bo + ba + hon + bi
-1 bo + ba + i
-1 bo + ba + i + ka
-1 bo + ba + isin + o + a
-1 bo + ba + n
+1 boba
+2 boba + hon
+1 boba + hon + bi
+1 boba + i
+1 boba + i + ka
+1 boba + i + si + noa
+1 boba + n
 1 bo + banon
-1 bo + ba + ya
+1 boba + ya
 1 bo + chi + ki + kaini + ribi
 1 bo + cho
 1 bo + cho + ketian
@@ -1164,7 +710,7 @@
 1 bo + ka + na + ka
 1 bo + ka + ni
 1 bo + ka + ni + ka
-1 bo + ka + nke
+1 bo + ka + n + ke
 1 bo + ka + n + we
 1 bo + k + atankanwe
 1 bo + ke
@@ -1172,13 +718,13 @@
 1 bo + kin + ka
 1 bo + kompana
 1 bo + kompana + i
-1 bo + kon
-1 bo + kon + ewan + ki
-1 bo + kon + ewan + ribi + ki
+2 bokon
+1 bokon + ewan + ki
+1 bokon + ewan + ribi + ki
 1 bo + ma
 1 bo + ni
 1 bo + non
-1 bo + shi
+1 bo + sh + i
 1 boshki
 1 boshki + ki
 1 boshti
@@ -1196,15 +742,19 @@
 1 buhka + ho
 1 buhka + hon
 1 buhka + i
-1 bu + shi + sh
-1 bu + tin
+1 bu + sh + ish
+1 bu + ti + n
 1 bu + x + ka
 1 calabaza
-1 calleria
-1 ca + na + s + ta
+2 calleria
+1 calleria + n
+1 calleria + nko
+1 calleria + ri
+1 campos
+1 ca + nas + ta
 1 ca + n + tan + do
 1 ca + s + a
-1 caste + lla + noi + tian
+1 cast + ella + noi + tian
 1 catorce + nin
 1 ca + ña
 1 cha
@@ -1216,14 +766,14 @@
 1 cha + ha + i
 1 cha + h + ka
 1 cha + ho
-1 cha + ho + ka + wan + tima
+1 cha + ho + kawantima
 1 cha + i
 1 cha + i + ka
-1 cha + i + n
+2 cha + i + n
 1 cha + i + n + ki
 1 cha + i + pa
 1 cha + i + pa + ki
-1 cha + i + sh
+1 cha + ish
 1 chaita
 1 chaita + betan
 1 chaita + nin
@@ -1233,14 +783,14 @@
 1 champeh + ai
 1 champeh + ain
 1 champeh + hon
-1 champeh + on
+2 champeh + on
 1 cha + m + pen + hon
 1 chan + a + ra + ka
 1 chan + chan
 1 chan + cho
 1 chan + i
-1 cha + nia
-1 cha + nia + ki
+1 chan + i + a
+1 chan + i + a + ki
 1 chan + ka
 1 chanpeh
 1 chanpeh + ai
@@ -1270,7 +820,9 @@
 1 chi + chi
 1 chi + cho
 1 chi + cho + kain + hon
-1 chi + chó
+2 chi + chó
+1 chi + hoi
+1 chi + hoi + n
 1 chi + ho + n + me
 1 chi + ho + ribi + ke
 1 chi + ho + ti
@@ -1278,41 +830,42 @@
 1 chi + ke + h + pi
 1 chikish
 1 chikish + a
-1 chikish + ai
+2 chikish + ai
 1 chikish + a + ma + i
 1 chikish + a + riki
 1 chikish + i + ma
 1 chikish + ke
-1 chikish + ma
-1 chi + ki + shoko
+2 chikish + ma
+1 chikish + o + ko
 1 chikish + shita
 1 chikish + yamai
 1 chi + ki + to
 1 chi + ko + i
 1 chi + koin
 1 chi + ko + ke
-1 chi + kospihiko
+1 chi + kospi + hiko
 1 chi + mena
-1 chi + n + a + bi
-1 chi + n + chi + n
+1 chi + na + bi
+1 chi + nchin
 1 chi + ni
 1 chi + ni + hiko + bain
-1 chi + n + oai
+1 chi + noa + i
 1 chi + pa
 1 chiponki
 1 chiponki + ri + shoko
-1 chi + pu + n + ki
+1 chi + pun + ki
 1 chi + qui + to
 1 chi + ra + n + ta + me + ti
-1 chi + sht + ahako
+1 chi + sh + t + ahako
 1 chi + te + i
 1 chi + te + ta
-1 chitoma
-1 chitoma + koin + ma + tin
+2 chitoma
+1 chitoma + ha
+1 chitoma + koin + ma + ti + n
 1 chitoma + ma + koin
-1 chitoma + ma + tin
+1 chitoma + ma + ti + n
 1 chitoma + pari
-1 cho + i + shi
+1 cho + ish + i
 1 cho + kai
 1 cho + ka + kin
 1 cho + ka + ma
@@ -1328,20 +881,21 @@
 1 chonchon + ma + n
 1 chonchon + ma + n + chonchon + ma + n
 1 chonchon + po + ka + ma
-1 cho + pa
+2 cho + pa
 1 cho + pa + bi
 1 cho + pa + oma
 1 cho + p + ayohma
-1 cho + ra + bain
-1 cho + ra + n
+1 chor + a + bain
+2 cho + ra + n
+1 chor + anka
 1 cho + ri
-1 cho + ri + sh
+1 chor + ish
 1 cho + ro
 1 cho + ro + a
-1 cho + ro + i + n
-1 cho + ro + n
-1 cho + ro + nke
-1 cho + shi + kaini
+1 chor + oin
+1 chor + on
+1 chor + on + ke
+1 cho + sh + i + kaini
 1 cho + si + kaini
 1 cho + tai
 1 cho + tai + ki + ki
@@ -1352,29 +906,32 @@
 1 chot + a + ki
 1 cho + ta + ma
 1 cho + ta + ma + ke
-1 chot + ani
+1 cho + tani
 1 chot + a + tian
 1 chu + pa
-1 chut + a + ke
-1 chut + a + ke + ti + a
-1 chut + a + pari
+1 chu + ta + ke
+1 chu + ta + ke + ti + a
+1 chu + ta + pari
+1 cinco
 1 coc + ina + do
+1 colonia
 1 comad + ra
-1 come
+2 come
 1 come + r
 1 comida
 1 comienzo
 1 como
-1 comunidad
+1 comunican + ti
+2 comunidad
 1 comía
 1 con
-1 con + ejo + keska + shoko
+1 con + e + jo + keska + shoko
 1 con + ta + do
 1 con + ta + r
 1 con + te + s + ta
 1 cosa
-1 crecer
-1 creci + do
+1 crec + er
+1 crec + i + do
 1 cria + do
 1 cria + r
 1 crié
@@ -1387,63 +944,72 @@
 1 da + k
 1 danzar
 1 de
-1 del
+1 de + l
 1 dent + ro
 1 di
 1 dice
-1 di + go
+1 digo
 1 dnio + ma
+1 do + oh
 1 do + ooo
-1 do + s
+2 do + s
+1 dulce
 1 e
-1 ea
+2 ea
 1 ea + bi + cho
-1 eah
+2 eah
+1 eah + bi + ribi
 1 eah + ka
 1 eah + ki
+1 eah + ra
 1 eah + ribi
 1 ea + ka
-1 e + akesa
+1 ea + kesa
 1 ea + ki
 1 ea + ma
-1 ea + ra
+2 ea + ra
+1 ea + ribi
 1 ea + riki
 1 e + bo
-1 e + e
-1 eee
-1 eh
+1 edelv + ina
+1 ee
+1 ee + e
+2 eh
 1 eh + bo + n + ma
-1 ehe
+2 ehe
 1 ehe + bo
 1 ehe + m
 1 eh + ko + hoko
+1 eh + pi + ti
 1 eh + ra
 1 e + ki
-1 e + lla
+1 ella
 1 e + ma + no + ki
-1 embor + ra + cha + ba
+1 emborrachaba
 1 e + me
 1 emenkiri
 1 emenkiri + bi
 1 emenkiri + bira
 1 emenkiri + hiko
 1 emenkiri + keska
-1 en
-1 ena
+2 en
+2 ena
 1 ena + n
 1 en + bi
-1 ene
+1 en + bi + ka
+2 ene
 1 ene + res + a
 1 ene + ta
-1 en + imai
+2 enimai
 1 en + ka
-1 e + no
+1 en + o
 1 en + ra
 1 en + ribi
 1 enrosca + do
 1 entash
+1 entonces
 1 entre
-1 epa
+2 epa
 1 epa + bo
 1 epa + bo + kai
 1 epa + boton
@@ -1463,12 +1029,13 @@
 1 estudian + ai
 1 estudian + kin
 1 está
-1 e + te
-1 e + te + bimi
+1 ete
+1 ete + bimi
 1 ewa
 1 ewa + boton
+1 ewa + h
 1 ewa + hako
-1 ewa + hon
+2 ewa + hon
 1 ewa + ki
 1 ewan
 1 ewan + kai
@@ -1476,14 +1043,14 @@
 1 ewa + ra
 1 ewa + ribi
 1 ewa + ya
-1 ewe
+2 ewe
 1 ewe + a
 1 ewe + a + betin
 1 ewe + ah
 1 ewe + ai
 1 ewe + a + riki
 1 ewe + betin
-1 ewe + hon
+2 ewe + hon
 1 ewe + hon + ma + bi
 1 ewe + i
 1 ewe + kasai
@@ -1493,29 +1060,30 @@
 1 ewe + ketian
 1 ewe + ki
 1 ewe + ku + ani
-1 ewe + n
+2 ewe + n
 1 ewe + n + hon
-1 ewe + nohon
+1 ewe + n + ohon
 1 ewe + non
 1 ewe + pai + n
 1 ewe + paoni
 1 ewe + pari + ke
 1 ewe + pari + ra + i
 1 ewe + res + a
-1 ewe + ri
+2 ewe + ri
 1 ewe + ribi + ke
 1 ewe + tanwe
 1 ewe + ti
 1 ewe + tiki
-1 ewe + tima
+1 ewe + ti + ma
 1 ewe + we
 1 eww + hon + ma + bi
 1 ewá
 1 explicó
 1 fal + leció
-1 fal + ta + ba
+1 fal + so
+1 fal + taba
 1 familia
-1 felizmente
+1 felizmen + te
 1 fiesta
 1 fiesta + ka
 1 fle + cha
@@ -1524,28 +1092,31 @@
 1 golpea
 1 grande
 1 grande + ka
-1 grup + oha + ke
+1 gru + po + ha + ke
 1 guaca + ma + yo
 1 gus + ta
-1 ha
-1 ha + aaa + a
-1 ha + bi
-1 ha + bira
+2 ha
+1 ha + a
+1 ha + a + aaa
+2 ha + bi
+2 ha + bira
 1 ha + bira + bo
+1 ha + bira + pari + ka
 1 ha + bires
 1 ha + bi + ribi
-1 ha + bo
+2 ha + bo
 1 ha + bo + n
 1 ha + bo + n + keska
 1 ha + cha
-1 ha + c + í + a
+1 ha + cía
 1 hae
 1 hae + i
 1 hae + kaini
 1 hae + ribi
+1 ha + ha + ha + ha + i
 1 ha + hon
-1 ha + i
-1 hain
+2 ha + i
+2 hain
 1 hain + bi
 1 hain + hiko
 1 hain + hon
@@ -1553,21 +1124,23 @@
 1 hain + hon + ra
 1 hain + hon + ronki
 1 hain + ka
-1 hain + ka + timari + n
+1 hain + ka + ti + mari + n
 1 hain + ki
 1 hain + ma
-1 hain + ma + na + ma
-1 hainoa
-1 hainoah
+1 h + ainmanama
+2 hainoa
+2 hainoah
 1 hainoah + ka
 1 hainoah + ki
 1 hainoah + ra
 1 hainoa + ka
 1 hainoa + ki
+1 hainoa + n
+1 hainoa + ribi
 1 hainoa + ribi + ka
-1 hainoax
-1 hainoax + ka
-1 hainoax + ki
+1 hainoa + x
+1 hainoa + x + ka
+1 hainoa + x + ki
 1 hain + o + ka
 1 hain + o + ra
 1 hain + ra
@@ -1576,6 +1149,7 @@
 1 hain + res + res
 1 hain + ribi
 1 hain + ronki
+1 ha + i + res
 1 ha + i + ri
 1 ha + ka
 1 ha + kai
@@ -1586,9 +1160,10 @@
 1 ha + ka + ti + ka
 1 ha + ke
 1 ha + ke + n
-1 ha + ki
+2 ha + ki
+1 hako + i
 1 ha + koin
-1 hakon
+2 hakon
 1 hakon + ka
 1 hakon + ma
 1 hakon + ma + ka
@@ -1599,7 +1174,8 @@
 1 hakon + shama + n + ki
 1 hakon + shama + ribi + riki
 1 hakon + shoko + a
-1 hako + pi
+2 hako + pi
+1 hako + pi + ri
 1 hako + s
 1 ha + ku
 1 ha + ma
@@ -1610,62 +1186,68 @@
 1 hana + hon + res + ki
 1 hana + i
 1 hana + we
-1 hane
-1 hanebo
+1 ha + ne
+2 hanebo
 1 hanebo + ka
 1 hanebo + ki
 1 hanebo + n
-1 hanebo + nin
+2 hanebo + nin
 1 hanebo + nin + ki
 1 hanebo + n + ki
-1 hane + boton
-1 hane + ri
-1 hane + ri + n
-1 han + kai
-1 han + kin
-1 han + kospihiko
-1 ha + no
-1 ha + no + bo
+1 hanebo + ra
+1 hanebo + ton
+1 hanebo + ton + ki
+1 ha + ne + ri
+1 ha + ne + ri + n
+1 ha + n + kai
+1 ha + n + kin
+1 ha + n + kospi + hiko
+1 hano
+1 hano + bo
+1 hano + bo + ton + ki
 1 ha + non
-1 ha + no + res
-1 han + serehe + ko
-1 han + shin
-1 han + sht + ahako
-1 han + so + yamai
+1 hano + res
+1 ha + nsere + heko
+2 ha + n + shin
+1 ha + n + sh + t + ahako
+1 ha + n + so + yamai
 1 ha + o + bi + cho
 1 ha + o + bires
 1 ha + o + bo
 1 ha + o + kesa
 1 ha + on
 1 ha + on + ori
-1 ha + pan + ati
+1 ha + pa + n + ati
 1 ha + pari
 1 ha + pe
 1 ha + pen
-1 ha + ra
+2 ha + ra
 1 ha + ra + gana
 1 ha + ra + ti
 1 ha + res
-1 ha + ri
+2 ha + ri
 1 ha + ribi
 1 ha + ribi + ka
-1 ha + riki
+1 ha + ri + ka
+2 ha + riki
 1 ha + ro
-1 ha + ronki
+2 ha + ronki
 1 ha + s
-1 ha + shin
-1 haska
+2 ha + shin
+2 haska
+1 haska + i
 1 haska + ke
 1 haska + ketian
 1 haska + ki
-1 haska + ra
-1 haska + ra + bi
-1 haska + ra + res + ki
-1 haska + ra + riki
+2 haskara
+1 haskara + bi
+1 haskara + bo
+1 haskara + res + ki
+2 haskara + riki
 1 haska + ri
 1 haska + tai
-1 haska + ti
-1 haska + ti + an + ka
+2 haska + ti
+1 haska + ti + anka
 1 haska + tian + ki
 1 haska + tiki
 1 haska + yamawe
@@ -1673,28 +1255,29 @@
 1 hate
 1 hate + a
 1 hate + a + ana
-1 hate + ana + na
+1 hate + anan + a
 1 hate + bain + a
 1 hate + i + n
 1 hate + ke
 1 hate + ni
 1 ha + ti
-1 ha + tian
+2 ha + tian
 1 ha + tian + bi
 1 ha + tian + ka
 1 ha + tian + ki
 1 ha + ti + bi
 1 ha + to
 1 ha + toh
-1 h + a + ton
+2 ha + ton
+1 ha + ton + tani
 1 haw + ain
 1 ha + wan
 1 ha + wan + kaini
-1 hawe
+2 hawe
 1 hawe + a + ki
 1 hawe + ati
-1 hawe + a + tiki
-1 hawe + ba + chi
+2 hawe + ati + ki
+2 hawe + ba + chi
 1 hawe + bi
 1 hawe + hon + i
 1 hawe + i + kai
@@ -1705,21 +1288,23 @@
 1 hawe + keska + ta
 1 hawe + keska + tai
 1 hawe + keska + tiki
-1 hawe + ki
+2 hawe + ki
 1 hawe + ma + bi + ki
-1 hawe + n
-1 hawe + rano
-1 hawe + rano + a + ki
+2 hawe + n
+2 h + awerano
+1 h + awerano + a + ki
 1 h + aweraton
 1 hawe + ri
 1 hawe + ribi
 1 hawe + ta + hon
 1 hawe + ti
-1 hawe + ti + an + bi
-1 haw + i
+1 hawe + ti + a + n + bi
+1 hawe + tiki
+1 hawe + tsi + ki
+2 haw + i
 1 haw + i + ribi
 1 haw + keska + ti + ri
-1 haw + án
+1 haw + á + n
 1 haw + é
 1 he
 1 he + a
@@ -1730,70 +1315,75 @@
 1 hechoma + ka
 1 hechoma + ribi
 1 he + chu + ma
-1 hehe
+2 hehe
 1 hehe + hehe
+1 hehe + n
 1 he + hon
 1 he + ke
 1 he + ke + sabe + ke
-1 he + ki
+2 he + ki
 1 he + ki + ka
+1 he + ki + wis + ha + ke
 1 he + ma
-1 heman
-1 heman + bira
-1 heman + biri
-1 hemb + ra
-1 hemos
+1 he + ma + n
+1 he + ma + n + bira
+1 he + ma + n + biri
+1 he + m + b + ra
+1 he + mo + s
 1 he + na
 1 he + na + mena
 1 he + ne
 1 he + neke
-1 henh + entash
-1 heni
-1 heni + bo
-1 heni + riki
+1 he + n + h + entash
+1 he + ni
+1 he + ni + bo
+1 he + ni + riki
 1 he + oh
 1 he + pa + kai
 1 he + pe + mis
 1 he + po
-1 he + po + bi + rá
+1 he + po + bi + r + á
 1 he + re
 1 he + re + mena
 1 he + ri + he + ri
 1 he + ri + koin + ma + ti
 1 hermano
 1 hermano + bo
-1 he + ta
+2 he + ta
 1 he + tan
-1 hete + ai
-1 hete + hon
-1 hete + i
+1 he + te + ai
+1 he + te + hon
+1 he + te + i
 1 he + ti + mana
 1 he + wa + hon
 1 he + wai
-1 hewis
-1 hi
+1 he + wis
+1 h + hm
+1 h + i
 1 hija
 1 hija + betan
 1 hiji + ta
-1 hi + ki
-1 hi + la + do
-1 hi + ma
-1 hi + mi
+1 h + i + ki
+1 h + i + la + do
+1 hima
+1 h + i + mi
 1 h + ina
+1 h + ina + ro
+1 hirir + ma + n
 1 h + iwi
 1 hm
-1 hm + h
+2 hmh
 1 h + mmm
-1 ho
+2 ho
 1 ho + a
 1 ho + a + banon
 1 ho + ah
 1 ho + a + ho + ai
 1 ho + ahon
-1 ho + ai
+2 ho + ai
 1 ho + ai + a
-1 ho + bo
-1 hoho
+2 ho + bo
+2 hoho
 1 hoho + ai
 1 hoho + a + ma
 1 hoho + a + ma + ka
@@ -1803,21 +1393,22 @@
 1 hoho + ka + ni
 1 hoho + ka + tsi
 1 hoho + mis + ka
-1 ho + i
-1 ho + i + ai
-1 ho + i + bires
-1 ho + i + es
-1 ho + i + hon
-1 h + oin
-1 ho + ja
+1 hoi
+1 hoi + ai
+1 hoi + bires
+1 hoi + es
+2 hoi + hon
+1 hoi + n
+1 ho + j + a
 1 ho + ka + hon
 1 ho + ke
 1 ho + ke + tian + ki
 1 hoko + a
+1 hoko + hoko
 1 hoko + hoko + ki
 1 hoko + n
 1 ho + neke
-1 hon + en + ah + ani
+1 hon + e + nahan + i
 1 hon + en + ahon + we
 1 hon + e + ta
 1 hon + e + xon + ki
@@ -1833,8 +1424,8 @@
 1 hon + i + we
 1 hon + ki
 1 hon + o
-1 hon + ro + hko
-1 hon + ta + hi
+1 hon + ro + h + ko
+1 hon + ta + h + i
 1 hon + ta + h + ke
 1 hon + tan
 1 hontapa
@@ -1852,10 +1443,10 @@
 1 ho + ro + ka
 1 ho + ro + n
 1 ho + ro + ribi
-1 ho + shi + axonai
+1 ho + shia + xon + ai
 1 ho + shin
 1 ho + shin + shama + n
-1 ho + sho
+2 ho + sho
 1 ho + shín + shama + n
 1 ho + ta
 1 ho + ta + bo
@@ -1873,18 +1464,19 @@
 1 hun + s
 1 hun + tan
 1 há
-1 i
+1 h + é + cho + ma
+2 i
 1 i + a
 1 i + a + ka
 1 i + a + ma
 1 i + a + ma + we
 1 i + a + ta
 1 i + a + ta + n + banon
-1 i + a + ta + nke
+1 i + a + ta + n + ke
 1 i + ba
 1 i + ba + bi + ribi
 1 i + bake
-1 i + ba + no
+1 ibano
 1 i + banon
 1 i + be
 1 i + be + ma
@@ -1892,33 +1484,33 @@
 1 i + be + ma + ke + ma
 1 i + betin
 1 i + bi
-1 i + bi + ka + n + ka
+1 i + bi + k + anka
 1 i + bi + ki
 1 i + bi + ra + i
 1 i + biri
 1 i + biri + ka
 1 i + bo
-1 i + bo + bo + an
+1 i + bo + bo + a + n
 1 i + bo + ka
 1 i + bo + ki
-1 i + bo + ma
+2 i + bo + ma
 1 i + bo + n
-1 i + cha
+2 i + cha
 1 i + cha + bi
 1 i + cha + ka
 1 i + cha + ma
 1 i + cha + ma + i
-1 i + cha + riki
+2 i + cha + riki
 1 i + cho
 1 i + cho + a
-1 i + cho + ro + n
+1 i + chor + on
 1 ichua
-1 i + chá
+2 i + chá
 1 i + do
 1 igual
 1 i + hon
 1 iiiiaaa
-1 i + ka
+2 i + ka
 1 i + ka + bi
 1 i + ka + bo
 1 ikah
@@ -1952,26 +1544,27 @@
 1 i + ke + bi + ka
 1 i + ke + h
 1 i + ke + ma
+1 i + ke + r + ani + ka
 1 i + ketian
 1 i + ketian + ki
-1 i + ki
+2 i + ki
 1 i + ki + betin
 1 i + ki + ka
-1 i + ki + ka + i + nke + bi
+1 i + ki + ka + i + n + ke + bi
 1 i + ki + ki
 1 i + ki + ko + ko + i
 1 i + ki + ma
 1 i + kin
 1 i + ki + nin
 1 i + kin + ki
-1 i + kin + tan + i
+1 i + kin + tani
 1 i + ki + ri
 1 i + ki + ribi
-1 i + kon
-1 i + kon + ri
+1 i + ko + n
+1 i + ko + n + ri
 1 i + ma
 1 i + ma + hon
-1 imai
+1 i + ma + i
 1 i + ma + ki
 1 i + ma + pari
 1 i + ma + t + ahako
@@ -1980,9 +1573,9 @@
 1 i + mi + bo
 1 i + mi + ki
 1 i + mis
-1 ina
-1 ina + a + ka + tin
-1 ina + a + kin
+2 ina
+1 ina + a + kati + n
+1 ina + akin
 1 ina + be + ka + h
 1 ina + bo
 1 ina + hon
@@ -1992,14 +1585,14 @@
 1 ina + kaini
 1 ina + ke
 1 ina + ketian
-1 inan
+2 inan
 1 inan + bake
 1 inan + bake + betan
 1 inan + ka
 1 inan + ketian
 1 inan + koin
 1 inan + we
-1 ina + ri + b + akatiai
+1 i + n + arib + akatiai
 1 ina + we
 1 indio
 1 i + ni
@@ -2007,15 +1600,15 @@
 1 i + n + ka
 1 i + n + ki + a + ma
 1 inkinkana
-1 i + no
+2 i + no
 1 i + no + bo + ki
 1 i + non
-1 i + ná
+1 iná
 1 i + o
-1 i + oke
+1 i + o + ke
 1 i + pa
 1 i + pai + a
-1 i + pan
+1 i + pa + n
 1 i + paoni
 1 i + paoni + bo
 1 i + paoni + i + ki
@@ -2040,6 +1633,7 @@
 1 irapairo + ra
 1 irapairo + ri
 1 i + res + a
+1 i + res + a + ma + ka
 1 i + res + i
 1 i + res + ka
 1 i + ri
@@ -2047,26 +1641,26 @@
 1 iriba + ronki
 1 iriba + we
 1 i + r + ma + no + betan
-1 i + ro
+2 i + ro
 1 i + ronki
 1 i + ro + ribi
 1 is + akan
 1 i + san
 1 isconahua + ki
-1 is + ha
-1 is + han + hon
-1 ishto + hoko + a
-1 ishto + ke
-1 ishto + ketian
-1 ishto + n
-1 ishto + n + k + ain + ki
-1 ishto + nke
-1 ishto + n + yama
-1 is + há
-1 isian + ka + ma + bo
-1 isin
-1 isin + yama
-1 iska
+1 ish + a
+1 ish + a + n + hon
+1 ish + to + hoko + a
+1 ish + to + ke
+1 ish + to + ketian
+2 ishton
+1 ishton + kain + ki
+1 ishton + ke
+1 ishton + yama
+1 ish + á
+1 i + si + anka + ma + bo
+1 i + si + n
+1 i + si + n + yama
+2 iska
 1 iska + hako + na + hain
 1 iska + hon
 1 iska + i
@@ -2078,37 +1672,40 @@
 1 iska + ribi + ai
 1 iska + ti
 1 iska + we
-1 isko
+2 isko
 1 isko + bake + ba + on
-1 isko + bakebo
+2 isko + bakebo
+1 isko + bakebo + ri
 1 isko + bi + cho
-1 isko + bo
+2 isko + bo
 1 isko + hoko
 1 isko + ka
 1 isko + ki
-1 isko + n
-1 isko + n + ai + sh
-1 isko + nawa
-1 isko + nawa + bires
-1 isko + nawa + i + shi
-1 isko + nawa + ribi
+2 isko + n
+1 isko + na + ish
+2 iskonawa
+1 iskonawa + bira
+2 iskonawa + bires
+1 iskonawa + ish + i
+1 iskonawa + ribi
 1 isko + n + bo
-1 isko + ro + me + a + ke
-1 isko + ro + me + bake
+1 isko + n + ka
+1 isko + rome + a + ke
+1 isko + rome + bake
 1 iskó
 1 i + so
 1 is + on
 1 i + so + res
-1 is + ti + bires
+1 i + sti + bires
 1 is + á + shoko
 1 i + tanwe
 1 i + ti
 1 i + tian
 1 i + tian + ka
 1 i + ti + bi
-1 i + ti + ha + ke
+2 i + ti + ha + ke
 1 i + tiki
-1 i + tima
+1 i + ti + ma
 1 i + tsa
 1 iwa
 1 iwa + bi + ka
@@ -2117,9 +1714,9 @@
 1 iwa + bo + bo + ka
 1 iwa + boton
 1 iwa + boton + ki
-1 iwa + hako
+2 iwa + hako
 1 iwa + na
-1 iwa + pakeheko + i
+1 iwa + pake + heko + i
 1 i + we
 1 iwi
 1 iwi + ka
@@ -2131,10 +1728,16 @@
 1 i + yamai
 1 i + yamawe
 1 i + yá
+1 jack
+1 j + ain
+1 jeberson
+1 jefa
 1 jefe
-1 jojo + i
-1 jojo + ka + tsi
-1 joyas
+1 jo + jo + i
+1 jo + jo + ka + tsi
+1 jo + nas
+1 jo + sé
+1 jo + ya + s
 1 juntos
 1 ka
 1 ka + bira
@@ -2144,24 +1747,26 @@
 1 kabiti + ma + ronki
 1 kabiti + oma
 1 ka + h
-1 kahe
-1 kahe + ah
+2 kahe
+2 kahe + ah
 1 kahe + ai
 1 kahe + ati
 1 kahe + bi
 1 kahe + ka
 1 kahe + ke
-1 kahe + oma
-1 kahe + oma + ribi
-1 kahe + oma + ribi + ki
+2 kaheoma
+1 kaheoma + ribi
+1 kaheoma + ribi + ki
 1 kahe + ribi + ke
 1 kahe + riki
+1 kahe + ti
+1 kahe + ti + ah
 1 kahe + we
 1 kahe + ya
-1 kahke
-1 kahke + ka
-1 kahke + ti
-1 ka + hon
+1 ka + h + ke
+1 ka + h + ke + ka
+1 ka + h + ke + ti
+2 ka + hon
 1 ka + hon + ka
 1 ka + hon + ki
 1 ka + hon + ro + ko
@@ -2173,7 +1778,7 @@
 1 kai + ka
 1 kai + ki
 1 kai + ma
-1 ka + imai
+1 kai + ma + i
 1 kai + ma + n
 1 kain
 1 ka + ina
@@ -2187,21 +1792,23 @@
 1 kai + tian
 1 ka + ka
 1 ka + kaini
-1 ka + ke
+2 ka + ke
 1 ka + ke + bi
 1 ka + ke + ki
 1 ka + ketian
-1 ka + kin
+2 ka + kin
 1 ka + ma
 1 ka + ma + pari
+1 ka + mo
 1 ka + mo + h
-1 ka + mo + te
+2 ka + mo + te
 1 ka + n
+1 ka + nas + ta
 1 ka + neke
 1 ka + ni
 1 ka + n + ka + n
 1 ka + n + oh + me
-1 ka + nohon
+1 ka + n + ohon
 1 ka + noko + i
 1 ka + noko + ta
 1 ka + non
@@ -2211,14 +1818,14 @@
 1 ka + po + hon
 1 kapé
 1 kapé + ka + ina
-1 ka + pó
+1 ka + p + ó
 1 ka + ra
 1 ka + ra + be + kin
 1 ka + res + i
 1 ka + res + ke
-1 ka + res + timari
+1 ka + res + ti + mari
 1 ka + rgakargan + ki
-1 ka + ri
+2 ka + ri
 1 ka + ri + bake
 1 ka + ribi
 1 ka + ri + ra
@@ -2228,9 +1835,9 @@
 1 ka + ronki
 1 ka + r + u
 1 kasi
-1 ka + s + ti + ko
+1 ka + sti + ko
 1 ka + tan
-1 ka + tan + i
+1 ka + tani
 1 ka + tan + shina
 1 ka + tan + ti
 1 ka + tanwe
@@ -2240,34 +1847,34 @@
 1 kati + ain + bi
 1 kati + ma
 1 kati + ma + ka
-1 ka + timari
+1 kati + mari
 1 kati + yama + ke
 1 ka + ton
 1 ka + tsa
 1 ka + tsa + re
 1 ka + tsa + ri
 1 ka + wa
-1 ka + wa + hon
+2 ka + wa + hon
 1 ka + wa + hon + bo
-1 ka + wan + ke
-1 ka + wan + tanon
-1 ka + wan + tima
+1 ka + wa + n + ke
+1 ka + wa + n + ta + non
+1 kawantima
 1 ka + wa + pake + ai
 1 ka + wa + pake + i
 1 ka + we
 1 ka + xon
-1 ka + ya
-1 ka + ya + bo
-1 ka + ya + bo + ribi
-1 ka + ya + boton
-1 ka + ya + i
-1 ka + ya + ki
+2 kaya
+1 kaya + bo
+1 kaya + bo + ribi
+1 kaya + boton
+1 kaya + i
+1 kaya + ki
 1 ka + yamai
-1 ka + ya + ma + tan
-1 ka + ya + ma + tan + we
+1 kaya + ma + tan
+1 kaya + ma + tan + we
 1 ka + yamawe
-1 ka + ya + ri
-1 ka + ya + ri + a + nko
+1 kaya + ri
+1 kaya + ri + a + nko
 1 ke + ahon
 1 ke + ani
 1 ke + bo
@@ -2280,12 +1887,12 @@
 1 ke + ha + yamai + bi + ribi
 1 ke + he + hon
 1 ke + he + ke
-1 ke + há
-1 ke + i + o + shi + nke
+2 ke + há
+1 ke + i + o + shin + ke
 1 ke + ka + ribi
-1 kena
+2 kena
 1 kena + anai
-1 kena + hi + ma
+1 kena + hima
 1 kena + i
 1 kena + i + ki
 1 kena + ka
@@ -2294,14 +1901,14 @@
 1 kena + ki
 1 kena + ma
 1 kena + ma + hon + ta + we
-1 kena + ma + timari
+1 kena + ma + ti + mari
 1 kena + mis
 1 kena + n + ana
 1 kena + n + hon
 1 ke + n + a + res + ra
 1 kena + tai
 1 kena + tanwe
-1 kena + ti
+2 kena + ti
 1 kena + tiki
 1 kena + yamai
 1 kene
@@ -2326,21 +1933,21 @@
 1 ke + n + kin + ki
 1 ke + n + oh
 1 ke + npainroa
-1 ke + n + pan
+1 ke + n + pa + n
 1 ke + n + sho + shoko
 1 kenti
 1 kenti + hiko
 1 kenti + hoko
 1 kenti + hoko + bi
 1 kenti + kai
-1 kentsin
-1 kentsin + ki
+1 ke + n + tsi + n
+1 ke + n + tsinki
 1 ke + n + yamai
-1 ke + ná
-1 ke + ná + ki
+1 kená
+2 kená + ki
 1 ke + n + é
 1 ke + o
-1 ke + pan
+2 ke + pa + n
 1 kesa
 1 kesa + ka
 1 kesa + ki
@@ -2362,15 +1969,15 @@
 1 ke + wa + ke
 1 ke + wa + ya
 1 ke + wi
-1 keyo
-1 keyo + a
-1 keyo + ai
-1 keyo + beran
+1 ke + yo
+1 ke + yoa
+1 ke + yo + ai
+1 ke + yo + beran
 1 ke + y + ohon + ronki
-1 keyo + ke
-1 keyo + kin + ka
-1 keyo + shina
-1 keyo + ta
+1 ke + yo + ke
+1 ke + yo + kin + ka
+1 ke + yo + shina
+1 ke + yo + ta
 1 ki
 1 ki + a
 1 ki + ki
@@ -2381,36 +1988,40 @@
 1 ki + mis + ha
 1 kin
 1 kin + i
+1 ki + o + a
 1 ki + o + pai
 1 ki + o + ta
 1 ki + ri + hiko
-1 ki + ri + kon
-1 ki + ri + nko + nin
+1 ki + ri + ko + n
+1 kirinko
+1 kirinko + n
+1 kirinko + nin
 1 ki + rí + nko + nin
+1 ki + sh + i + i + hon
 1 kishikain + i + ka
 1 kishikain + ribi + ke
 1 kiskesa
 1 kiskesa + ka
 1 ki + u + pai
-1 ki + wa
+2 ki + wa
 1 ki + wi + i + ti
 1 ki + yo
 1 ki + yo + ke
 1 ki + yu + ta
 1 ko
 1 ko + a
-1 ko + a + h + oin
+1 ko + a + hoi + n
 1 ko + ahon + tan + pa
 1 ko + ahon + tanwe
 1 ko + ai + tian
-1 ko + an
+1 ko + a + n
 1 ko + ani
-1 ko + a + nohon
+1 ko + anohon
 1 ko + a + paoni
 1 ko + a + ra
-1 ko + bi + ahon
+2 ko + bi + ahon
 1 ko + bi + ai
-1 ko + bi + an + hon
+1 ko + bi + a + n + hon
 1 kobin
 1 kobin + ai + tian
 1 kobin + i
@@ -2418,14 +2029,15 @@
 1 ko + biri
 1 ko + chi
 1 ko + h
-1 ko + han
+2 ko + ha + n
+1 ko + h + re + n
 1 koin
 1 koin + bi
 1 koin + si
 1 koirankati
 1 koirankati + ai
-1 koirankati + an
-1 ko + i + sh
+1 koirankati + a + n
+1 ko + ish
 1 kokabo
 1 kokabo + ra
 1 ko + ko + kasi
@@ -2435,10 +2047,10 @@
 1 ko + ma
 1 ko + ma + n
 1 kompana
-1 ko + m + án
-1 kon + xa + n
+1 ko + m + á + n
+1 ko + nxan
 1 kopi
-1 kopi + an + ani
+1 kopi + anan + i
 1 kopi + a + yamai
 1 kopi + ki
 1 kopi + non
@@ -2446,8 +2058,9 @@
 1 kopí + ki
 1 ko + riki
 1 ko + ro
-1 ko + ro + nia
-1 ko + shi
+1 koronia
+1 koronia + n
+1 ko + sh + i
 1 ko + sh + ki + a
 1 ko + sh + oni
 1 ko + tsi
@@ -2461,33 +2074,34 @@
 1 ku + ka + n + ki
 1 ku + pi + ki
 1 ku + san + o
-1 ká + tima
+1 ká + ti + ma
 1 la
 1 largo
 1 lavar
 1 le
-1 legi + mi + to + riki
-1 legi + ti + mo
-1 legí + tima
-1 legí + ti + mo
-1 li + ma + n
-1 li + s + to
-1 lla + ma + ba
-1 lla + ma + rá
+1 legimi + to + riki
+1 legitimo
+1 legíti + ma
+1 legíti + mo
+1 lima
+2 lima + n
+1 l + is + to
+1 l + la + ma + ba
+1 llamará
 1 llora
 1 llora + do
 1 lo
 1 lombris
 1 lo + ro
 1 lo + s
-1 ma
+2 ma
 1 ma + a
 1 ma + ai
 1 ma + ati
 1 ma + ba + bain
 1 ma + bain
 1 ma + chan + i + me + ta
-1 ma + c + hete
+1 ma + c + he + te
 1 ma + chi
 1 ma + chi + n + cho + ma + bi
 1 ma + cho + pa
@@ -2496,7 +2110,7 @@
 1 ma + e + i
 1 ma + e + res + i
 1 ma + h
-1 mahka
+2 mahka
 1 mahka + a
 1 mahka + bo
 1 mahka + hon
@@ -2510,11 +2124,12 @@
 1 mahka + ribi + ke
 1 mahka + ta
 1 mahka + ta + hon
-1 ma + hko
-1 ma + hko + bo
-1 ma + hko + ro
-1 ma + hko + ro + a
-1 ma + h + ká
+2 mahko
+1 mahko + bo
+1 mahko + ro
+1 mahko + ro + a
+1 mahká
+1 mahká + i
 1 ma + hkó + hoko
 1 ma + ho
 1 ma + ho + a + ka
@@ -2535,14 +2150,16 @@
 1 ma + ketian
 1 ma + ki
 1 ma + ki + wa
-1 ma + ko + sh + tima
+1 ma + ko + ra + n + ti
+1 ma + ko + sh + ti + ma
 1 ma + lo
-1 ma + ltra + ta + ba
+1 ma + l + tra + taba
+1 ma + ltratamien + to
 1 mamá
 1 mamá + ribi
-1 mana
+2 mana
 1 mana + hon
-1 mana + n
+2 mana + n
 1 mana + non
 1 mana + pari + we
 1 mana + ti
@@ -2551,14 +2168,15 @@
 1 ma + neke
 1 ma + ne + kin + ka
 1 ma + nko
-1 ma + n + kon
+1 ma + nko + n
 1 ma + no
-1 ma + noah
+1 ma + no + ah
 1 ma + noi
 1 ma + no + we
 1 ma + n + ti
 1 ma + nua
 1 ma + pa
+1 ma + pa + ki
 1 mapeha
 1 mapeha + ki
 1 ma + po
@@ -2569,13 +2187,13 @@
 1 ma + pon
 1 ma + po + shama
 1 ma + pá
-1 ma + pó
+2 mapó
 1 ma + ra
 1 mare
 1 mare + ai
 1 mare + a + ki
 1 mare + bain + ki
-1 mare + he + ko + i
+1 mare + heko + i
 1 mare + hon
 1 mare + i
 1 mare + kanai
@@ -2588,16 +2206,17 @@
 1 mare + sho
 1 mare + ti
 1 mare + yamawe
-1 ma + ri
-1 ma + ri + ai
-1 ma + ri + do
-1 ma + ri + kaini
+1 mari
+1 mari + a
+1 mari + ai
+1 mari + do
+1 mari + kaini
 1 ma + ro
 1 ma + ro + i
 1 ma + ro + ka
 1 ma + ro + ko
 1 ma + ro + ma + hon
-1 ma + ro + nohon
+1 ma + ro + n + ohon
 1 ma + ro + non
 1 ma + s
 1 ma + sh + ka + ke
@@ -2605,28 +2224,32 @@
 1 ma + sh + pi
 1 ma + so
 1 ma + s + po + ai
-1 ma + st + oma
+2 ma + s + to + ma
 1 ma + ta
-1 ma + ta + ba
+1 ma + taba
 1 ma + tan
 1 ma + te + ri
 1 ma + ti
-1 ma + to
+2 ma + to
 1 ma + toh
 1 ma + toh + ai + me + a
 1 ma + ton
-1 ma + to + nraena
+1 ma + ton + ra + ena
 1 ma + tra + s
-1 matso + ai
-1 matso + i
+1 matso + a
+2 matso + ai
+1 matso + hon + ki
+2 matso + i
 1 matso + i + ka
 1 matso + i + tiki
 1 matso + ki
+1 matso + ki + ka + n
+1 matso + kin
 1 matso + ni
 1 matso + ra + n + a + ke
-1 matso + ribi + ai
+2 matso + ribi + ai
 1 matso + tai
-1 matso + tima
+1 matso + ti + ma
 1 matso + yamawe
 1 ma + tó + n
 1 mawa
@@ -2645,29 +2268,29 @@
 1 mawa + ya + me
 1 mawa + ya + me + ketian
 1 ma + ya
-1 ma + ya + hon + ka
+1 ma + y + ahon + ka
 1 ma + ya + i
 1 ma + ya + ke
 1 ma + yá
 1 ma + zamor + ra
 1 ma + íz
-1 me
+2 me
 1 me + a
 1 me + ai
 1 me + a + rewan
 1 me + be + ah
-1 me + beba + i + p + ain + bira
+1 me + be + bai + p + ain + bira
 1 me + bi + hiko
 1 me + cha
 1 me + chá
 1 me + chá + ka
 1 me + chá + ki + ri
-1 meh + ai
-1 meh + ai + kai
-1 meh + o + i + ti
-1 meh + peka + nke
-1 meh + pe + ke + ka
-1 me + jor
+1 me + ha + i
+1 me + ha + i + kai
+1 me + hoi + ti
+1 mehpe + ka + n + ke
+1 mehpe + ke + ka
+1 me + jo + r
 1 me + ke + me
 1 me + ke + n
 1 me + ke + ri + oh + ma
@@ -2678,11 +2301,11 @@
 1 mena + hako
 1 mena + ka
 1 mena + ra
-1 me + nia
-1 me + nia + ki
-1 me + n + i + ke
-1 me + n + i + non
-1 me + n + i + we
+1 meni + a
+1 meni + a + ki
+1 meni + ke
+1 meni + non
+1 meni + we
 1 me + nko
 1 meno
 1 meno + ke
@@ -2691,18 +2314,18 @@
 1 meno + ribi + ke
 1 meno + tanwe
 1 me + n + ton
-1 me + ná
+1 me + n + á
 1 mera
 1 mera + baini
-1 mera + he + ko + ki
-1 mera + hon + ka
+1 mera + heko + ki
+1 me + r + ahon + ka
 1 mera + hon + ki
 1 mera + ke
 1 mera + kin
 1 mera + n
 1 mera + ni
 1 mera + ti
-1 mera + tima
+1 mera + ti + ma
 1 mera + ti + nin
 1 mera + ton
 1 me + re
@@ -2734,18 +2357,18 @@
 1 me + zclan + do
 1 mezquina
 1 mezquina + ba
-1 m + hm
-1 mi
-1 mia
-1 mia + bi + ri + bí
-1 mi + ah
+2 mhm
+2 mi
+2 mia
+1 mia + biri + bí
+1 mia + h
 1 mia + ka
 1 mia + ki
-1 mia + ra
-1 mia + ribi
+2 mia + ra
+2 mia + ribi
 1 mia + riki
 1 mi + bi + ribi
-1 micha
+2 micha
 1 micha + bake
 1 micha + bira
 1 micha + hako
@@ -2754,83 +2377,91 @@
 1 micha + nawa + n
 1 micha + pa
 1 micha + pa + ka
-1 micha + pakeheko
-1 micha + pakeheko + i
+2 micha + pake + heko
+1 micha + pake + heko + i
 1 micha + pa + nin
 1 micha + pa + ronki
 1 mi + chi + koin + si
 1 mi + chá
-1 mihira
+1 miguel
+2 mihira
 1 mihira + n
 1 mi + ka
 1 mi + ki
-1 mil
-1 mi + n
+1 mi + ki + ri + ka
+1 mi + l
+2 min
 1 mina
-1 mina + hon
+2 mina + hon
 1 mina + hon + ki
 1 mina + i
+1 mina + kin
 1 mina + ma + hon
 1 mina + mis
 1 mina + ribi
-1 mi + n + i + st + ro
-1 mi + n + kai + ki
-1 mi + n + ki
-1 mi + ná
-1 mi + pi + a + ma + bo + bi
-1 mi + ra
-1 mi + ra + ka + me + a
-1 mi + ra + ka + me + res + a
-1 mi + ra + n
-1 mi + ra + r
+1 min + is + t + ro
+1 min + ka
+1 min + kai + ki
+1 min + ki
+1 min + á
+1 mi + pia + ma + bo + bi
+1 mira
+1 mira + ka + me + a
+1 mira + ka + me + heko + a
+1 mira + ka + me + res + a
+2 mira + n
+1 mira + r
 1 mi + ri + ta
 1 mirán
 1 mis
-1 mis + h + tin + hiko
+1 mis + h + ti + n + hiko
 1 mis + i
 1 mis + i + ka
-1 mis + i + onero + ba + on
-1 mis + i + onero + bo + ra
+1 mis + ionero + ba + on
+1 mis + ionero + bo + ra
+1 mis + ionero + nin
 1 mis + ka + ra + ro + yama
 1 mis + ma
 1 mis + mo
 1 mis + pai + n
-1 misto + a
-1 misto + ai
-1 misto + bain
-1 misto + ka + n + we
-1 misto + ke
+1 mis + to + a
+1 mis + to + ai
+1 mis + to + bain
+1 mis + to + ka + n + we
+1 mis + to + ke
 1 mi + tsa
 1 miyah
-1 mi + án
+1 mi + á + n
 1 mjum
 1 mmm
 1 mmm + mmm + mmm
 1 mo
-1 moa
-1 mo + ah
+2 moa
+1 moa + h
 1 moa + ka
 1 moa + ka + i + ra
 1 moa + ke + moa
 1 moa + ki
-1 moa + ra
-1 moa + tian
+2 moa + ra
+2 moa + tian
 1 mo + ha
 1 mo + ha + bires
+1 mo + ha + ka
 1 mo + i
 1 mo + i + kain + kin
 1 mo + i + ma + ke
 1 mo + i + we
 1 mo + ka
 1 mo + ka + ma
-1 mo + te + lo
+1 mo + ri
+1 motelo
 1 motor
-1 mo + toro
+2 motor + o
 1 motosier + ra
-1 mots + a
-1 mots + ahon
-1 mots + ai
-1 mots + akan + we
+1 motsa
+1 motsa + hon
+1 motsa + i
+1 motsa + ka + n + we
 1 mo + xa
 1 mu + cho
 1 municipal
@@ -2854,8 +2485,8 @@
 1 n + ain
 1 na + ka
 1 na + ka + bi
-1 n + akesa
-1 n + akesa + ki
+1 na + kesa
+1 na + kesa + ki
 1 nakesá
 1 na + ki
 1 na + mi
@@ -2868,7 +2499,7 @@
 1 nane + oma
 1 nane + ra
 1 nane + yama
-1 na + po + hon
+1 n + ap + ohon
 1 na + ra + be
 1 na + rabé
 1 n + arana
@@ -2883,52 +2514,56 @@
 1 nashi + ma + kin
 1 nashi + ma + ti
 1 nashi + ma + ti + ka
-1 na + s + kai
+1 nas + kai
 1 natex + ke
-1 na + ti
-1 na + tin
-1 na + ti + rewan
-1 nato
+1 n + ati
+1 n + ati + n
+1 n + ati + rewan
+1 n + ati + va
+2 nato
 1 nato + bo
 1 nato + ka
-1 nato + ki
+2 nato + ki
 1 nato + n
 1 nato + n + ki
-1 nato + ra
+2 nato + ra
 1 nato + ri
 1 nato + ribi
-1 nato + ti
+2 nato + ti
+1 nato + ti + o
 1 nato + xea + ki
-1 nawa
+2 nawa
 1 nawa + bo
 1 nawa + boton
 1 nawa + chá
-1 nawa + n
+2 nawa + n
 1 n + awá
-1 n + aya
+2 n + aya
 1 n + aya + ra
 1 ne + a + ton
-1 neha + bo + hon
-1 neha + bo + kon + ki
-1 neh + ahon + kin
-1 neha + i
-1 neha + ke
-1 neh + ekoa
-1 neh + po + hon
+1 ne + ha + bo + hon
+1 ne + ha + bokon + ki
+1 n + eh + ahon + kin
+1 ne + ha + i
+1 ne + ha + ke
+1 ne + heko + a
+1 n + eh + p + ohon
 1 ne + ka
 1 ne + kai
-1 neke
+2 neke
 1 neke + a
-1 neke + baneta + bo
+1 neke + bane + ta + bo
 1 neke + be + a
+1 neke + hon
 1 neke + ma + i
-1 neke + ribi
+2 neke + ribi
 1 neke + ri + oh + ma
+1 neli + ta
 1 n + ena
-1 ne + nke + hoko
-1 ne + nke + n
+1 ne + n + ke + hoko
+1 ne + n + ke + n
 1 nenké
-1 neno
+2 neno
 1 neno + bi
 1 neno + biri
 1 neno + bo + n
@@ -2939,7 +2574,7 @@
 1 neno + ro + ko + n + ki
 1 ne + ri
 1 ne + ribi
-1 neska
+2 neska
 1 neska + hon
 1 neska + hon + ka
 1 neska + i
@@ -2950,8 +2585,10 @@
 1 neska + ra
 1 neska + ra + i
 1 neska + ra + ka
+1 neska + ra + ribi
 1 neska + ra + shoko
 1 neska + ribi
+1 neska + shama + ribi
 1 neska + ta
 1 neska + tai
 1 neska + ti
@@ -2962,75 +2599,77 @@
 1 nete + bi
 1 nete + ti + bi
 1 n + ewa
-1 neyamea
-1 ni
-1 nia + ha + kua
+1 ne + ya + me + a
+2 ni
+1 ni + a + ha + kua
 1 niaini
 1 niaini + ki
 1 ni + akan + we
-1 nia + ke
-1 nia + ribi + ke
+1 ni + a + ke
+1 ni + a + ribi + ke
 1 ni + be
 1 ni + bo
 1 ni + bo + rewan
 1 ni + bo + ri
 1 ni + bu
 1 ni + hon
-1 niketia
+1 ni + ke + ti + a
 1 ni + ki + ma + ti
 1 ninka
 1 ninka + i
 1 ninka + pake
 1 ninka + tai
 1 ninka + ti
-1 ninka + we
-1 ninka + yamai
+2 ninka + we
+2 ninka + yamai
 1 ninka + yama + res + ai
-1 ni + no
+1 nin + o
 1 ni + noa
-1 ni + no + ki
+1 nin + o + ki
 1 nisa
 1 nisa + i
 1 nisa + pake + i
 1 n + iska
 1 n + iska + i
-1 n + is + ti
+1 ni + sti
 1 ni + wan
 1 niyaini + ki
-1 no
-1 noa
-1 noa + bi
-1 noa + bi + cho + res
-1 noa + bires
-1 noa + bi + ribi
-1 noah
-1 noa + ka
+2 no
+2 noa
+1 noabi
+1 noabi + cho + res
+2 noabi + res
+1 noabi + ribi
+2 n + oah
+2 noa + ka
 1 no + a + ki + ribi
 1 noa + kopi
 1 noa + ma
-1 noa + ra
+2 noa + ra
 1 noa + ra + n + ai
 1 noa + ribi
 1 noa + ribi + ra
 1 no + bi
 1 no + bi + ribi
-1 no + e + shama
-1 no + e + shama + n
+1 noe
+1 noeli
+1 noe + shama
+1 noe + shama + n
 1 nohron
 1 noi
 1 noi + bi
 1 noi + bo + ki + ri
-1 noi + hi + ma
+1 noi + hima
 1 noi + mi + mera
 1 noi + mis
 1 noi + m + mera
 1 n + oin
-1 n + oin + mera
+2 n + oin + mera
 1 noi + res
 1 no + is + ma
 1 noi + ta
 1 noitap + ahako + i
-1 noitap + ai
+2 noitap + ai
 1 noitap + ai + hiko
 1 noitap + a + kati
 1 noitap + a + paoni + ke
@@ -3048,19 +2687,20 @@
 1 noko + i
 1 noko + ke
 1 noko + me + tiki
-1 noko + n
+2 noko + n
 1 noko + ribi + ke
 1 noko + ti
 1 nombre
 1 no + mi + mera
 1 no + mi + ro + ka
 1 no + más
-1 non
+2 non
 1 non + a + ka
 1 non + bi
 1 non + biri
 1 non + bi + ribi
 1 non + ka
+1 non + kai + bo
 1 non + ki
 1 no + noi
 1 non + ori
@@ -3068,32 +2708,32 @@
 1 no + s
 1 nosotros
 1 notsia
-1 no + wa
+2 no + wa
 1 no + y + akatiai
-1 no + óh
+1 noóh
 1 nua + ribi
 1 nueve
-1 n + u + i + ma + non
+1 nui + ma + non
 1 nunca
 1 n + unun
 1 o
-1 o + a
+2 o + a
 1 oah
 1 oah + bi + ka
 1 oah + ka
 1 oah + ki
-1 oai
-1 oai + tian
+1 o + ai
+1 o + ai + tian
 1 o + a + ma
 1 o + ani
 1 o + ani + ka
-1 o + a + pan
+1 o + a + pa + n
 1 o + a + ribi
-1 o + chi
+2 o + chi
 1 o + chi + ma
 1 o + chi + n
 1 o + cho
-1 o + cho + cha
+2 o + cho + cha
 1 ochoma
 1 ochoma + ki
 1 ochoma + koin
@@ -3102,6 +2742,7 @@
 1 ochoma + tian
 1 o + cho + pi
 1 ochí
+1 o + e
 1 oh
 1 oha
 1 oha + bo + riki
@@ -3111,6 +2752,8 @@
 1 ohakan + ketian
 1 ohakan + we
 1 oha + ke
+1 o + hano
+1 oha + non
 1 oha + paoni
 1 oha + ribi
 1 oha + ribi + ke
@@ -3123,14 +2766,14 @@
 1 ohon + ki
 1 ohon + ronki
 1 ohon + ronki + ki
-1 ohos + bo + ketian
+1 oh + o + s + bo + ketian
 1 o + i
 1 o + i + betin
 1 o + i + ka
 1 o + i + ke
 1 o + i + kopi
 1 oin
-1 oin + a
+2 oin + a
 1 oin + ai
 1 oin + a + ka
 1 oin + a + ki
@@ -3140,7 +2783,7 @@
 1 oin + be + i + betin
 1 oin + bo + non
 1 oin + hon
-1 oin + i
+2 oin + i
 1 oin + i + a
 1 oin + i + ka
 1 oin + kanai
@@ -3148,41 +2791,41 @@
 1 oin + ki
 1 oin + ma
 1 oin + ma + i
-1 oin + on
+2 oin + on
 1 oin + res + i
 1 oin + ri
 1 oin + ribi + ke
 1 oin + ta
 1 oin + tan
-1 oin + tan + kin
+1 oin + tanki + n
 1 oin + tan + pa + tsi
 1 oin + tanwe
 1 oin + ti
 1 oin + ti + bires
 1 oin + ti + ko + ma + ka
-1 oin + timari
-1 oin + timari + ki
+1 oin + ti + mari
+1 oin + ti + mari + ki
 1 oin + ti + ri
 1 oin + we
 1 oin + yama
-1 oin + yama + bo + bi
-1 oin + yama + bo + bi + ai
+2 oinyamabobi
+1 oinyamabobi + ai
 1 o + i + tian
-1 oke
-1 oke + ah
-1 oke + bi + cho
-1 oke + hon
-1 oke + kai + ri
-1 oke + kena + ribi
-1 oke + pari
+2 o + ke
+1 o + ke + ah
+1 o + ke + bi + cho
+1 o + ke + hon
+1 o + ke + kai + ri
+1 o + ke + kena + ribi
+1 o + ke + pari
 1 o + kin
-1 o + kon
-1 o + kon + ka
+1 o + ko + n
+1 o + ko + n + ka
 1 oma
 1 oma + bo + bi
 1 oma + ka
 1 oma + ki
-1 om + a + ri + bake
+1 o + mari + bake
 1 on + a + ha + kua
 1 on + ai
 1 on + ai + ki
@@ -3221,7 +2864,7 @@
 1 oni + ki
 1 oni + we
 1 on + ko
-1 on + ko + an + hon
+1 on + ko + a + n + hon
 1 on + ko + i
 1 on + koin
 1 on + koin + bi
@@ -3235,10 +2878,10 @@
 1 onkon + yamai
 1 onkon + yama + ra + i
 1 onkon + yama + si
-1 o + no
-1 o + no + ka
+1 on + o
+1 on + o + ka
 1 o + non
-1 on + shi
+1 on + sh + i
 1 on + tan
 1 on + tan + me + i
 1 onáma
@@ -3249,11 +2892,13 @@
 1 o + pi
 1 o + ra
 1 ori
-1 ori + ba + i
+1 ori + bai
 1 ori + bake
 1 ori + n
 1 ori + res
 1 oroai
+1 o + s + ain
+1 o + san + i
 1 o + san + paoni
 1 oscu + ro
 1 o + shin
@@ -3264,15 +2909,16 @@
 1 o + ta + hon
 1 o + ta + hon + ki
 1 o + ta + ke
-1 ot + ra
-1 ot + ro
+1 otokenia
+1 o + tra
+1 o + t + ro
 1 o + tsa
 1 otsikaini
 1 otsikaini + ka
 1 o + we
 1 o + xa
-1 oyop + ani
-1 pa
+1 o + yo + pani
+2 pa
 1 pa + chi
 1 pa + chi + a + non
 1 pa + chi + bi
@@ -3282,23 +2928,25 @@
 1 pachon + ewan
 1 pae
 1 pae + ahon
+1 pae + ki
 1 pa + ena
 1 pae + ni
 1 pae + n + ki
 1 pae + res
-1 pa + hko
+1 pa + ha
+1 pa + h + ko
 1 pai + a
 1 pai + a + ki
 1 pai + n
 1 pa + ka
 1 pa + ka + ki
 1 pa + ka + n
-1 pakaronin
-1 pakaronin + ma
+1 pa + ka + ro + nin
+1 pa + ka + ro + nin + ma
 1 pa + ka + ro + non
 1 pake
 1 pake + ai
-1 pakeheko
+1 pake + heko
 1 pake + ho
 1 pake + hon
 1 pake + i
@@ -3309,21 +2957,21 @@
 1 pake + tai
 1 pake + tian + ki
 1 pake + tiki
-1 p + al + ma
+1 pa + l + ma
 1 pa + lo
-1 pan + cha + i + si
-1 pan + i
-1 pa + nia
-1 pan + i + be + kon + a
+1 pa + nchaisi
+2 pani
+1 pani + a
+1 pani + be + ko + na
 1 pa + no
 1 pa + non
-1 pan + pi + hiko
-1 pan + p + í + hiko
-1 pan + shin
-1 pa + o
+2 panpihiko
+1 pa + npí + hiko
+2 pa + n + shin
+2 pa + o
 1 paoni
 1 paoni + a
-1 pa + o + pan
+1 pa + o + pa + n
 1 paoti
 1 papa
 1 papa + bo
@@ -3336,12 +2984,13 @@
 1 papa + ra
 1 papa + riki
 1 pa + pi + baini
+1 pa + pi + ki
 1 pa + pá
-1 pa + r + ain
+1 pa + ra + i + n
 1 paran + ai
 1 paran + hon
 1 paran + ta
-1 paran + ti
+2 paran + ti
 1 paran + ti + a
 1 paran + ti + bo
 1 pari
@@ -3351,48 +3000,48 @@
 1 pa + ro
 1 pa + ro + n
 1 pa + shin
-1 pa + so + hon
+1 pas + ohon
 1 pa + ta
 1 pa + tan
 1 pa + tan + ke
 1 pa + ta + ra + sh + ka + hun
 1 pa + ta + shoko
-1 pa + u
-1 pa + u + bain + ke
-1 pa + u + jil
+1 pau
+1 pau + bain + ke
+1 pau + jil
 1 pay + ai
 1 pay + a + ke
-1 pay + a + nohon
+1 pay + anohon
 1 pa + yo + res + ai
 1 pa + yo + res + i
 1 pe
-1 pechib + ain
-1 pechib + ain + ai
-1 pechib + ain + kanai
-1 pechib + ain + xon + ki
-1 pechib + a + kanai
+1 pechiba + i + n
+1 pechiba + ina + i
+1 pechiba + i + n + kanai
+1 pechiba + i + n + xon + ki
+1 pechiba + kanai
 1 peh
 1 peh + ahon + ki
-1 peh + a + ke
+1 pe + ha + ke
 1 peh + ati
 1 pehnebeiti
-1 pehnebeiti + an
+1 pehnebeiti + a + n
 1 pehnebeiti + bi
 1 pehnebeiti + ki
 1 peh + ne + ra + ka
 1 pe + i
 1 pe + i + ha + ta
 1 pe + j
-1 peka
-1 peka + hon
-1 peka + ke
-1 peka + ma + ki
-1 peka + o
-1 peka + o + bi
-1 peka + o + ka
-1 peka + we
+1 pe + ka
+1 pe + ka + hon
+1 pe + ka + ke
+1 pe + ka + ma + ki
+1 pekao
+1 pekao + bi
+1 pekao + ka
+1 pe + ka + we
 1 pe + lo
-1 pen
+2 pen
 1 pen + a + ha + ke
 1 pen + a + ha + ki
 1 pen + a + ha + ki + n
@@ -3408,43 +3057,46 @@
 1 peo + ke
 1 peo + ke + bi + ka
 1 peo + m + ani + ka
-1 pepé
+2 pepé
 1 pe + ro
 1 pe + ro + ka
 1 pesca + do
-1 peshtin + hon
+2 peshtin + hon
 1 peshtin + ka
 1 peshtin + ke
-1 pewea
-1 pewea + bira
-1 pewea + ki
-1 p + ewe + hon
-1 pe + w + ekoa
-1 pewekoi
-1 pe + we + ni + ke
+1 pewe
+1 pewe + a
+1 pewe + a + bira
+1 pewe + a + ki
+2 pewe + hon
+1 pewe + ko + a
+1 pewe + ko + i
+1 pewe + ni + ke
 1 pi
-1 pi + a
+2 pia
+1 pia + bi + a
 1 pi + ah
-1 pi + ai
+2 pi + ai
 1 pi + ai + tian
-1 pi + a + ke
+1 pia + ke
 1 p + i + a + ma + we
-1 pian
-1 pian + ba + tanon
-1 pian + ka
-1 pian + ki
-1 pian + ohon
-1 pian + on
-1 pi + a + ra + nke
-1 pi + a + riki
-1 pi + a + yamai
+1 pia + n
+1 pia + n + bata + non
+1 pi + anka
+1 pia + n + ki
+1 pi + anohon
+1 pia + non
+1 pia + ra + n + ke
+1 pia + riki
+1 pia + yamai
 1 pi + bain
 1 pi + betin
+1 pi + bi
 1 pi + cha
 1 pi + cha + hon
 1 pi + cha + i
 1 pi + chan
-1 pi + chan + ba + i
+1 pi + chan + bai
 1 pi + chan + hon
 1 pi + chan + kin
 1 pi + en + s + a
@@ -3474,15 +3126,15 @@
 1 pi + ma + i + ka
 1 pim + a + kati
 1 pi + ma + kin
-1 pim + a + nohon
+1 pim + anohon
 1 pi + ma + non
-1 pim + a + tiki
+1 pim + ati + ki
 1 pi + mis
-1 pi + n + ah + ani
+1 pi + nahan + i
 1 pi + n + chan + hon
 1 pi + ni
-1 pi + nohon
-1 pi + nohon + ki
+1 pi + n + ohon
+1 pi + n + ohon + ki
 1 pi + non
 1 pi + non + we
 1 pi + o + kin
@@ -3493,33 +3145,34 @@
 1 pi + paoti
 1 pi + paoti + ki
 1 pi + ri
-1 pi + ri + ba + i
-1 pi + s
-1 pi + sh + a + bain
-1 pi + s + hawe
+1 pi + ri + bai
+1 pis
+1 pis + ha + bain
+1 pis + hawe
 1 pi + shina
-1 pi + sh + te + a
-1 pishterain
-1 pishterain + bi
-1 pi + sh + te + ra + nke
-1 pi + si
-1 pi + si + re
-1 pi + s + ká
-1 pi + tana + han + we
-1 pi + tan + kin
+1 pishte + a
+1 pishte + ra + i + n
+1 pishte + ra + i + n + bi
+1 pishte + ra + n + ke
+1 pis + i
+1 pis + i + re
+1 pis + ká
+1 pi + ta + nahan + we
+1 pi + tanki + n
 1 pi + tanwe
 1 pi + tanwe + n
-1 pi + ti
+2 pi + ti
 1 pi + tiki
-1 pi + tima
+1 pi + ti + ma
 1 pi + ti + res
 1 pi + ti + ribi
 1 pi + tso
-1 pi + we
+2 pi + we
+1 pi + ya + i
 1 pi + yamai
 1 pi + ña
 1 plátano
-1 po + a
+2 po + a
 1 po + a + bo
 1 po + ai
 1 po + akan
@@ -3537,13 +3190,13 @@
 1 poi + ribi + ke
 1 poi + ribi + we
 1 po + ke + baini
-1 pok + ohon
+1 pokohon
 1 po + ko + ma
 1 pon
-1 pon + an + ka
+1 pon + anka
 1 pon + t + é
-1 pon + yan
-1 pon + yan + he
+1 ponyan
+1 ponyan + he
 1 pon + í + a
 1 popokiri
 1 popokiri + betan
@@ -3556,7 +3209,7 @@
 1 pota
 1 pota + bain
 1 pota + baini
-1 pota + baini + hon
+2 pota + baini + hon
 1 pota + bain + ke
 1 pota + bain + res + ni
 1 pota + i + bires
@@ -3569,8 +3222,10 @@
 1 po + teke
 1 po + te + pake + ke
 1 po + to + ahon
-1 po + tó
-1 po + yan + ha + bo + ke
+1 po + to + shama
+2 po + tó
+1 poyan
+1 poyan + ha + bo + ke
 1 po + yo + po + yoi
 1 pregunta
 1 pregunta + r
@@ -3578,30 +3233,32 @@
 1 profesional + ma
 1 profesional + ma + bo
 1 profesor
-1 proyec + to
-1 pu + ro
-1 pu + si
-1 pu + yan + ha + bo + ke
+2 proyecto
+1 pucall + pa
+2 puro
+1 pusi
+1 puyan + ha + bo + ke
 1 pá + pa
 1 que
 1 que + ma + do
-1 quién
-1 qué
+1 qui + ere
+1 qui + é + n
+2 qué
 1 ra
-1 ra + be
+2 ra + be
 1 ra + be + bi
 1 ra + be + ri
 1 ra + be + ta + hon
 1 ra + betan + hon
 1 rabin + ai
-1 rabin + a + kin
+1 rabin + akin
 1 rabin + i + ka
 1 rabin + ribi + ai
-1 rabé
+2 rabé
 1 rabé + bi
 1 rabé + bo
 1 rabé + res
-1 ra + e + ani + ketian
+1 ra + ea + ni + ketian
 1 ra + h
 1 ra + is
 1 ra + is + ra
@@ -3618,21 +3275,24 @@
 1 ra + kati + nin
 1 ra + kati + ninka
 1 ra + ke + ti
-1 ra + ma
+1 ra + ke + ti + ma
+2 ra + ma
 1 ra + ma + bi
+1 ra + ma + bi + ma
 1 ra + ma + ka
 1 ra + ma + ka + ma
 1 ra + ma + ka + ma + bira
 1 ra + ma + ra
 1 ra + mi
 1 ra + mia + yamawe
+1 ra + mábimá
 1 ra + ni + ki
-1 rano + ka + we
+1 ra + no + ka + we
 1 ra + non
 1 ra + non + ka
 1 ra + n + pen
 1 ra + o
-1 ra + oh
+2 ra + oh
 1 ra + on + hon + ka
 1 ra + on + ke
 1 ra + on + pake + ki + ka
@@ -3641,7 +3301,7 @@
 1 ra + s + hiko + bo
 1 ra + ti + to
 1 ra + wi
-1 ra + w + í
+1 ra + wí
 1 ra + ya
 1 ra + yo + s
 1 ra + yá
@@ -3667,18 +3327,18 @@
 1 rer + ai
 1 rer + ai + tian
 1 rer + a + ke
-1 rer + a + nohon
+1 rer + anohon
 1 re + ra + r + ahako + i
-1 re + ra + ribi
-1 re + ra + ribi + ke
+1 rer + a + ribi
+1 rer + a + ribi + ke
 1 re + re
 1 res
 1 res + ke
 1 rete
 1 rete + a
 1 rete + ai
-1 rete + ana + n
-1 rete + an + ani
+1 rete + anan
+1 rete + anan + i
 1 rete + ana + pa + uni
 1 rete + aya
 1 rete + hon
@@ -3689,20 +3349,20 @@
 1 rete + kasi
 1 rete + kasi + ka
 1 rete + ke
-1 rete + na + han + kin
-1 rete + na + han + we
+1 rete + na + ha + n + kin
+1 rete + nahan + we
 1 rete + n + ahon + we
 1 rete + na + kanai
 1 rete + n + anai
 1 rete + ni
 1 rete + ni + ke
-1 rete + nohon
+1 rete + n + ohon
 1 rete + non
 1 rete + pake + hon + ki
 1 rete + pake + ke
 1 rete + ti
 1 rete + tiki
-1 rete + timari
+1 rete + ti + mari
 1 rete + ti + riki
 1 rete + xon
 1 rete + yamai
@@ -3720,24 +3380,30 @@
 1 ri + ko + ribi
 1 ri + s + a + s
 1 ro + a
-1 ro + a + kin
+1 ro + akin
+1 roberto
+1 roberto + ka
+1 ro + dríguez
 1 ro + e
 1 ro + ko
-1 ro + me
-1 ro + me + ka
+2 rome
+1 rome + bi + ki + ki
+1 rome + ka
 1 ro + no
 1 ro + pa
-1 ro + pa + s
+1 ro + pas
 1 ro + ro
 1 ro + ro + ke + h
 1 ro + to + ai
-1 ro + wa
+2 ro + wa
+1 ro + wa + shinan + kin
 1 sabe
 1 s + a + ca + do
 1 sachavaca
 1 s + ai
 1 salud + anai
 1 salía
+1 san
 1 sapa
 1 sapa + ke
 1 sapa + kin
@@ -3761,34 +3427,36 @@
 1 se + mana + bira
 1 semb + ra + n + do
 1 semb + ra + r
-1 s + ene + ahon
-1 s + ene + me + a
-1 senen
-1 senen + me
+1 s + ena + n
+1 sene + ahon
+1 sene + me + a
+2 sene + n
+1 sene + n + me
 1 senpa
 1 senpa + ki
 1 serru + cho + kesa
 1 sh + a + ra + n
-1 sh + awa
-1 sh + e + ai
+1 sh + a + wa
+1 s + he + ai
+1 s + he + ati
 1 shhhhh
 1 shhhhh + hhh
-1 shi + a
+1 shia
 1 shihui
 1 shihui + wa + ke
-1 shi + ma
+1 shima
 1 shina + beno
 1 shina + hako
 1 shina + i
 1 shina + ma + non
 1 shinan
 1 shinan + ai
-1 shinan + an
+1 shinan + a + n
 1 shinan + beno + ribi
-1 shinan + beno + tai
+2 shinan + beno + tai
 1 shinan + beno + ti
 1 shinan + beno + yamai
-1 shinan + hon
+2 shinan + hon
 1 shinan + i
 1 shinan + i + ra
 1 shinan + ka
@@ -3806,33 +3474,33 @@
 1 shina + ribi
 1 shina + ribi + banon
 1 shina + yamai
-1 shin + kon
-1 shi + no
-1 shi + non
-1 shi + pi
-1 shipibo
-1 shipibo + betan
+1 shin + ko + n
+1 shin + o
+1 shin + on
+2 shipi
+2 shipibo
+2 shipibo + betan
 1 shipibo + ka
-1 shipibo + n
+2 shipibo + n
 1 shipibo + nin
 1 shipibo + n + ki
 1 shipibo + res
 1 shipibo + s
-1 shi + pi + n
-1 shi + ri + n + wa
-1 shi + shi
+1 shipi + n
+1 sh + i + ri + n + wa
+1 sh + ish + i
 1 shita
 1 shita + beran + a
 1 shita + i
 1 shita + i + ka
 1 shita + i + ma
 1 shita + pake
-1 shi + wa
+1 sh + iwa
 1 sho + ooo
 1 sh + u + ki + ti
 1 sh + ushupe
 1 shín + anai
-1 si
+2 si
 1 si + do
 1 siempre
 1 significa
@@ -3847,7 +3515,7 @@
 1 sina + ti + ka
 1 sina + yamawe
 1 si + no
-1 si + ná + ke
+1 s + iná + ke
 1 siquie + ra
 1 si + si
 1 siwa
@@ -3860,22 +3528,24 @@
 1 soga
 1 so + ko
 1 so + ko + i + ki
+1 so + ri + a
 1 so + ro
 1 so + ro + i
 1 so + tana
-1 so + ta + nke
+1 so + tan + ke
 1 so + y
 1 su
 1 sufre
 1 su + s
-1 s + é
-1 sí
+1 sé
+1 s + í
+1 són + ta + ro
 1 ta
-1 ta + ba
-1 ta + ba + ra + nhakoi
+1 taba
+1 taba + ra + n + hako + i
 1 ta + be + ma + ka + res + i
-1 t + ach + ati
-1 ta + e
+1 ta + c + ha + ti
+2 ta + e
 1 ta + e + tsi
 1 ta + h
 1 ta + ho
@@ -3885,10 +3555,13 @@
 1 ta + ka + ribi
 1 ta + ko + bo
 1 ta + ko + hoko
-1 ta + ma
+2 ta + ma
 1 ta + ma + bira
-1 ta + ma + ki
+1 ta + ma + ka + n
+1 ta + ma + kesa
+2 ta + ma + ki
 1 ta + ma + non
+1 ta + ma + ro + ro + ki
 1 ta + mo
 1 ta + mo + n
 1 ta + mo + n + ki
@@ -3903,37 +3576,37 @@
 1 tana + non
 1 tana + ri + bi + tanwe
 1 tana + tanwe
-1 tan + ka + n
-1 tan + ka + n + a
-1 tan + ka + n + ki
-1 tan + ki
-1 tan + ki + ki
-1 tan + ki + kin + i
-1 tan + ki + ki + ri
-1 tan + ki + ki + ribi
-1 tan + ki + ti + ri
+2 tankan
+1 tankan + a
+1 tankan + ki
+1 tanki
+1 tanki + ki
+1 tanki + kin + i
+1 tanki + ki + ri
+1 tanki + ki + ribi
+1 tanki + ti + ri
 1 tan + se + a
-1 tan + t + imai + bi
-1 tan + tin + yamai
+1 tan + ti + ma + i + bi
+1 tan + ti + n + yamai
 1 tanwe
 1 ta + o
-1 tapas
-1 tapas + a
+1 ta + pas
+1 ta + pas + a
 1 ta + po
 1 ta + po + a + ka
 1 ta + po + a + ke
 1 ta + po + ati
 1 ta + pon
-1 ta + pu + n
+1 ta + pun
 1 ta + ro + a
-1 ta + r + oke
-1 ta + r + om + ayama
+1 ta + ro + ke
+1 ta + ro + m + ayama
 1 ta + sh + b + ahako
-1 ta + shi
+2 ta + sh + i
 1 ta + sh + ka + kin
-1 ta + s + ti
-1 ta + s + ti + keska
-1 ta + wa
+1 ta + sti
+1 ta + sti + keska
+2 ta + wa
 1 ta + wa + isko + bakebo
 1 ta + wa + ka
 1 te
@@ -3942,11 +3615,11 @@
 1 te + c + ha + ke
 1 te + cho
 1 te + h
-1 te + heni + kai + ri
-1 teherini
+1 te + he + ni + kai + ri
+1 te + he + ri + ni
 1 te + ho + ain
-1 tej
-1 tej + i + do
+1 te + j
+1 te + j + i + do
 1 te + kasai
 1 te + kasi
 1 teke
@@ -3957,24 +3630,26 @@
 1 teke + bain + kin + ki
 1 teke + i
 1 teke + ke
-1 teléfono
-1 temp + rano
-1 ten + a + me
-1 ten + ewe
-1 te + ne + ya + ma + kin
-1 ten + go
-1 ten + i + do
-1 ten + iente
+1 te + léfono
+1 te + m + p + ra + no
+1 te + na + me
+1 te + n + ewe
+1 te + ne + yama + kin
+1 te + ngo
+1 te + n + i + do
+1 te + ni + en + te
 1 tenkoti
 1 tenkoti + ki
-1 ten + pi + s + ke
-1 te + pan + i + bain + a
+1 te + n + pis + ke
+1 te + n + ton
+1 te + pa + chi + we
+1 te + pani + bain + a
 1 te + pa + oni + ka
 1 termina
 1 termina + do
-1 terreno
-1 teshte + hon
-1 teshte + ke
+1 te + rreno
+1 te + sh + te + hon
+1 te + sh + teke
 1 te + s + ke
 1 te + teke + res
 1 te + wan + bain
@@ -3987,9 +3662,10 @@
 1 tigre + ka
 1 tiki
 1 tiki + ai
-1 tin
+1 ti + n
+1 ti + ngo
 1 ti + nko
-1 tin + tin
+1 ti + n + ti + n
 1 ti + o
 1 ti + o + si
 1 ti + ri
@@ -4000,12 +3676,12 @@
 1 ti + tan
 1 ti + ta + ra
 1 to
-1 to + a
+2 to + a
 1 to + ah + non
 1 to + ahon + we
 1 to + ai
-1 to + ana + ha + non
-1 to + ana + n + ahon
+1 to + a + na + ha + non
+1 to + anan + ahon
 1 to + a + non
 1 to + a + o + ma + bo
 1 to + ati
@@ -4017,28 +3693,30 @@
 1 to + en + i
 1 toh
 1 to + he
-1 to + hko
+1 toh + ko
 1 to + is
-1 to + is + h
+1 to + ish
 1 to + j
 1 to + ka
 1 to + ke
 1 to + ke + bi + ribi
+1 to + ke + pari
 1 to + ke + ribi
 1 to + ko + ra
 1 to + ko + ro
+1 to + ma
 1 to + ma + ba
 1 to + ma + do
 1 to + ma + n + do
 1 ton + ko
 1 ton + ko + bo + ka
-1 tonpin
-1 tonpin + ka
-1 to + ri + s + to + bo
-1 toro
-1 toro + ahon
-1 toro + ki
-1 toro + mena
+1 ton + pi + n
+1 ton + pi + n + ka
+2 toristobo
+1 to + ro
+1 to + ro + ahon
+1 to + ro + ki
+1 to + ro + mena
 1 toró
 1 toró + bo
 1 to + se
@@ -4054,18 +3732,18 @@
 1 toshi + ni
 1 to + ya
 1 tra
-1 tra + e + r
+1 tra + er
 1 tra + ta
 1 tra + y + en + do
 1 trece
 1 trs
 1 trípode
 1 tsa
-1 tsak + a + ba + tanon
+1 tsa + ka + bata + non
 1 tsa + kai
 1 tsa + ka + ke
-1 tsak + a + ri + b + ina + ketian
-1 tsak + awa + na
+1 tsa + ka + ri + b + ina + ketian
+1 tsa + ka + wan + a
 1 tsama
 1 tsama + beran + i
 1 tsama + hon
@@ -4088,7 +3766,8 @@
 1 tse + kai
 1 tse + ka + ke
 1 tse + ka + pake
-1 tsi + kospihiko
+1 tsi + kospi + hiko
+1 tsi + mo
 1 tsinki
 1 tsinki + kasai
 1 tsinki + n + tana
@@ -4104,19 +3783,19 @@
 1 tso + a + bi
 1 tso + a + bo
 1 tso + a + ki
-1 tso + a + kin
-1 tso + an
-1 tso + an + ki
-1 tso + a + t + s
+1 tso + akin
+1 tso + a + n
+1 tso + a + n + ki
+1 tso + ats
 1 tso + betan
 1 tso + ko
-1 tso + mi + n + ke
-1 tso + mo
+1 tso + min + ke
+2 tso + mo
 1 tso + n
 1 tso + n + bi
 1 tso + n + ki
 1 t + u
-1 t + í + a
+1 tía
 1 tó
 1 u + ai + ki
 1 u + chi
@@ -4125,11 +3804,11 @@
 1 uin + ki
 1 u + ke
 1 u + ke + ah
-1 u + ma + ri
+1 u + mari
 1 umhum
 1 u + n
 1 una
-1 una + nke + ra
+1 una + n + ke + ra
 1 una + we
 1 una + yama
 1 u + ne + hon
@@ -4137,15 +3816,15 @@
 1 uni + versidad + ain
 1 unun
 1 va
-1 vamos
+1 va + mo + s
 1 va + s
 1 vecino
 1 veinticuat + ro
-1 vena + do
+1 v + ena + do
 1 venga
-1 vete
+1 v + ete
 1 vez
-1 viejiit + ahako
+1 vieji + i + t + ahako
 1 vieji + ta
 1 vieji + ta + pake + i
 1 vieji + to
@@ -4154,16 +3833,16 @@
 1 vivía
 1 víve + res
 1 wa
-1 wa + cho
+2 wa + cho
 1 wa + cho + i + shama + n
 1 wa + chó
 1 wa + hon + ki
 1 wa + hon + kin
-1 wa + hon + tima
-1 wa + hon + tima + ra + ka
+1 wa + hon + ti + ma
+1 wa + hon + ti + ma + ra + ka
 1 wa + hon + ti + ri
 1 wa + hon + we
-1 wai
+2 wai
 1 wai + ai
 1 wai + hon + tanwe
 1 wai + ko + a + tanwe
@@ -4171,12 +3850,12 @@
 1 wai + oma + bo + bi
 1 wa + ka
 1 wa + ka + ka + ma
-1 wa + ka + ma + ri + na
+1 wa + ka + mari + na
 1 wa + ke + bain + ki
 1 wa + ke + hon
 1 wa + ke + ta
-1 w + aketani
-1 w + aketani + ki
+1 wa + ke + tani
+1 wa + ke + tani + ki
 1 wa + ke + we
 1 wa + kin
 1 wan + a
@@ -4186,57 +3865,60 @@
 1 wan + kin
 1 wan + kin + bi
 1 wan + kin + bi + ka
-1 wan + om + a + bo
-1 wan + om + akatiai
+1 wanom + a + bo
+1 wanom + akatiai
 1 wa + non + ma + ke
 1 wa + sh + pá
-1 wasi
-1 wasi + cha
-1 wasi + ka
-1 wasi + ma
+1 wa + si
+1 wa + si + cha
+1 wa + si + ka
+1 wa + si + ma
 1 wa + tsi
 1 wa + wa
 1 wa + wa + ki
 1 wa + wa + kin
+1 wa + wa + ti
 1 wa + yo + n
-1 we + an
-1 we + an + ma
+1 we + a + n
+1 we + a + n + ma
 1 we + ha
 1 we + ha + i
 1 we + na
 1 we + na + hon
-1 we + ne
-1 we + ne + he + ko
+2 we + ne
+1 we + ne + heko
 1 we + ni
 1 we + n + san
-1 we + ná
-1 we + ná + hon
+1 wená
+1 wená + hon
 1 we + sh + ta
 1 westiora
 1 westiora + hako
 1 westiora + hoko
-1 we + s + ti + wan
+1 we + sti + wan
 1 we + te + hiko
-1 wetsa
+2 wetsa
 1 wetsa + betan
 1 wetsa + biri
-1 wetsa + bo
+2 wetsa + bo
 1 wetsa + bo + bi + yama
 1 wetsa + hako
 1 wetsa + hako + ribi + ka
 1 wetsa + he + ma
 1 wetsa + hon
-1 wetsa + ka
-1 wetsa + ka + n
-1 wetsa + ki
-1 wetsa + nko
+2 wetsa + ka
+2 wetsa + ka + n
+2 wetsa + ki
+2 wetsa + nko
+1 wetsa + oni + hhikio
 1 wetsa + pa
 1 wetsa + ribi
 1 wetsa + riki
 1 wetsis
 1 wetsis + i
 1 wetsis + pai
-1 we + tsá
+2 wetsá
+1 wetsá + bo
 1 wewa
 1 wewa + hon
 1 wewa + hon + pake + i
@@ -4259,14 +3941,14 @@
 1 winí
 1 wi + o
 1 wi + o + bi
-1 wisha + hon
-1 wisha + hon + ka
-1 wisha + i
-1 wisha + ke
-1 wisha + ki
-1 wisha + tanwe
-1 wisha + ta + we + n
-1 wi + sh + ka
+1 wis + ha + hon
+1 wis + ha + hon + ka
+1 wis + ha + i
+1 wis + ha + ke
+1 wis + ha + ki
+1 wishat + a + n + we
+1 wishat + awe + n
+1 wis + h + ka
 1 wishtininti
 1 wishtininti + ribi
 1 wist + ewan
@@ -4275,7 +3957,7 @@
 1 wist + ori
 1 witsa
 1 witsa + ha + ku
-1 witsa + ka
+2 witsa + ka
 1 witsa + ribi
 1 witsa + ribi + ka
 1 xa + ba
@@ -4291,8 +3973,8 @@
 1 xea + bain
 1 xea + h + ka
 1 xea + hon
-1 xea + i
-1 xea + i + ka + timari
+2 xea + i
+1 xea + i + kati + mari
 1 xea + kanai
 1 xea + kin
 1 xea + mis
@@ -4308,20 +3990,22 @@
 1 xe + na
 1 xe + te + i + shoko
 1 xe + teke
-1 x + oai
+1 x + o + ai
 1 xoan + ki
-1 xobo
+2 xobo
 1 xobo + a
 1 xobo + n
+1 xobo + rewan
 1 xoi + a
 1 xoi + hon
 1 xoxo + a
 1 xoxo + ai
 1 xoxo + yamai
 1 xoá
-1 y
-1 ya
-1 ya + e
+2 y
+2 ya
+2 yae
+1 yae + ki
 1 ya + hun
 1 ya + ka
 1 ya + ka + ta
@@ -4329,34 +4013,37 @@
 1 ya + ka + ti + ka
 1 yama
 1 yamai
-1 yama + ke + n + tin
+1 yama + ke + n + ti + n
 1 yama + ketian
-1 yama + ke + tin
+1 yama + ke + ti + n
 1 yama + riki
 1 yama + s + a
 1 ya + me
 1 ya + mi
-1 yamé
+2 yamé
 1 yamé + banon
 1 yamé + kesa + ka
-1 yan + kon + toro
-1 yan + pan
-1 yan + tan
-1 yan + tan + ka + n + kin
-1 yan + tan + shoko
+1 ya + nko + n + to + ro
+1 ya + n + pa + n
+1 yantan
+1 yantan + kaini
+1 yantan + ka + n + kin
+1 yantan + shoko
 1 ya + pa
 1 ya + pa + ma
+1 ya + r + ina
 1 ya + tan + kasi + ka
 1 ya + tsa
 1 ya + wa
 1 ya + wa + ka
 1 ya + wan
-1 ya + wi + sh
-1 ya + wi + sh + ribi
+1 yawish
+1 yawish + ribi
 1 y + awá
 1 yerno
-1 yo
-1 yoa
+2 yo
+2 yoa
+1 yoa + bo
 1 yoa + hon
 1 yoa + ma
 1 yoa + ma + bo + i
@@ -4371,18 +4058,20 @@
 1 yoashi + kanai + tian
 1 yoashi + tian
 1 yo + aya
-1 yo + be + ya
+1 yobeya
+1 yobeya + ma
+1 yobeya + ton
 1 yoi
 1 yoi + a
 1 yoi + ai
-1 yoi + ba + i + a
+1 yoi + bai + a
 1 yoi + bain + kin
-1 yo + i + ba + no
+1 yo + ibano
 1 yoi + banon
 1 yoi + bi
 1 yoi + hon
 1 yoi + hon + i
-1 yoi + hon + tan + kin
+1 yoi + hon + tanki + n
 1 yoi + hon + tanwe
 1 yoi + hon + tanwe + n
 1 yoi + hon + ti
@@ -4391,26 +4080,28 @@
 1 yoi + ketian
 1 yoi + ki
 1 yoi + kin + ka
+1 yoi + mis + ke
 1 yoi + n
-1 yoi + na
-1 yoi + na + bo
+1 yo + ina
+1 yo + ina + bo
 1 yoi + n + ai
-1 yoi + na + yamai
-1 yoi + non
+1 yo + ina + yamai
+2 yoi + non
 1 yoi + pake
 1 yoi + pake + yama + ni + ki
 1 yoi + pa + oin + i
 1 yo + i + paoni + ke
+1 yoi + ribi
 1 yoi + ribi + ai
-1 yoi + shi
-1 yoi + shi + bo
-1 yoi + shi + kati + ai
+1 yoishi
+1 yoishi + bo
+1 yoishi + kati + ai
 1 yoi + ta
-1 yoi + ta + nke
+1 yoi + ta + n + ke
 1 yoi + tanwe
-1 yoi + tima
-1 yoi + tima + ki
-1 yoi + we
+1 yoi + ti + ma
+1 yoi + ti + ma + ki
+2 yoi + we
 1 yoi + ya + bi
 1 yoi + ya + i
 1 yoi + ya + ka
@@ -4425,29 +4116,30 @@
 1 yometso + ai + tian
 1 yometso + i + res
 1 yometso + xon
-1 yona + hon
+2 yona + hon
 1 yona + hon + res
 1 yona + hon + ribi
 1 yona + kaini
 1 yona + pake + ai
 1 yonoki
 1 yonoki + n
-1 yo + n + sh + an
-1 yo + ná + hon
-1 yo + ra
+1 yo + nshan
+1 yo + n + á + hon
+2 yo + ra
 1 yo + ra + ke
 1 yo + ra + ki
 1 yo + ra + n
 1 yo + ra + ra
-1 yo + sh + a
+1 yo + s + ha
 1 yoshan
-1 yoshan + hako
+2 yoshan + hako
 1 yoshan + hako + i
 1 yoshan + ma
 1 yoshan + shoko
-1 yo + shi + an
-1 yo + shi + ma
-1 yo + shi + ma + ki
+1 yo + shia
+1 yo + shia + n
+1 yo + shima
+1 yo + shima + ki
 1 yoshin
 1 yoshin + i + n
 1 yoshin + ka
@@ -4464,7 +4156,8 @@
 1 yosi + bo + a
 1 yosi + ma
 1 yosi + ma + hako
-1 yoweyaton
+1 yo + wa + shima
+2 yoweyaton
 1 yoweyaton + ki
 1 yo + ya
 1 yo + ya + bi + ki
@@ -4472,21 +4165,21 @@
 1 yo + ya + kopi
 1 yo + yoi + ke
 1 yo + yoi + ki
-1 yo + yoi + ma + pai + riki
-1 yo + yoi + paoti
+1 yo + yo + i + ma + pai + riki
+1 yo + yo + i + paoti
 1 yo + yoi + we
 1 yu + ca
 1 yu + ina + a
 1 yu + i + ni + ke
-1 yu + i + tanon
+1 yu + i + ta + non
 1 yu + i + tanwe
 1 yu + kati
 1 yu + kati + ki
 1 yu + ma
 1 yu + si + bo + ka
-1 Él
 1 á + ma + ma
 1 á + ti + ka
+1 é + l
 1 í + kati
 1 í + s + ko + bi
-1 óh + ati
+1 ó + ha + ti
