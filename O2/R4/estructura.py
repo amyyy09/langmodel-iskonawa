@@ -463,6 +463,21 @@ class MultilingualCorpusEntry(CorpusEntry):
         if len(self.words) == 1:
             self.words = self.words[0].process()
 
+    def map_words_with_glosses(self):
+        """
+        Maps words with their glosses.
+
+        Returns:
+            dict: A dictionary mapping words to their glosses.
+        """
+        words_with_glosses = {}
+
+        for word_entry in self.words:
+            words_with_glosses.update(word_entry.map_words_with_glosses())
+            print(words_with_glosses)
+
+        return words_with_glosses
+
 class MultilingualWordEntry(WordEntry):
     """
     Represents a word entry in a multilingual corpus with morpheme breaks, part-of-speech (POS) tags, and glosses.
@@ -581,3 +596,29 @@ class MultilingualWordEntry(WordEntry):
             new_word_entries[-1].gloss = {lang: " ".join(current_gloss[lang]) for lang in current_gloss}
 
         return new_word_entries
+
+    def map_words_with_glosses(self):
+        """
+        Maps words with their glosses.
+
+        Returns:
+            dict: A dictionary mapping words to their glosses.
+        """
+        words_with_glosses = {}
+        
+        # first_gloss_key = next(iter())
+        # first_gloss_value = self.gloss[first_gloss_key]
+        
+        i = 0
+        for mb in self.mb:
+            if len(self.pos) == 0 or len(self.gloss) == 0: 
+                i += 1
+                continue
+            if i >= len(self.pos) or i >= len(self.gloss['es']):
+                break
+            # print(i)
+            if "n." in self.pos[i] or "v." in self.pos[i] or "adj." in self.pos[i] or "adv." in self.pos[i]:
+                words_with_glosses[mb] = self.gloss['es'][i]
+            i += 1
+
+        return words_with_glosses
