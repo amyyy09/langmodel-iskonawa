@@ -1,0 +1,803 @@
+Word pairs saved to ./mapping/train.txt.
+Word pairs saved to ./mapping/test.txt.
+(100, 300)
+True target word:  ustedes
+Predicted neighbors: [' matar', ' matar', ' barrer', ' mezquinar', ' colgar', ' ayudar', ' calmarse', ' calmarse', ' ahogarse', ' pudrirse']
+True target word:  flechar
+Predicted neighbors: [' flechar', ' flechar', ' flechar', ' flechar', ' flecha', ' ahogarse', ' parrilla', ' parrilla', ' parrilla', ' parrilla']
+True target word:  comer
+Predicted neighbors: [' ahogarse', ' yuca', ' ella', ' nadar', ' flechar', ' flechar', ' flechar', ' flechar', ' abuela', ' enroscarse']
+True target word:  cedro
+Predicted neighbors: [' cedro', ' cedro', ' brujo', ' ahogarse', ' sobrar', ' sobrar', ' cantar', ' querer', ' loro', ' ayudar']
+True target word:  semilla
+Predicted neighbors: [' oler', ' llenar', ' colgar', ' trabajar', ' cantar', ' enroscarse', ' madre', ' madre', ' sembrar', ' vivir']
+True target word:  tazón
+Predicted neighbors: [' papá', ' ahogarse', ' crecido', ' arco', ' cantar', ' turista', ' hija', ' yerno', ' yerno', ' grande']
+True target word:  cocinar
+Predicted neighbors: [' madre', ' madre', ' matar', ' matar', ' demorar', ' pudrirse', ' enroscarse', ' encender', ' ahogarse', ' cavar']
+True target word:  piel
+Predicted neighbors: [' lanzar', ' subir', ' pensar', ' querer', ' desamarrar', ' hablar', ' tomar', ' tomar', ' correr', ' saber']
+True target word:  armadillo
+Predicted neighbors: [' matar', ' matar', ' encender', ' noche', ' pudrirse', ' correr', ' eliminar', ' oler', ' crecido', ' corona']
+True target word:  verde
+Predicted neighbors: [' matar', ' matar', ' llenar', ' pudrirse', ' ahogarse', ' lanzar', ' soplar', ' soplar', ' soplar', ' subir']
+True target word:  suyo
+Predicted neighbors: [' ellos', ' ellos', ' ahogarse', ' matar', ' matar', ' ellas', ' ellas', ' morir', ' ella', ' agruparse']
+True target word:  ashipa
+Predicted neighbors: [' atizar', ' ahogarse', ' pudrirse', ' hablar', ' oler', ' querer', ' rayar', ' sobar', ' sembrar', ' collar']
+True target word:  quemar
+Predicted neighbors: [' oler', ' papá', ' hermano', ' hermano', ' yerno', ' yerno', ' collar', ' comer', ' comer', ' comer']
+True target word:  cerro
+Predicted neighbors: [' esperar', ' ahogarse', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' probar', ' engañar', ' usar']
+True target word:  diseño
+Predicted neighbors: [' olla', ' quién', ' quién', ' papá', ' cantar', ' bueno', ' correr', ' saber', ' querer', ' hermano']
+True target word:  tejer
+Predicted neighbors: [' matar', ' matar', ' picar', ' saber', ' querer', ' sobar', ' hablar', ' oler', ' ahogarse', ' pudrirse']
+True target word:  mezquinar
+Predicted neighbors: [' tomar', ' tomar', ' atizar', ' llamar', ' llamar', ' llamar', ' acabarse', ' sobrar', ' sobrar', ' ahogarse']
+True target word:  ellas
+Predicted neighbors: [' ellas', ' ellas', ' ellos', ' ellos', ' ahogarse', ' lejos', ' lejos', ' lejos', ' ella', ' matar']
+True target word:  claro
+Predicted neighbors: [' traer', ' matar', ' matar', ' oler', ' colgar', ' desamarrar', ' criar', ' cavar', ' lanzar', ' atizar']
+True target word:  sobrar
+Predicted neighbors: [' colgar', ' trabajar', ' soplar', ' soplar', ' soplar', ' correr', ' vivir', ' vivir', ' cantar', ' subir']
+True target word:  llamar
+Predicted neighbors: [' olla', ' noche', ' candela', ' candela', ' ahogarse', ' engañar', ' ellas', ' ellas', ' joven', ' joven']
+True target word:  sobar
+Predicted neighbors: [' ahogarse', ' lupuna', ' agua', ' loro', ' jaguar', ' colgar', ' picar', ' atizar', ' bambú', ' pijuayo']
+True target word:  ella
+Predicted neighbors: [' vivir', ' vivir', ' hablar', ' soportar', ' llevar', ' casa', ' casa', ' batir', ' matar', ' matar']
+True target word:  engañar
+Predicted neighbors: [' pisar', ' mezquinar', ' completo', ' oler', ' tomar', ' tomar', ' encender', ' eliminar', ' oscuro', ' cargar']
+True target word:  ronsoco
+Predicted neighbors: [' ahogarse', ' colgar', ' cantar', ' pisar', ' correr', ' collar', ' cavar', ' llamar', ' llamar', ' llamar']
+True target word:  enroscarse
+Predicted neighbors: [' matar', ' matar', ' terminar', ' ahogarse', ' cavar', ' subir', ' soplar', ' soplar', ' soplar', ' escapar']
+True target word:  pajarito
+Predicted neighbors: [' flaco', ' encender', ' mezquino', ' brujo', ' ahogarse', ' crecido', ' batir', ' volar', ' colgar', ' grande']
+True target word:  niño
+Predicted neighbors: [' niño', ' joven', ' joven', ' quemar', ' quemar', ' quién', ' quién', ' hermano', ' hermano', ' pensar']
+True target word:  shaman
+Predicted neighbors: [' oler', ' ahogarse', ' volar', ' cantar', ' hablar', ' engañar', ' matar', ' matar', ' ellas', ' ellas']
+True target word:  yerno
+Predicted neighbors: [' hermano', ' hermano', ' yerno', ' yerno', ' hermana', ' hermana', ' ahogarse', ' sobrino', ' colgar', ' mesquinar']
+True target word:  multitud
+Predicted neighbors: [' hablar', ' cortar', ' cortar', ' colgar', ' collar', ' querer', ' comer', ' comer', ' comer', ' saber']
+True target word:  círculo
+Predicted neighbors: [' tomar', ' tomar', ' cavar', ' matar', ' matar', ' soplar', ' soplar', ' soplar', ' sobar', ' subir']
+True target word:  cargar
+Predicted neighbors: [' otro', ' matar', ' matar', ' yerno', ' yerno', ' ahogarse', ' pariente', ' calmarse', ' calmarse', ' pudrirse']
+True target word:  crecido
+Predicted neighbors: [' cantar', ' matar', ' matar', ' agruparse', ' brotar', ' brotar', ' golpear', ' golpear', ' ahogarse', ' soplar']
+True target word:  roncar
+Predicted neighbors: [' dormir', ' correr', ' cantar', ' volar', ' matar', ' matar', ' llorar', ' creer', ' soplar', ' soplar']
+True target word:  raspar
+Predicted neighbors: [' oler', ' traer', ' atizar', ' ahogarse', ' cavar', ' pudrirse', ' criar', ' matar', ' matar', ' engañar']
+True target word:  concha
+Predicted neighbors: [' pisar', ' ahogarse', ' adornarse', ' aumentar', ' aumentar', ' atizar', ' cantar', ' soplar', ' soplar', ' soplar']
+True target word:  largo
+Predicted neighbors: [' matan', ' quebrar', ' aumentar', ' aumentar', ' querer', ' aleta', ' criar', ' soplar', ' soplar', ' soplar']
+True target word:  chicha
+Predicted neighbors: [' tomar', ' tomar', ' picar', ' atizar', ' pensar', ' cantar', ' soplar', ' soplar', ' soplar', ' criar']
+True target word:  agruparse
+Predicted neighbors: [' ahogarse', ' aumentar', ' aumentar', ' atizar', ' colgar', ' correr', ' enroscarse', ' agruparse', ' agrupados', ' matan']
+True target word:  amarrar
+Predicted neighbors: [' tangana', ' doler', ' doler', ' doler', ' llamar', ' llamar', ' llamar', ' brotar', ' brotar', ' mecerse']
+True target word:  hermana
+Predicted neighbors: [' quemar', ' quemar', ' bañarse', ' matar', ' matar', ' llenar', ' lanzar', ' hablar', ' noche', ' correr']
+True target word:  piña
+Predicted neighbors: [' collar', ' quebrar', ' soplar', ' soplar', ' soplar', ' vivir', ' vivir', ' ahogarse', ' querer', ' aumentar']
+True target word:  rayar
+Predicted neighbors: [' tubérculo', ' piso', ' arco', ' ahogarse', ' papá', ' líquido', ' yuca', ' conejo', ' loro', ' árbol']
+True target word:  chamán
+Predicted neighbors: [' cantar', ' colgar', ' ahogarse', ' tomar', ' tomar', ' terminar', ' agruparse', ' demorar', ' mezquinar', ' engañar']
+True target word:  lanzar
+Predicted neighbors: [' quién', ' quién', ' encender', ' terminar', ' cantar', ' ahogarse', ' eliminar', ' matar', ' matar', ' pudrirse']
+True target word:  soportar
+Predicted neighbors: [' colgar', ' ahogarse', ' oler', ' subir', ' volar', ' cantar', ' correr', ' soplar', ' soplar', ' soplar']
+True target word:  carne
+Predicted neighbors: [' cantar', ' ahogarse', ' llorar', ' colgar', ' criar', ' picar', ' engañar', ' creer', ' morir', ' quebrar']
+True target word:  mentiroso
+Predicted neighbors: [' ahogarse', ' jaguar', ' caliente', ' matar', ' matar', ' hablar', ' rayar', ' loro', ' vivir', ' vivir']
+True target word:  ocultar
+Predicted neighbors: [' hablar', ' matar', ' matar', ' atizar', ' correr', ' encender', ' cavar', ' ahogarse', ' pudrirse', ' cocinar']
+True target word:  parrilla
+Predicted neighbors: [' tubérculo', ' guarida', ' raíz', ' piso', ' gallina', ' parrilla', ' parrilla', ' parrilla', ' parrilla', ' concha']
+True target word:  soplar
+Predicted neighbors: [' ellas', ' ellas', ' ahogarse', ' hablar', ' comer', ' comer', ' comer', ' ella', ' cedro', ' cedro']
+True target word:  golpear
+Predicted neighbors: [' papá', ' ahogarse', ' madre', ' madre', ' hermano', ' hermano', ' noche', ' otro', ' shipibo', ' shipibo']
+True target word:  pariente
+Predicted neighbors: [' subir', ' demorar', ' aumentar', ' aumentar', ' tomar', ' tomar', ' soplar', ' soplar', ' soplar', ' picar']
+True target word:  turista
+Predicted neighbors: [' correr', ' matar', ' matar', ' colgar', ' eliminar', ' batir', ' vivir', ' vivir', ' ahogarse', ' cantar']
+True target word:  macho
+Predicted neighbors: [' ahogarse', ' viuda', ' criar', ' esconder', ' esconder', ' sufrir', ' sufrir', ' morir', ' enroscarse', ' traer']
+True target word:  gringo
+Predicted neighbors: [' quemar', ' quemar', ' llamar', ' llamar', ' llamar', ' soplar', ' soplar', ' soplar', ' trabajar', ' subir']
+True target word:  nombre
+Predicted neighbors: [' colgar', ' subir', ' encontrar', ' encontrar', ' contar', ' contar', ' contar', ' renegar', ' ahogarse', ' quedarse']
+True target word:  tomar
+Predicted neighbors: [' ahogarse', ' tomar', ' tomar', ' querer', ' cantar', ' agrupados', ' agruparse', ' atizar', ' coposo', ' quebrar']
+True target word:  sostener
+Predicted neighbors: [' colgar', ' cantar', ' cargar', ' cargar', ' cargar', ' soplar', ' soplar', ' soplar', ' probar', ' ahogarse']
+True target word:  maíz
+Predicted neighbors: [' oler', ' atizar', ' cargar', ' cargar', ' cargar', ' mezquinar', ' pisar', ' colgar', ' encender', ' contar']
+True target word:  terminar
+Predicted neighbors: [' ahogarse', ' morir', ' picar', ' muerto', ' muerto', ' noche', ' crecido', ' matar', ' matar', ' encender']
+True target word:  sobrar
+Predicted neighbors: [' alacrán', ' matar', ' matar', ' colgar', ' encender', ' calmarse', ' calmarse', ' brujo', ' ahogarse', ' correr']
+True target word:  lavarse
+Predicted neighbors: [' bañarse', ' cavar', ' lavarse', ' lanzar', ' desamarrar', ' clavar', ' subir', ' tomar', ' tomar', ' adornarse']
+True target word:  tostar
+Predicted neighbors: [' cantar', ' hablar', ' ahogarse', ' colgar', ' matar', ' matar', ' collar', ' quebrar', ' batir', ' encender']
+True target word:  plátano
+Predicted neighbors: [' plátano', ' plátano', ' plátano', ' yuca', ' olla', ' loro', ' ella', ' caoba', ' corona', ' líquido']
+True target word:  cantar
+Predicted neighbors: [' venir', ' venir', ' matar', ' matar', ' adornarse', ' desamarrar', ' lanzar', ' llevar', ' pisar', ' terminar']
+True target word:  desigual
+Predicted neighbors: [' correr', ' soplar', ' soplar', ' soplar', ' colgar', ' cavar', ' mujer', ' volar', ' pudrirse', ' ahogarse']
+True target word:  jaguar
+Predicted neighbors: [' correr', ' nadar', ' subir', ' ahogarse', ' colgar', ' pudrirse', ' querer', ' deambular', ' abuela', ' crecido']
+True target word:  lejos
+Predicted neighbors: [' llenar', ' hermana', ' hermana', ' hermano', ' hermano', ' lanzar', ' ahogarse', ' adornarse', ' pudrirse', ' bañarse']
+True target word:  liana
+Predicted neighbors: [' hablar', ' noche', ' piso', ' macho', ' agua', ' plato', ' casa', ' casa', ' arco', ' ahogarse']
+True target word:  jergón
+Predicted neighbors: [' aumentar', ' aumentar', ' ahogarse', ' atizar', ' pudrirse', ' matar', ' matar', ' sobar', ' nadar', ' colgar']
+True target word:  raspar
+Predicted neighbors: [' ahogarse', ' matar', ' matar', ' venir', ' venir', ' pudrirse', ' llorar', ' bambú', ' cantar', ' jaguar']
+True target word:  lejos
+Predicted neighbors: [' querer', ' adornarse', ' quemar', ' quemar', ' demorar', ' subir', ' tomar', ' tomar', ' encontrar', ' encontrar']
+True target word:  candela
+Predicted neighbors: [' picar', ' quemar', ' quemar', ' cantar', ' quebrar', ' atizar', ' tomar', ' tomar', ' hueco', ' hueco']
+True target word:  yo
+Predicted neighbors: [' raíz', ' sufrir', ' sufrir', ' otra', ' sobrino', ' lupuna', ' ahogarse', ' pariente', ' coposo', ' espalda']
+True target word:  largo
+Predicted neighbors: [' correr', ' ahogarse', ' deambular', ' volar', ' subir', ' hablar', ' vivir', ' vivir', ' sobrar', ' sobrar']
+True target word:  shipibo
+Predicted neighbors: [' shipibo', ' shipibo', ' alacrán', ' picar', ' saber', ' bañarse', ' hablar', ' casa', ' casa', ' sobar']
+True target word:  ahí
+Predicted neighbors: [' ahí', ' ahí', ' ahí', ' ahí', ' llenar', ' picar', ' pedir', ' pedir', ' sembrar', ' tomar']
+True target word:  diablo
+Predicted neighbors: [' brujo', ' ahogarse', ' oler', ' arco', ' correr', ' alacrán', ' volar', ' hablar', ' jaguar', ' subir']
+True target word:  viga
+Predicted neighbors: [' viga', ' ahogarse', ' olla', ' tubérculo', ' atizar', ' noche', ' papá', ' yuca', ' querer', ' roca']
+True target word:  perdiz
+Predicted neighbors: [' perdiz', ' viuda', ' cedro', ' cedro', ' trocha', ' serpiente', ' adornarse', ' pudrirse', ' hermana', ' hermana']
+True target word:  querer
+Predicted neighbors: [' querer', ' picar', ' olla', ' quebrada', ' quebrar', ' atizar', ' engañar', ' matan', ' aumentar', ' aumentar']
+True target word:  cargar
+Predicted neighbors: [' ahogarse', ' cargar', ' cargar', ' cargar', ' pisar', ' adornarse', ' soplar', ' soplar', ' soplar', ' madre']
+True target word:  trabajador
+Predicted neighbors: [' trabajador', ' ahogarse', ' colgar', ' mujer', ' noche', ' madre', ' madre', ' olla', ' brujo', ' llenar']
+True target word:  extranjero
+Predicted neighbors: [' extranjero', ' suyo', ' bambú', ' colgar', ' ellas', ' ellas', ' bebida', ' loro', ' oler', ' otro']
+True target word:  cortar
+Predicted neighbors: [' cortar', ' cortar', ' vivir', ' vivir', ' ellas', ' ellas', ' ellos', ' ellos', ' encender', ' matar']
+True target word:  ocioso
+Predicted neighbors: [' ocioso', ' quemar', ' quemar', ' casa', ' casa', ' eliminar', ' grande', ' abuela', ' madre', ' madre']
+True target word:  poco
+Predicted neighbors: [' poco', ' matar', ' matar', ' matan', ' eliminar', ' flechar', ' flechar', ' flechar', ' flechar', ' colgar']
+True target word:  casa
+Predicted neighbors: [' casa', ' casa', ' correr', ' volar', ' matar', ' matar', ' abuela', ' pudrirse', ' subir', ' hablar']
+True target word:  preguntar
+Predicted neighbors: [' preguntar', ' preguntar', ' engañar', ' pensar', ' hablar', ' matar', ' matar', ' subir', ' batir', ' brotar']
+True target word:  esconder
+Predicted neighbors: [' matar', ' matar', ' picar', ' llenar', ' cantar', ' correr', ' ellas', ' ellas', ' flechar', ' flechar']
+True target word:  cocinar
+Predicted neighbors: [' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocha', ' coposo', ' ahogarse', ' quebrar', ' yuca']
+True target word:  tensar
+Predicted neighbors: [' tensar', ' tensar', ' soplar', ' soplar', ' soplar', ' pensar', ' collar', ' cantar', ' pisar', ' hablar']
+True target word:  todos
+Predicted neighbors: [' todos', ' todos', ' todos', ' saber', ' hablar', ' pensar', ' contar', ' contar', ' contar', ' cantar']
+True target word:  atizar
+Predicted neighbors: [' atizar', ' ahogarse', ' picar', ' querer', ' jaguar', ' pudrirse', ' cantar', ' quebrar', ' hablar', ' aumentar']
+True target word:  llorar
+Predicted neighbors: [' llorar', ' volar', ' correr', ' venir', ' venir', ' ahogarse', ' pudrirse', ' quebrar', ' matar', ' matar']
+True target word:  quién
+Predicted neighbors: [' quién', ' quién', ' terminar', ' saber', ' cantar', ' oler', ' encender', ' ahogarse', ' matar', ' matar']
+True target word:  barrer
+Predicted neighbors: [' barrer', ' clavar', ' encender', ' cavar', ' cargar', ' cargar', ' cargar', ' esconder', ' esconder', ' lavarse']
+True target word:  pensar
+Predicted neighbors: [' pensar', ' tensar', ' tensar', ' llorar', ' preguntar', ' preguntar', ' sobrar', ' sobrar', ' creer', ' probar']
+True target word:  oler
+Predicted neighbors: [' oler', ' matar', ' matar', ' soplar', ' soplar', ' soplar', ' llorar', ' ahogarse', ' pudrirse', ' cavar']
+True target word:  sufrir
+Predicted neighbors: [' colgar', ' madre', ' madre', ' noche', ' casa', ' casa', ' ahogarse', ' caoba', ' corona', ' roca']
+True target word:  año
+Predicted neighbors: [' correr', ' diablo', ' loro', ' papá', ' macho', ' oler', ' plátano', ' plátano', ' plátano', ' volar']
+True target word:  probar
+Predicted neighbors: [' probar', ' poco', ' eliminar', ' pensar', ' flechar', ' flechar', ' flechar', ' flechar', ' roca', ' matan']
+True target word:  dormir
+Predicted neighbors: [' dormir', ' correr', ' cavar', ' volar', ' subir', ' soplar', ' soplar', ' soplar', ' pisar', ' llorar']
+True target word:  parrilla
+Predicted neighbors: [' parrilla', ' parrilla', ' parrilla', ' parrilla', ' loro', ' corona', ' arco', ' ella', ' trocha', ' abuela']
+True target word:  solo
+Predicted neighbors: [' solo', ' terminar', ' otro', ' cantar', ' pensar', ' otra', ' colgar', ' noche', ' quemar', ' quemar']
+True target word:  llevar
+Predicted neighbors: [' llevar', ' colgar', ' lanzar', ' subir', ' encender', ' cantar', ' pedir', ' pedir', ' quebrar', ' vivir']
+True target word:  ubos
+Predicted neighbors: [' ubos', ' cantar', ' atizar', ' oler', ' ahogarse', ' matar', ' matar', ' ellas', ' ellas', ' botar']
+True target word:  cerdo
+Predicted neighbors: [' cerdo', ' ahogarse', ' engañar', ' pudrirse', ' matar', ' matar', ' mesquinar', ' quebrar', ' colgar', ' picar']
+True target word:  pajarito
+Predicted neighbors: [' ahogarse', ' maquisapa', ' enroscarse', ' correr', ' atizar', ' agruparse', ' lupuna', ' colgar', ' cantar', ' adornarse']
+True target word:  sembrar
+Predicted neighbors: [' sembrar', ' tensar', ' tensar', ' hablar', ' pensar', ' terminar', ' saber', ' creer', ' matar', ' matar']
+True target word:  mesquinar
+Predicted neighbors: [' mesquinar', ' ahogarse', ' cedro', ' cedro', ' tomar', ' tomar', ' mezquinar', ' mecerse', ' maní', ' colgar']
+True target word:  ya
+Predicted neighbors: [' ya', ' casa', ' casa', ' raspar', ' raspar', ' muerto', ' muerto', ' noche', ' otro', ' saber']
+True target word:  contesta
+Predicted neighbors: [' matar', ' matar', ' encender', ' quién', ' quién', ' cantar', ' pudrirse', ' correr', ' hablar', ' llenar']
+True target word:  perder
+Predicted neighbors: [' ahogarse', ' colgar', ' cantar', ' roca', ' contar', ' contar', ' contar', ' piso', ' picar', ' correr']
+True target word:  bastante
+Predicted neighbors: [' correr', ' pudrirse', ' cavar', ' atizar', ' ahogarse', ' matar', ' matar', ' deambular', ' encender', ' enroscarse']
+True target word:  tú
+Predicted neighbors: [' cantar', ' eliminar', ' brotar', ' brotar', ' pensar', ' terminar', ' subir', ' colgar', ' pedir', ' pedir']
+True target word:  pequeño
+Predicted neighbors: [' llegar', ' pequeño', ' llamar', ' llamar', ' llamar', ' deambular', ' eliminar', ' oler', ' ahogarse', ' papá']
+True target word:  matan
+Predicted neighbors: [' matan', ' matar', ' matar', ' encender', ' aumentar', ' aumentar', ' criar', ' quebrar', ' barrer', ' probar']
+True target word:  ahumar
+Predicted neighbors: [' colgar', ' sobar', ' ahumar', ' ahumar', ' pensar', ' subir', ' soplar', ' soplar', ' soplar', ' probar']
+True target word:  shipibo
+Predicted neighbors: [' shipibo', ' shipibo', ' ahogarse', ' llamar', ' llamar', ' llamar', ' hermano', ' hermano', ' noche', ' matar']
+True target word:  ardilla
+Predicted neighbors: [' querer', ' ahogarse', ' quebrar', ' picar', ' criar', ' aumentar', ' aumentar', ' subir', ' soplar', ' soplar']
+True target word:  sobrino
+Predicted neighbors: [' pensar', ' hablar', ' creer', ' subir', ' preguntar', ' preguntar', ' sobar', ' soplar', ' soplar', ' soplar']
+True target word:  huevo
+Predicted neighbors: [' huevo', ' saber', ' picar', ' creer', ' encender', ' matar', ' matar', ' cantar', ' mojar', ' mojar']
+True target word:  nuevamente
+Predicted neighbors: [' probar', ' pensar', ' colgar', ' aumentar', ' aumentar', ' saber', ' ahogarse', ' tomar', ' tomar', ' terminar']
+True target word:  agua
+Predicted neighbors: [' agua', ' ahogarse', ' pudrirse', ' soplar', ' soplar', ' soplar', ' líquido', ' roca', ' oler', ' picar']
+True target word:  fastidiar
+Predicted neighbors: [' cantar', ' engañar', ' pedir', ' pedir', ' matar', ' matar', ' ahogarse', ' agruparse', ' atizar', ' oler']
+True target word:  flecha
+Predicted neighbors: [' flechar', ' flechar', ' flechar', ' flechar', ' flecha', ' oler', ' poco', ' matan', ' colgar', ' ahogarse']
+True target word:  viudo
+Predicted neighbors: [' viudo', ' pijuayo', ' abuela', ' crecido', ' quebrada', ' correr', ' ahogarse', ' hermana', ' hermana', ' papá']
+True target word:  batir
+Predicted neighbors: [' batir', ' matar', ' matar', ' ahogarse', ' encender', ' eliminar', ' morir', ' escapar', ' escapar', ' colgar']
+True target word:  embarazada
+Predicted neighbors: [' matar', ' matar', ' encender', ' morir', ' colgar', ' engañar', ' ahogarse', ' noche', ' cantar', ' calmarse']
+True target word:  muerto
+Predicted neighbors: [' muerto', ' muerto', ' morir', ' ahogarse', ' yerno', ' yerno', ' crecido', ' matar', ' matar', ' picar']
+True target word:  tú
+Predicted neighbors: [' hija', ' pedir', ' pedir', ' otro', ' hermana', ' hermana', ' casa', ' casa', ' tú', ' tú']
+True target word:  chicha
+Predicted neighbors: [' perdiz', ' chicha', ' chicha', ' viuda', ' aleta', ' gallina', ' piña', ' concha', ' serpiente', ' querer']
+True target word:  matar
+Predicted neighbors: [' matar', ' matar', ' encender', ' pisar', ' subir', ' lanzar', ' colgar', ' volar', ' cantar', ' cavar']
+True target word:  agarrar
+Predicted neighbors: [' agarrar', ' agarrar', ' botar', ' aumentar', ' aumentar', ' atizar', ' subir', ' terminar', ' eliminar', ' encender']
+True target word:  llegar
+Predicted neighbors: [' llegar', ' comer', ' comer', ' comer', ' saber', ' matar', ' matar', ' creer', ' eliminar', ' encender']
+True target word:  servir
+Predicted neighbors: [' volar', ' contar', ' contar', ' contar', ' correr', ' ahumar', ' ahumar', ' querer', ' colgar', ' servir']
+True target word:  maní
+Predicted neighbors: [' maní', ' querer', ' ahogarse', ' yuca', ' plátano', ' plátano', ' plátano', ' jaguar', ' vaca', ' cedro']
+True target word:  trocha
+Predicted neighbors: [' trocha', ' ahogarse', ' cantar', ' picar', ' loro', ' comer', ' comer', ' comer', ' papá', ' pisar']
+True target word:  piso
+Predicted neighbors: [' piso', ' raíz', ' pensar', ' atizar', ' olla', ' quebrar', ' ahogarse', ' matan', ' hablar', ' casa']
+True target word:  raíz
+Predicted neighbors: [' raíz', ' atizar', ' batir', ' quebrar', ' guarida', ' ahogarse', ' colgar', ' cantar', ' hablar', ' terminar']
+True target word:  flaco
+Predicted neighbors: [' flaco', ' brujo', ' ahogarse', ' collar', ' rojo', ' oscuro', ' coposo', ' hablar', ' atizar', ' mezquino']
+True target word:  reunirse
+Predicted neighbors: [' maní', ' yuca', ' llenar', ' jaguar', ' querer', ' ahogarse', ' reunirse', ' plátano', ' plátano', ' plátano']
+True target word:  corona
+Predicted neighbors: [' corona', ' correr', ' ahogarse', ' matar', ' matar', ' cavar', ' pudrirse', ' hablar', ' noche', ' loro']
+True target word:  mecerse
+Predicted neighbors: [' mecerse', ' criar', ' soplar', ' soplar', ' soplar', ' aumentar', ' aumentar', ' correr', ' hablar', ' comer']
+True target word:  serpiente
+Predicted neighbors: [' correr', ' nadar', ' atizar', ' adornarse', ' cavar', ' picar', ' colgar', ' llenar', ' serpiente', ' tomar']
+True target word:  arco
+Predicted neighbors: [' arco', ' ahogarse', ' jaguar', ' oler', ' subir', ' macho', ' correr', ' quemar', ' quemar', ' cantar']
+True target word:  loro
+Predicted neighbors: [' loro', ' diablo', ' maíz', ' cedro', ' cedro', ' picar', ' conejo', ' papá', ' muerto', ' muerto']
+True target word:  huangana
+Predicted neighbors: [' huangana', ' huangana', ' cantar', ' matar', ' matar', ' atizar', ' creer', ' picar', ' hablar', ' soplar']
+True target word:  tubérculo
+Predicted neighbors: [' tubérculo', ' raíz', ' piso', ' guarida', ' hermana', ' hermana', ' matar', ' matar', ' cocinar', ' cocinar']
+True target word:  quedarse
+Predicted neighbors: [' quedarse', ' hablar', ' vivir', ' vivir', ' cantar', ' calmarse', ' calmarse', ' demorar', ' macho', ' loro']
+True target word:  levantar
+Predicted neighbors: [' levantar', ' papá', ' cuñado', ' caer', ' morir', ' ahogarse', ' acabarse', ' deambular', ' encender', ' desamarrar']
+True target word:  coposo
+Predicted neighbors: [' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' coposo', ' llenar', ' colgar', ' ahogarse', ' cantar']
+True target word:  clavar
+Predicted neighbors: [' criar', ' hablar', ' clavar', ' ahogarse', ' cantar', ' atizar', ' querer', ' aumentar', ' aumentar', ' comer']
+True target word:  traer
+Predicted neighbors: [' traer', ' aumentar', ' aumentar', ' trabajar', ' atizar', ' sentarse', ' sentarse', ' sentarse', ' sentar', ' sentar']
+True target word:  madre
+Predicted neighbors: [' madre', ' madre', ' casa', ' casa', ' piel', ' piel', ' corona', ' colgar', ' cantar', ' agruparse']
+True target word:  candela
+Predicted neighbors: [' ahogarse', ' candela', ' candela', ' pudrirse', ' encender', ' oler', ' agua', ' pisar', ' cantar', ' abuela']
+True target word:  bebida
+Predicted neighbors: [' bebida', ' ahogarse', ' extranjero', ' loro', ' papá', ' colgar', ' crecido', ' lupuna', ' líquido', ' bambú']
+True target word:  tangana
+Predicted neighbors: [' tangana', ' flechar', ' flechar', ' flechar', ' flechar', ' engañar', ' ahogarse', ' quebrar', ' raíz', ' aumentar']
+True target word:  rojo
+Predicted neighbors: [' rojo', ' ahogarse', ' comer', ' comer', ' comer', ' oscuro', ' loro', ' brujo', ' pudrirse', ' diablo']
+True target word:  llenar
+Predicted neighbors: [' llenar', ' lanzar', ' matar', ' matar', ' flechar', ' flechar', ' flechar', ' flechar', ' subir', ' ahogarse']
+True target word:  cedro
+Predicted neighbors: [' cedro', ' cedro', ' ahogarse', ' loro', ' brujo', ' papá', ' querer', ' cantar', ' olla', ' arco']
+True target word:  machacar
+Predicted neighbors: [' engañar', ' querer', ' picar', ' ahogarse', ' subir', ' matar', ' matar', ' machacar', ' criar', ' atizar']
+True target word:  todos
+Predicted neighbors: [' todos', ' todos', ' todos', ' casa', ' casa', ' colgar', ' saber', ' solo', ' matar', ' matar']
+True target word:  hueco
+Predicted neighbors: [' hueco', ' hueco', ' picar', ' papá', ' agruparse', ' colgar', ' loro', ' macho', ' oler', ' sobar']
+True target word:  venir
+Predicted neighbors: [' venir', ' venir', ' llorar', ' matar', ' matar', ' pudrirse', ' lanzar', ' correr', ' volar', ' llenar']
+True target word:  espalda
+Predicted neighbors: [' quebrar', ' cortar', ' cortar', ' pisar', ' colgar', ' atizar', ' quedarse', ' cantar', ' subir', ' soplar']
+True target word:  cavar
+Predicted neighbors: [' cavar', ' matar', ' matar', ' pisar', ' pudrirse', ' correr', ' cantar', ' esconder', ' esconder', ' volar']
+True target word:  ser
+Predicted neighbors: [' ser', ' ser', ' hueco', ' hueco', ' sufrir', ' sufrir', ' afaninga', ' afaninga', ' maní', ' movimiento']
+True target word:  río
+Predicted neighbors: [' río', ' mecerse', ' agua', ' correr', ' querer', ' pudrirse', ' ahogarse', ' extranjero', ' hablar', ' papá']
+True target word:  ahí
+Predicted neighbors: [' ahí', ' ahí', ' ahí', ' ahí', ' ella', ' querer', ' roca', ' loro', ' ellas', ' ellas']
+True target word:  esperar
+Predicted neighbors: [' esperar', ' aumentar', ' aumentar', ' soportar', ' atizar', ' mojar', ' mojar', ' ahogarse', ' llegar', ' probar']
+True target word:  movimiento
+Predicted neighbors: [' traer', ' pudrirse', ' llorar', ' oler', ' correr', ' trabajar', ' sobrar', ' sobrar', ' cantar', ' matar']
+True target word:  flechar
+Predicted neighbors: [' flechar', ' flechar', ' flechar', ' flechar', ' matar', ' matar', ' creer', ' llegar', ' quebrar', ' engañar']
+True target word:  hija
+Predicted neighbors: [' hija', ' yerno', ' yerno', ' cuñado', ' papá', ' madre', ' madre', ' abuela', ' hermano', ' hermano']
+True target word:  matar
+Predicted neighbors: [' matar', ' matar', ' pudrirse', ' cavar', ' eliminar', ' bañarse', ' correr', ' cantar', ' batir', ' encender']
+True target word:  ahí
+Predicted neighbors: [' ahí', ' ahí', ' ahí', ' ahí', ' quemar', ' quemar', ' crecido', ' vivir', ' vivir', ' loro']
+True target word:  subir
+Predicted neighbors: [' subir', ' llenar', ' matar', ' matar', ' colgar', ' lanzar', ' quebrar', ' encender', ' quemar', ' quemar']
+True target word:  llamar
+Predicted neighbors: [' llamar', ' llamar', ' llamar', ' ahogarse', ' idioma', ' loro', ' yerno', ' yerno', ' sonso', ' brujo']
+True target word:  bueno
+Predicted neighbors: [' bueno', ' hacer', ' muchacho', ' añuje', ' cantar', ' picar', ' madre', ' madre', ' claro', ' yerno']
+True target word:  hueco
+Predicted neighbors: [' hueco', ' hueco', ' cavar', ' mecerse', ' quemar', ' quemar', ' creer', ' calmarse', ' calmarse', ' subir']
+True target word:  completo
+Predicted neighbors: [' completo', ' todos', ' todos', ' todos', ' hablar', ' pensar', ' tensar', ' tensar', ' mezquinar', ' perder']
+True target word:  calmarse
+Predicted neighbors: [' ahogarse', ' pudrirse', ' calmarse', ' calmarse', ' correr', ' volar', ' mecerse', ' matar', ' matar', ' soplar']
+True target word:  botar
+Predicted neighbors: [' botar', ' sobrar', ' sobrar', ' encender', ' oler', ' soplar', ' soplar', ' soplar', ' picar', ' ahogarse']
+True target word:  árbol
+Predicted neighbors: [' árbol', ' ahogarse', ' quebrar', ' atizar', ' viga', ' matar', ' matar', ' hablar', ' crecido', ' raíz']
+True target word:  así
+Predicted neighbors: [' así', ' así', ' así', ' así', ' así', ' así', ' cantar', ' ahogarse', ' picar', ' pensar']
+True target word:  mi
+Predicted neighbors: [' mi', ' agruparse', ' soportar', ' esconder', ' esconder', ' colgar', ' eliminar', ' botar', ' brotar', ' brotar']
+True target word:  dar
+Predicted neighbors: [' dar', ' molestarse', ' molestarse', ' deambular', ' cantar', ' colgar', ' pisar', ' picar', ' eliminar', ' enroscarse']
+True target word:  joven
+Predicted neighbors: [' joven', ' joven', ' vivir', ' vivir', ' aumentar', ' aumentar', ' tensar', ' tensar', ' lanzar', ' hablar']
+True target word:  taparabos
+Predicted neighbors: [' ahogarse', ' caliente', ' jaguar', ' diablo', ' matar', ' matar', ' atizar', ' bambú', ' colgar', ' quebrar']
+True target word:  doler
+Predicted neighbors: [' ahogarse', ' noche', ' colgar', ' matar', ' matar', ' correr', ' morir', ' oler', ' encender', ' cantar']
+True target word:  final
+Predicted neighbors: [' final', ' ahogarse', ' terminar', ' correr', ' subir', ' hablar', ' pudrirse', ' matar', ' matar', ' pensar']
+True target word:  afaninga
+Predicted neighbors: [' afaninga', ' afaninga', ' querer', ' todos', ' todos', ' todos', ' saber', ' cantar', ' llamar', ' llamar']
+True target word:  mojar
+Predicted neighbors: [' mojar', ' mojar', ' picar', ' eliminar', ' cantar', ' pisar', ' llegar', ' atizar', ' oler', ' matar']
+True target word:  muerto
+Predicted neighbors: [' muerto', ' muerto', ' madre', ' madre', ' muchacho', ' cantar', ' correr', ' joven', ' joven', ' yerno']
+True target word:  costumbre
+Predicted neighbors: [' todos', ' todos', ' todos', ' flechar', ' flechar', ' flechar', ' flechar', ' tortilla', ' querer', ' nosotros']
+True target word:  yo
+Predicted neighbors: [' yo', ' yo', ' creer', ' sobar', ' nido', ' encender', ' matar', ' matar', ' llorar', ' morir']
+True target word:  sentar
+Predicted neighbors: [' colgar', ' sentar', ' sentar', ' sentarse', ' sentarse', ' sentarse', ' cargar', ' cargar', ' cargar', ' cantar']
+True target word:  travieso
+Predicted neighbors: [' ahogarse', ' crecido', ' muerto', ' muerto', ' parrilla', ' parrilla', ' parrilla', ' parrilla', ' atizar', ' roca']
+True target word:  tomar
+Predicted neighbors: [' tomar', ' tomar', ' sobar', ' ahogarse', ' picar', ' subir', ' agruparse', ' cantar', ' soplar', ' soplar']
+True target word:  encontrar
+Predicted neighbors: [' encontrar', ' encontrar', ' pedir', ' pedir', ' cultivar', ' esconder', ' esconder', ' hacer', ' esperar', ' eliminar']
+True target word:  cocinar
+Predicted neighbors: [' picar', ' correr', ' muerto', ' muerto', ' tomar', ' tomar', ' pudrirse', ' cantar', ' ahogarse', ' brujo']
+True target word:  tinaja
+Predicted neighbors: [' tinaja', ' ahogarse', ' papá', ' plato', ' cantar', ' colgar', ' arco', ' hablar', ' jaguar', ' collar']
+True target word:  palo
+Predicted neighbors: [' palo', ' palo', ' olla', ' ahogarse', ' cantar', ' loro', ' mezquino', ' querer', ' oler', ' arco']
+True target word:  guarida
+Predicted neighbors: [' guarida', ' encender', ' matar', ' matar', ' raíz', ' collar', ' papá', ' gallina', ' quebrar', ' semilla']
+True target word:  morir
+Predicted neighbors: [' morir', ' muerto', ' muerto', ' ahogarse', ' yerno', ' yerno', ' viudo', ' cuñado', ' calmarse', ' calmarse']
+True target word:  sentarse
+Predicted neighbors: [' noche', ' sentarse', ' sentarse', ' sentarse', ' raíz', ' sentar', ' sentar', ' matar', ' matar', ' casa']
+True target word:  calmarse
+Predicted neighbors: [' calmarse', ' calmarse', ' sobrar', ' sobrar', ' ahogarse', ' matar', ' matar', ' cantar', ' pudrirse', ' atizar']
+True target word:  abuela
+Predicted neighbors: [' encender', ' abuela', ' lanzar', ' creer', ' sobrar', ' sobrar', ' llorar', ' subir', ' pudrirse', ' llamar']
+True target word:  vivir
+Predicted neighbors: [' vivir', ' vivir', ' colgar', ' demorar', ' hacer', ' llevar', ' cantar', ' pedir', ' pedir', ' tomar']
+True target word:  barriga
+Predicted neighbors: [' botar', ' sobrar', ' sobrar', ' ahogarse', ' soplar', ' soplar', ' soplar', ' atizar', ' brotar', ' brotar']
+True target word:  añuje
+Predicted neighbors: [' añuje', ' matar', ' matar', ' correr', ' pudrirse', ' querer', ' animal', ' picar', ' nadar', ' llegar']
+True target word:  yerno
+Predicted neighbors: [' yerno', ' yerno', ' cargar', ' cargar', ' cargar', ' aumentar', ' aumentar', ' soportar', ' esconder', ' esconder']
+True target word:  saber
+Predicted neighbors: [' saber', ' preguntar', ' preguntar', ' hablar', ' creer', ' sobar', ' probar', ' pensar', ' ahumar', ' ahumar']
+True target word:  sentarse
+Predicted neighbors: [' llenar', ' cantar', ' quebrar', ' ahogarse', ' matar', ' matar', ' engañar', ' criar', ' colgar', ' querer']
+True target word:  cocinar
+Predicted neighbors: [' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' volar', ' llorar', ' quebrar', ' pensar', ' vivir']
+True target word:  mentiroso
+Predicted neighbors: [' mentiroso', ' mentiroso', ' papá', ' matan', ' mezquino', ' yerno', ' yerno', ' nombre', ' diablo', ' crecido']
+True target word:  animal
+Predicted neighbors: [' animal', ' ahogarse', ' vaca', ' correr', ' bambú', ' añuje', ' picar', ' querer', ' papá', ' parrilla']
+True target word:  otro
+Predicted neighbors: [' otro', ' contesta', ' ahogarse', ' muerto', ' muerto', ' madre', ' madre', ' yerno', ' yerno', ' abuela']
+True target word:  cruzar
+Predicted neighbors: [' cruzar', ' correr', ' pensar', ' deambular', ' cavar', ' volar', ' caer', ' eliminar', ' adornarse', ' botar']
+True target word:  lluvia
+Predicted neighbors: [' lluvia', ' saber', ' contar', ' contar', ' contar', ' terminar', ' querer', ' pensar', ' hablar', ' sobar']
+True target word:  golpear
+Predicted neighbors: [' matar', ' matar', ' ahogarse', ' noche', ' picar', ' engañar', ' oler', ' pudrirse', ' cantar', ' joven']
+True target word:  casa
+Predicted neighbors: [' casa', ' casa', ' roca', ' vivir', ' vivir', ' cortar', ' cortar', ' contar', ' contar', ' contar']
+True target word:  colgar
+Predicted neighbors: [' colgar', ' vivir', ' vivir', ' trabajar', ' subir', ' correr', ' cantar', ' quebrar', ' llenar', ' encender']
+True target word:  idioma
+Predicted neighbors: [' idioma', ' atizar', ' colgar', ' noche', ' olla', ' piso', ' hermano', ' hermano', ' mesquinar', ' ahogarse']
+True target word:  doler
+Predicted neighbors: [' cavar', ' doler', ' doler', ' doler', ' oler', ' querer', ' correr', ' criar', ' pudrirse', ' mecerse']
+True target word:  desamarrar
+Predicted neighbors: [' desamarrar', ' adornarse', ' atizar', ' cavar', ' tomar', ' tomar', ' amarrar', ' llenar', ' lanzar', ' subir']
+True target word:  pisar
+Predicted neighbors: [' pisar', ' ahogarse', ' cantar', ' adornarse', ' correr', ' volar', ' soplar', ' soplar', ' soplar', ' colgar']
+True target word:  tensar
+Predicted neighbors: [' tensar', ' tensar', ' madre', ' madre', ' cantar', ' oler', ' soplar', ' soplar', ' soplar', ' pensar']
+True target word:  madre
+Predicted neighbors: [' madre', ' madre', ' abuela', ' quién', ' quién', ' hermana', ' hermana', ' papá', ' matan', ' yerno']
+True target word:  comer
+Predicted neighbors: [' comer', ' comer', ' comer', ' deambular', ' criar', ' ahogarse', ' matar', ' matar', ' oler', ' llegar']
+True target word:  esposa
+Predicted neighbors: [' esposa', ' pudrirse', ' mecerse', ' cuñado', ' criar', ' quebrada', ' acabarse', ' quedarse', ' nieto', ' crecido']
+True target word:  parrilla
+Predicted neighbors: [' parrilla', ' parrilla', ' parrilla', ' parrilla', ' ella', ' ahogarse', ' maní', ' perdiz', ' querer', ' flechar']
+True target word:  parrilla
+Predicted neighbors: [' parrilla', ' parrilla', ' parrilla', ' parrilla', ' querer', ' morir', ' tierra', ' correr', ' volar', ' cantar']
+True target word:  parado
+Predicted neighbors: [' parado', ' casa', ' casa', ' ahogarse', ' crecido', ' oler', ' ella', ' matar', ' matar', ' noche']
+True target word:  flechar
+Predicted neighbors: [' flechar', ' flechar', ' flechar', ' flechar', ' flecha', ' oler', ' engañar', ' cantar', ' pudrirse', ' matar']
+True target word:  sufrir
+Predicted neighbors: [' sufrir', ' sufrir', ' querer', ' ahogarse', ' abuela', ' viuda', ' mecerse', ' papá', ' concha', ' sangre']
+True target word:  majás
+Predicted neighbors: [' majás', ' ahogarse', ' colgar', ' correr', ' enroscarse', ' abuela', ' llenar', ' cargar', ' cargar', ' cargar']
+True target word:  ahumar
+Predicted neighbors: [' ahumar', ' ahumar', ' volar', ' morir', ' contar', ' contar', ' contar', ' querer', ' servir', ' mecerse']
+True target word:  doler
+Predicted neighbors: [' doler', ' doler', ' doler', ' ahogarse', ' hablar', ' pudrirse', ' brujo', ' oler', ' volar', ' cedro']
+True target word:  preguntar
+Predicted neighbors: [' preguntar', ' preguntar', ' contar', ' contar', ' contar', ' cantar', ' encontrar', ' encontrar', ' pedir', ' pedir']
+True target word:  agrupados
+Predicted neighbors: [' ahogarse', ' atizar', ' aumentar', ' aumentar', ' agrupados', ' adornarse', ' enroscarse', ' correr', ' agruparse', ' colgar']
+True target word:  hembra
+Predicted neighbors: [' hembra', ' picar', ' ahogarse', ' querer', ' soplar', ' soplar', ' soplar', ' cantar', ' atizar', ' abuela']
+True target word:  tía
+Predicted neighbors: [' tomar', ' tomar', ' cantar', ' picar', ' colgar', ' subir', ' sobar', ' volar', ' encender', ' soplar']
+True target word:  afaninga
+Predicted neighbors: [' corona', ' roca', ' ahogarse', ' peihata', ' trocha', ' loro', ' vaca', ' pijuayo', ' abuela', ' serpiente']
+True target word:  comer
+Predicted neighbors: [' comer', ' comer', ' comer', ' querer', ' correr', ' picar', ' vivir', ' vivir', ' nadar', ' parrilla']
+True target word:  piedra
+Predicted neighbors: [' piedra', ' yuca', ' hablar', ' ahogarse', ' collar', ' oler', ' raíz', ' tubérculo', ' matar', ' matar']
+True target word:  vivir
+Predicted neighbors: [' ellos', ' ellos', ' ellas', ' ellas', ' cortar', ' cortar', ' todos', ' todos', ' todos', ' diablo']
+True target word:  varios
+Predicted neighbors: [' varios', ' macho', ' diablo', ' correr', ' pudrirse', ' deambular', ' amanecer', ' nido', ' papá', ' sobrar']
+True target word:  ellas
+Predicted neighbors: [' ellos', ' ellos', ' ellas', ' ellas', ' ella', ' ubos', ' lejos', ' lejos', ' lejos', ' ustedes']
+True target word:  nosotros
+Predicted neighbors: [' nosotros', ' pudrirse', ' ahogarse', ' mecerse', ' morir', ' querer', ' volar', ' roca', ' correr', ' hablar']
+True target word:  rama
+Predicted neighbors: [' matar', ' matar', ' cantar', ' hablar', ' creer', ' encender', ' soplar', ' soplar', ' soplar', ' probar']
+True target word:  así
+Predicted neighbors: [' así', ' así', ' así', ' así', ' así', ' así', ' ahogarse', ' llamar', ' llamar', ' llamar']
+True target word:  caoba
+Predicted neighbors: [' correr', ' caoba', ' pudrirse', ' volar', ' cavar', ' ella', ' encender', ' matar', ' matar', ' hablar']
+True target word:  mujer
+Predicted neighbors: [' mujer', ' abuela', ' niño', ' joven', ' joven', ' madre', ' madre', ' vaca', ' trabajador', ' noche']
+True target word:  esconder
+Predicted neighbors: [' lupuna', ' llorar', ' colgar', ' llamar', ' llamar', ' llamar', ' ahogarse', ' cantar', ' sobrar', ' sobrar']
+True target word:  caliente
+Predicted neighbors: [' caliente', ' jaguar', ' ahogarse', ' tensar', ' tensar', ' bambú', ' plátano', ' plátano', ' plátano', ' diablo']
+True target word:  joven
+Predicted neighbors: [' joven', ' joven', ' matar', ' matar', ' morir', ' acabarse', ' crecido', ' encender', ' colgar', ' ahogarse']
+True target word:  redondo
+Predicted neighbors: [' redondo', ' soplar', ' soplar', ' soplar', ' cantar', ' ahogarse', ' picar', ' brotar', ' brotar', ' criar']
+True target word:  batán
+Predicted neighbors: [' batán', ' quebrar', ' vivir', ' vivir', ' colgar', ' cantar', ' ahogarse', ' pudrirse', ' lanzar', ' matar']
+True target word:  ellos
+Predicted neighbors: [' ellos', ' ellos', ' ellas', ' ellas', ' lejos', ' lejos', ' lejos', ' ustedes', ' ella', ' diablo']
+True target word:  así
+Predicted neighbors: [' así', ' así', ' así', ' así', ' así', ' así', ' matar', ' matar', ' picar', ' atizar']
+True target word:  llamar
+Predicted neighbors: [' llamar', ' llamar', ' llamar', ' líquido', ' colgar', ' ahogarse', ' soplar', ' soplar', ' soplar', ' enroscarse']
+True target word:  así
+Predicted neighbors: [' así', ' así', ' así', ' así', ' así', ' así', ' ahogarse', ' piso', ' tubérculo', ' hablar']
+True target word:  toayo
+Predicted neighbors: [' cavar', ' colgar', ' matar', ' matar', ' sobar', ' cortar', ' cortar', ' soplar', ' soplar', ' soplar']
+True target word:  grande
+Predicted neighbors: [' grande', ' ahogarse', ' papá', ' roca', ' pisar', ' crecido', ' collar', ' loro', ' cantar', ' parrilla']
+True target word:  noche
+Predicted neighbors: [' noche', ' mecerse', ' volar', ' doler', ' doler', ' doler', ' deambular', ' hablar', ' matar', ' matar']
+True target word:  aleta
+Predicted neighbors: [' aleta', ' bebida', ' parrilla', ' parrilla', ' parrilla', ' parrilla', ' perdiz', ' piña', ' gallina', ' serpiente']
+True target word:  volar
+Predicted neighbors: [' volar', ' ahumar', ' ahumar', ' morir', ' correr', ' mecerse', ' querer', ' ahogarse', ' sembrar', ' creer']
+True target word:  brasileño
+Predicted neighbors: [' quemar', ' quemar', ' subir', ' llamar', ' llamar', ' llamar', ' vivir', ' vivir', ' colgar', ' tomar']
+True target word:  molestarse
+Predicted neighbors: [' molestarse', ' molestarse', ' sentarse', ' sentarse', ' sentarse', ' cantar', ' sobrar', ' sobrar', ' colgar', ' sentar']
+True target word:  quebrar
+Predicted neighbors: [' quebrar', ' correr', ' brotar', ' brotar', ' volar', ' cantar', ' ahogarse', ' atizar', ' matar', ' matar']
+True target word:  hueso
+Predicted neighbors: [' hueso', ' ellas', ' ellas', ' ellos', ' ellos', ' batán', ' ahogarse', ' loro', ' ella', ' estómago']
+True target word:  amanecer
+Predicted neighbors: [' amanecer', ' criar', ' cantar', ' correr', ' desamarrar', ' matar', ' matar', ' cavar', ' encender', ' volar']
+True target word:  picar
+Predicted neighbors: [' picar', ' atizar', ' tomar', ' tomar', ' subir', ' cantar', ' sobar', ' quemar', ' quemar', ' engañar']
+True target word:  cargar
+Predicted neighbors: [' sentarse', ' sentarse', ' sentarse', ' roca', ' cargar', ' cargar', ' cargar', ' aumentar', ' aumentar', ' acabarse']
+True target word:  ayudar
+Predicted neighbors: [' ayudar', ' quebrar', ' querer', ' batir', ' matar', ' matar', ' eliminar', ' vivir', ' vivir', ' encender']
+True target word:  enamorado
+Predicted neighbors: [' enamorado', ' ahogarse', ' esconder', ' esconder', ' atizar', ' cantar', ' mezquino', ' casa', ' casa', ' crecido']
+True target word:  vaca
+Predicted neighbors: [' vaca', ' ahogarse', ' correr', ' querer', ' lupuna', ' volar', ' quebrar', ' yuca', ' maíz', ' colgar']
+True target word:  viuda
+Predicted neighbors: [' viuda', ' abuela', ' agua', ' madre', ' madre', ' ahogarse', ' yuca', ' querer', ' caoba', ' concha']
+True target word:  adornarse
+Predicted neighbors: [' adornarse', ' terminar', ' papá', ' soplar', ' soplar', ' soplar', ' correr', ' eliminar', ' picar', ' madre']
+True target word:  yuca
+Predicted neighbors: [' yuca', ' maíz', ' llenar', ' ahogarse', ' cantar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar']
+True target word:  brotar
+Predicted neighbors: [' brotar', ' brotar', ' cantar', ' oler', ' soplar', ' soplar', ' soplar', ' encender', ' matar', ' matar']
+True target word:  sonso
+Predicted neighbors: [' sonso', ' diablo', ' nieto', ' saber', ' brujo', ' suyo', ' crecido', ' yerno', ' yerno', ' otro']
+True target word:  paujil
+Predicted neighbors: [' paujil', ' oler', ' ahogarse', ' deambular', ' diablo', ' ella', ' jaguar', ' pudrirse', ' correr', ' cantar']
+True target word:  pudrirse
+Predicted neighbors: [' demorar', ' calmarse', ' calmarse', ' deambular', ' pudrirse', ' hablar', ' quedarse', ' encender', ' ella', ' cortar']
+True target word:  cara
+Predicted neighbors: [' cara', ' esperar', ' pensar', ' pedir', ' pedir', ' mezquinar', ' traer', ' sostener', ' llegar', ' terminar']
+True target word:  renegar
+Predicted neighbors: [' ahogarse', ' renegar', ' enroscarse', ' agruparse', ' querer', ' parrilla', ' parrilla', ' parrilla', ' parrilla', ' pudrirse']
+True target word:  lupuna
+Predicted neighbors: [' lupuna', ' ahogarse', ' cantar', ' correr', ' quebrar', ' jaguar', ' llenar', ' soplar', ' soplar', ' soplar']
+True target word:  criar
+Predicted neighbors: [' criar', ' contar', ' contar', ' contar', ' cantar', ' pensar', ' soplar', ' soplar', ' soplar', ' probar']
+True target word:  flechar
+Predicted neighbors: [' flechar', ' flechar', ' flechar', ' flechar', ' flecha', ' ahogarse', ' querer', ' matar', ' matar', ' pudrirse']
+True target word:  nadar
+Predicted neighbors: [' nadar', ' ahogarse', ' correr', ' soplar', ' soplar', ' soplar', ' cantar', ' pudrirse', ' colgar', ' atizar']
+True target word:  bambú
+Predicted neighbors: [' bambú', ' caer', ' pensar', ' matar', ' matar', ' perder', ' hablar', ' creer', ' cantar', ' jaguar']
+True target word:  ellos
+Predicted neighbors: [' ellos', ' ellos', ' ellas', ' ellas', ' ella', ' ubos', ' lejos', ' lejos', ' lejos', ' ustedes']
+True target word:  escuchar
+Predicted neighbors: [' colgar', ' mesquinar', ' ahogarse', ' atizar', ' adornarse', ' escuchar', ' soplar', ' soplar', ' soplar', ' deambular']
+True target word:  pajarito
+Predicted neighbors: [' matar', ' matar', ' atizar', ' colgar', ' desamarrar', ' adornarse', ' quebrar', ' cavar', ' llenar', ' cantar']
+True target word:  sentarse
+Predicted neighbors: [' traer', ' pudrirse', ' quemar', ' quemar', ' llorar', ' llamar', ' llamar', ' llamar', ' correr', ' barrer']
+True target word:  contar
+Predicted neighbors: [' contar', ' contar', ' contar', ' mezquinar', ' perder', ' cantar', ' volar', ' encontrar', ' encontrar', ' subir']
+True target word:  maquisapa
+Predicted neighbors: [' maquisapa', ' ahogarse', ' criar', ' sobrar', ' sobrar', ' atizar', ' encender', ' volar', ' sobar', ' soplar']
+True target word:  soplar
+Predicted neighbors: [' cantar', ' colgar', ' engañar', ' casa', ' casa', ' soplar', ' soplar', ' soplar', ' hablar', ' encender']
+True target word:  encender
+Predicted neighbors: [' encender', ' correr', ' lanzar', ' abuela', ' subir', ' soplar', ' soplar', ' soplar', ' cantar', ' volar']
+True target word:  líquido
+Predicted neighbors: [' líquido', ' llamar', ' llamar', ' llamar', ' soplar', ' soplar', ' soplar', ' ahogarse', ' esperar', ' pensar']
+True target word:  lejos
+Predicted neighbors: [' comer', ' comer', ' comer', ' lejos', ' lejos', ' lejos', ' venir', ' venir', ' morir', ' llamar']
+True target word:  palo
+Predicted neighbors: [' palo', ' palo', ' arbusto', ' árbol', ' tubérculo', ' joven', ' joven', ' arco', ' hablar', ' casa']
+True target word:  hermana
+Predicted neighbors: [' hermana', ' hermana', ' hermano', ' hermano', ' matar', ' matar', ' lanzar', ' oler', ' llenar', ' subir']
+True target word:  huaca
+Predicted neighbors: [' huaca', ' sentarse', ' sentarse', ' sentarse', ' matar', ' matar', ' subir', ' sentar', ' sentar', ' colgar']
+True target word:  peihata
+Predicted neighbors: [' ella', ' peihata', ' trocha', ' papá', ' picar', ' ellas', ' ellas', ' bebida', ' roca', ' loro']
+True target word:  escapar
+Predicted neighbors: [' vivir', ' vivir', ' aumentar', ' aumentar', ' subir', ' ahogarse', ' criar', ' soplar', ' soplar', ' soplar']
+True target word:  huito
+Predicted neighbors: [' huito', ' adornarse', ' oler', ' amarrar', ' colgar', ' atizar', ' llenar', ' cantar', ' correr', ' flechar']
+True target word:  aumentar
+Predicted neighbors: [' aumentar', ' aumentar', ' llevar', ' sostener', ' sentar', ' sentar', ' subir', ' contar', ' contar', ' contar']
+True target word:  aumentar
+Predicted neighbors: [' aumentar', ' aumentar', ' atizar', ' ahogarse', ' cantar', ' soplar', ' soplar', ' soplar', ' criar', ' llevar']
+True target word:  deambular
+Predicted neighbors: [' comer', ' comer', ' comer', ' ahogarse', ' criar', ' oler', ' deambular', ' colgar', ' volar', ' maíz']
+True target word:  trabajar
+Predicted neighbors: [' trabajar', ' colgar', ' oler', ' cantar', ' ahogarse', ' soplar', ' soplar', ' soplar', ' correr', ' volar']
+True target word:  plato
+Predicted neighbors: [' plato', ' papá', ' arco', ' hablar', ' collar', ' cantar', ' ahogarse', ' piso', ' tazón', ' macho']
+True target word:  tallo
+Predicted neighbors: [' tallo', ' tubérculo', ' ahogarse', ' oler', ' pudrirse', ' cantar', ' hablar', ' noche', ' lupuna', ' matar']
+True target word:  mezquino
+Predicted neighbors: [' mezquino', ' mezquinar', ' volar', ' encender', ' criar', ' subir', ' deambular', ' cantar', ' contar', ' contar']
+True target word:  demorar
+Predicted neighbors: [' demorar', ' deambular', ' calmarse', ' calmarse', ' encender', ' subir', ' quedarse', ' pudrirse', ' hablar', ' correr']
+True target word:  hacer
+Predicted neighbors: [' hacer', ' lanzar', ' viga', ' oler', ' colgar', ' rama', ' rama', ' bueno', ' collar', ' enroscarse']
+True target word:  cortar
+Predicted neighbors: [' cortar', ' cortar', ' correr', ' aumentar', ' aumentar', ' vivir', ' vivir', ' comer', ' comer', ' comer']
+True target word:  contar
+Predicted neighbors: [' contar', ' contar', ' contar', ' pensar', ' creer', ' saber', ' soplar', ' soplar', ' soplar', ' preguntar']
+True target word:  plátano
+Predicted neighbors: [' plátano', ' plátano', ' plátano', ' pisar', ' deambular', ' comer', ' comer', ' comer', ' encender', ' loro']
+True target word:  gallina
+Predicted neighbors: [' gallina', ' cerdo', ' concha', ' querer', ' guarida', ' caoba', ' casa', ' casa', ' noche', ' engañar']
+True target word:  todos
+Predicted neighbors: [' todos', ' todos', ' todos', ' varios', ' pocos', ' nosotros', ' ellos', ' ellos', ' atizar', ' subir']
+True target word:  escapar
+Predicted neighbors: [' escapar', ' escapar', ' eliminar', ' matar', ' matar', ' batir', ' engañar', ' terminar', ' atizar', ' amarrar']
+True target word:  sangre
+Predicted neighbors: [' flechar', ' flechar', ' flechar', ' flechar', ' sangre', ' matar', ' matar', ' llenar', ' ahogarse', ' cantar']
+True target word:  venir
+Predicted neighbors: [' venir', ' venir', ' ahogarse', ' llamar', ' llamar', ' llamar', ' deambular', ' hablar', ' esperar', ' pedir']
+True target word:  pijuayo
+Predicted neighbors: [' pijuayo', ' ahogarse', ' picar', ' viudo', ' crecido', ' correr', ' nadar', ' acabarse', ' papá', ' pudrirse']
+True target word:  amontonado
+Predicted neighbors: [' atizar', ' ahogarse', ' oler', ' soplar', ' soplar', ' soplar', ' cantar', ' criar', ' eliminar', ' llegar']
+True target word:  plátano
+Predicted neighbors: [' cantar', ' pensar', ' llamar', ' llamar', ' llamar', ' brotar', ' brotar', ' sobrar', ' sobrar', ' llorar']
+True target word:  todavía
+Predicted neighbors: [' todavía', ' nadar', ' matar', ' matar', ' adornarse', ' muchacho', ' atizar', ' jaguar', ' tejer', ' llegar']
+True target word:  creer
+Predicted neighbors: [' creer', ' matar', ' matar', ' hablar', ' llegar', ' engañar', ' encender', ' pensar', ' vivir', ' vivir']
+True target word:  bastante
+Predicted neighbors: [' quedarse', ' encender', ' cantar', ' subir', ' vivir', ' vivir', ' llevar', ' lanzar', ' soplar', ' soplar']
+True target word:  pocos
+Predicted neighbors: [' pocos', ' varios', ' ahogarse', ' correr', ' adornarse', ' colgar', ' macho', ' terminar', ' papá', ' otro']
+True target word:  tierra
+Predicted neighbors: [' tierra', ' criar', ' comer', ' comer', ' comer', ' morir', ' matar', ' matar', ' encender', ' correr']
+True target word:  cocinar
+Predicted neighbors: [' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' mojar', ' mojar', ' usar', ' oler', ' cargar']
+True target word:  eliminar
+Predicted neighbors: [' matar', ' matar', ' eliminar', ' terminar', ' correr', ' caer', ' ahogarse', ' atizar', ' cavar', ' pensar']
+True target word:  quemar
+Predicted neighbors: [' quemar', ' quemar', ' subir', ' soplar', ' soplar', ' soplar', ' correr', ' vivir', ' vivir', ' llamar']
+True target word:  cocido
+Predicted neighbors: [' cocido', ' ahogarse', ' crecido', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' papá', ' loro']
+True target word:  estómago
+Predicted neighbors: [' sobrar', ' sobrar', ' ahogarse', ' oler', ' soplar', ' soplar', ' soplar', ' pensar', ' colgar', ' llamar']
+True target word:  mamá
+Predicted neighbors: [' mamá', ' matar', ' matar', ' encender', ' correr', ' cavar', ' cantar', ' morir', ' soplar', ' soplar']
+True target word:  agarrar
+Predicted neighbors: [' pedir', ' pedir', ' cantar', ' colgar', ' contar', ' contar', ' contar', ' sentar', ' sentar', ' mezquinar']
+True target word:  mojar
+Predicted neighbors: [' mojar', ' mojar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' ahogarse', ' esperar', ' matar']
+True target word:  encontrar
+Predicted neighbors: [' quemar', ' quemar', ' cantar', ' tomar', ' tomar', ' encontrar', ' encontrar', ' quebrar', ' vivir', ' vivir']
+True target word:  quién
+Predicted neighbors: [' quién', ' quién', ' ahogarse', ' encender', ' oler', ' colgar', ' terminar', ' cantar', ' pudrirse', ' lavarse']
+True target word:  usar
+Predicted neighbors: [' usar', ' ahogarse', ' hablar', ' matar', ' matar', ' querer', ' pudrirse', ' colgar', ' sobrar', ' sobrar']
+True target word:  cocha
+Predicted neighbors: [' bañarse', ' matar', ' matar', ' colgar', ' hablar', ' ahogarse', ' pudrirse', ' flechar', ' flechar', ' flechar']
+True target word:  roca
+Predicted neighbors: [' roca', ' ahogarse', ' colgar', ' casa', ' casa', ' noche', ' papá', ' matar', ' matar', ' oler']
+True target word:  brotar
+Predicted neighbors: [' cantar', ' volar', ' correr', ' subir', ' brotar', ' brotar', ' vivir', ' vivir', ' cavar', ' colgar']
+True target word:  acabarse
+Predicted neighbors: [' ahogarse', ' loro', ' olla', ' matar', ' matar', ' cocinar', ' cocinar', ' cocinar', ' cocinar', ' cocinar']
+True target word:  muchacho
+Predicted neighbors: [' muchacho', ' matar', ' matar', ' pedir', ' pedir', ' lanzar', ' hacer', ' soportar', ' cantar', ' cavar']
+True target word:  voltear
+Predicted neighbors: [' matar', ' matar', ' ahogarse', ' yerno', ' yerno', ' otro', ' soplar', ' soplar', ' soplar', ' colgar']
+True target word:  correr
+Predicted neighbors: [' correr', ' volar', ' adornarse', ' deambular', ' atizar', ' ahogarse', ' crecido', ' cavar', ' cruzar', ' pudrirse']
+True target word:  hermano
+Predicted neighbors: [' hermano', ' hermano', ' hermana', ' hermana', ' colgar', ' adornarse', ' ahogarse', ' llenar', ' encender', ' pudrirse']
+True target word:  espina
+Predicted neighbors: [' llorar', ' cavar', ' pudrirse', ' correr', ' matar', ' matar', ' esperar', ' colgar', ' cantar', ' hablar']
+True target word:  olla
+Predicted neighbors: [' olla', ' matan', ' roca', ' querer', ' papá', ' loro', ' ahogarse', ' quebrada', ' cantar', ' bambú']
+True target word:  hablar
+Predicted neighbors: [' hablar', ' árbol', ' cantar', ' tazón', ' tubérculo', ' plato', ' plátano', ' plátano', ' plátano', ' noche']
+True target word:  cabeza
+Predicted neighbors: [' cabeza', ' matar', ' matar', ' hacer', ' engañar', ' terminar', ' morir', ' batir', ' espalda', ' pensar']
+True target word:  conejo
+Predicted neighbors: [' yuca', ' conejo', ' ella', ' ahogarse', ' llenar', ' maíz', ' ellas', ' ellas', ' jaguar', ' matar']
+True target word:  pescado
+Predicted neighbors: [' noche', ' abuela', ' pescado', ' gallina', ' hermana', ' hermana', ' papá', ' hermano', ' hermano', ' piña']
+True target word:  caer
+Predicted neighbors: [' caer', ' jaguar', ' eliminar', ' correr', ' ahogarse', ' botar', ' cavar', ' terminar', ' clavar', ' adornarse']
+True target word:  collar
+Predicted neighbors: [' tensar', ' tensar', ' cargar', ' cargar', ' cargar', ' encender', ' terminar', ' collar', ' eliminar', ' cavar']
+True target word:  huangana
+Predicted neighbors: [' huangana', ' huangana', ' ahogarse', ' parrilla', ' parrilla', ' parrilla', ' parrilla', ' brujo', ' collar', ' cedro']
+True target word:  piel
+Predicted neighbors: [' piel', ' piel', ' hueco', ' hueco', ' atizar', ' picar', ' casa', ' casa', ' quemar', ' quemar']
+True target word:  brujo
+Predicted neighbors: [' brujo', ' ahogarse', ' encender', ' mezquino', ' rojo', ' mezquinar', ' volar', ' renegar', ' cedro', ' cedro']
+True target word:  pedir
+Predicted neighbors: [' pedir', ' pedir', ' cantar', ' esperar', ' encontrar', ' encontrar', ' contar', ' contar', ' contar', ' hablar']
+True target word:  viejita
+Predicted neighbors: [' viejita', ' abuela', ' casa', ' casa', ' madre', ' madre', ' ahogarse', ' agua', ' piel', ' piel']
+True target word:  ahogarse
+Predicted neighbors: [' ahogarse', ' líquido', ' picar', ' cantar', ' soplar', ' soplar', ' soplar', ' tomar', ' tomar', ' encender']
+True target word:  así
+Predicted neighbors: [' papá', ' ahogarse', ' matar', ' matar', ' encender', ' casa', ' casa', ' terminar', ' atizar', ' yerno']
+True target word:  molestarse
+Predicted neighbors: [' molestarse', ' molestarse', ' cantar', ' enroscarse', ' agruparse', ' ahogarse', ' correr', ' mecerse', ' brotar', ' brotar']
+True target word:  camino
+Predicted neighbors: [' camino', ' arco', ' pisar', ' picar', ' comer', ' comer', ' comer', ' plato', ' loro', ' cantar']
+True target word:  bañarse
+Predicted neighbors: [' bañarse', ' cavar', ' desamarrar', ' lavarse', ' matar', ' matar', ' subir', ' tomar', ' tomar', ' colgar']
+True target word:  así
+Predicted neighbors: [' así', ' así', ' así', ' así', ' así', ' así', ' picar', ' colgar', ' ahogarse', ' cantar']
+True target word:  ciertamente
+Predicted neighbors: [' quemar', ' quemar', ' correr', ' soplar', ' soplar', ' soplar', ' encender', ' rojo', ' brujo', ' cantar']
+True target word:  nido
+Predicted neighbors: [' nido', ' llorar', ' oler', ' pensar', ' colgar', ' cantar', ' trabajar', ' soplar', ' soplar', ' soplar']
+True target word:  soplar
+Predicted neighbors: [' ahogarse', ' soplar', ' soplar', ' soplar', ' colgar', ' cantar', ' aumentar', ' aumentar', ' llenar', ' contar']
+True target word:  ser
+Predicted neighbors: [' así', ' así', ' así', ' así', ' así', ' así', ' picar', ' colgar', ' ser', ' ser']
+True target word:  nieto
+Predicted neighbors: [' nieto', ' sobrino', ' yerno', ' yerno', ' papá', ' abuela', ' hermano', ' hermano', ' piso', ' niño']
+True target word:  sentar
+Predicted neighbors: [' sentarse', ' sentarse', ' sentarse', ' matar', ' matar', ' sentar', ' sentar', ' engañar', ' noche', ' mecerse']
+True target word:  quebrada
+Predicted neighbors: [' quebrada', ' quebrar', ' pedir', ' pedir', ' querer', ' usar', ' encontrar', ' encontrar', ' atizar', ' cargar']
+True target word:  oscuro
+Predicted neighbors: [' oscuro', ' cantar', ' encender', ' oler', ' quién', ' quién', ' matar', ' matar', ' molestarse', ' molestarse']
+True target word:  cultivar
+Predicted neighbors: [' cultivar', ' atizar', ' hacer', ' desamarrar', ' cavar', ' colgar', ' sobrar', ' sobrar', ' cargar', ' cargar']
+True target word:  arbusto
+Predicted neighbors: [' arbusto', ' palo', ' palo', ' árbol', ' tubérculo', ' arco', ' brujo', ' loro', ' nadar', ' jaguar']
+True target word:  otra
+Predicted neighbors: [' otra', ' subir', ' otro', ' mesquinar', ' terminar', ' cantar', ' llenar', ' hablar', ' vivir', ' vivir']
+True target word:  cuñado
+Predicted neighbors: [' cuñado', ' crecido', ' pisar', ' yerno', ' yerno', ' engañar', ' correr', ' picar', ' encender', ' quemar']
+True target word:  maduro
+Predicted neighbors: [' rojo', ' maduro', ' líquido', ' oscuro', ' loro', ' plátano', ' plátano', ' plátano', ' barro', ' ahogarse']
+True target word:  papá
+Predicted neighbors: [' papá', ' cantar', ' encender', ' colgar', ' adornarse', ' pudrirse', ' terminar', ' aumentar', ' aumentar', ' querer']
+True target word:  tortilla
+Predicted neighbors: [' tortilla', ' guarida', ' papá', ' hija', ' agua', ' viga', ' ella', ' abuela', ' nieto', ' sobrino']
+True target word:  hermano
+Predicted neighbors: [' hermano', ' hermano', ' botar', ' subir', ' sobrar', ' sobrar', ' criar', ' tomar', ' tomar', ' soplar']
+True target word:  alacrán
+Predicted neighbors: [' alacrán', ' brujo', ' picar', ' atizar', ' ahogarse', ' serpiente', ' cedro', ' cedro', ' matar', ' matar']
+True target word:  muela
+Predicted neighbors: [' muela', ' ahogarse', ' oler', ' collar', ' aumentar', ' aumentar', ' sobrar', ' sobrar', ' atizar', ' encender']
+True target word:  ahí
+Predicted neighbors: [' ahí', ' ahí', ' ahí', ' ahí', ' correr', ' cantar', ' aumentar', ' aumentar', ' llenar', ' enroscarse']
+True target word:  barro
+Predicted neighbors: [' roca', ' ahogarse', ' olla', ' barro', ' aumentar', ' aumentar', ' cocinar', ' cocinar', ' cocinar', ' cocinar']
+True target word:  rama
+Predicted neighbors: [' rama', ' rama', ' colgar', ' querer', ' soplar', ' soplar', ' soplar', ' ahogarse', ' quebrar', ' criar']
+True target word:  contar
+Predicted neighbors: [' contar', ' contar', ' contar', ' pensar', ' creer', ' saber', ' soplar', ' soplar', ' soplar', ' llorar']
+True target word:  pedir
+Predicted neighbors: [' pedir', ' pedir', ' esperar', ' usar', ' preguntar', ' preguntar', ' cocinar', ' cocinar', ' cocinar', ' cocinar']
+True target word:  chacra
+Predicted neighbors: [' chacra', ' yuca', ' bebida', ' agrupados', ' ahogarse', ' ella', ' parrilla', ' parrilla', ' parrilla', ' parrilla']
+True target word:  desear
+Predicted neighbors: [' desear', ' piso', ' loro', ' nido', ' jaguar', ' macho', ' cantar', ' papá', ' oler', ' lupuna']
+True target word:  parinari
+Predicted neighbors: [' matar', ' matar', ' colgar', ' encender', ' subir', ' cantar', ' ahogarse', ' soplar', ' soplar', ' soplar']

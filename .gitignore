@@ -14,3 +14,12 @@ __pycache__/
 checkpoint-1500
 model.safetensors
 optimizer.pt
+
+cc.es.300.bin
+cc.es.300.bin.gz
+
+model12
+
+mapping
+
+tokenizer
